@@ -1,5 +1,5 @@
 🇨🇳重庆频道,#genre#
-重庆卫视,http://125.82.168.238:8888/udp/235.254.196.249:1268
+重庆新闻,,https://sjlivecdn9.cbg.cn/202404051554/app_2/_definst_/ls_3.stream/chunklist.m3u8
 重庆新闻,http://125.82.168.238:8888/udp/235.254.196.199:7980
 重庆影视,http://125.82.168.238:8888/udp/235.254.198.180:7980
 重庆社会与法,http://125.82.168.238:8888/udp/235.254.198.181:7980
@@ -18,7 +18,6 @@
 秀山综合,http://125.82.168.238:8888/udp/235.254.199.239:7980
 黔江综合,http://125.82.168.238:8888/udp/235.254.199.233:7980
 
-重庆卫视,http://ddns.hlace.com:8888/rtp/235.254.196.249:1268
 重庆新闻,http://ddns.hlace.com:8888/rtp/235.254.196.199:7980
 重庆影视,http://ddns.hlace.com:8888/rtp/235.254.198.180:7980
 重庆社会与法,http://ddns.hlace.com:8888/rtp/235.254.198.181:7980
@@ -36,7 +35,7 @@
 开州综合,http://ddns.hlace.com:8888/rtp/235.254.198.145:1870
 秀山综合,http://ddns.hlace.com:8888/rtp/235.254.199.239:7980
 黔江综合,http://ddns.hlace.com:8888/rtp/235.254.199.233:7980
-重庆卫视,http://106.86.155.226:20002/udp/235.254.196.249:1268
+
 重庆新闻,http://106.86.155.226:20002/udp/235.254.196.199:7980
 重庆影视,http://106.86.155.226:20002/udp/235.254.198.180:7980
 重庆社会与法,http://106.86.155.226:20002/udp/235.254.198.181:7980
@@ -697,15 +696,15 @@ RTHK32,http://ali.hlspull.yximgs.com/live/huanqiuhklivejpjjecxvjjusjfjjfdhnbthjj
 
 中天新闻台,http://livetv.skycf.eu.org/live.m3u8?c=7
 中天亚洲台,http://livetv.skycf.eu.org/live.m3u8?c=3
-TVBS新闻台,http://ali.hlspull.yximgs.com/live/huanqiuhklivejojwhjxojhjjjlfhjljsjcnxjfvbhjdjwjfjjdsswvtvbsxw.flv
-TVBSHD台,http://ali.hlspull.yximgs.com/live/huanqiuhklivejpjovdxjojfdejodsjxcvljjfvhnjljjjobjjjsvhjchtvbs.flv
+TVBS新闻台,https://cdn.ggapk.net/live/tv?id=cec5YyUP0TiKzYLtjkl-Lg6yH6Cpiih1_H1Bsoel8C1_CCfim7JZcyZlDKiBCvVzXsBt8h5H-nkYuATy9ix48Mw_HfIaO10A5O7wnz5bQcz7FsjGdqkciXBIBXSzJRBpRy4OwfmLHADNAWrY1q_LTJJ3XZ_Sb-W5114WooillThkQKCJ-n4eZ6Js_ahpkPi_dMRxJnsmRKaib2CmgjxQqNd6wQL8to6myNhnL5OIBFT0bT9eutyNSMPya50cDdpkjvt8bIk5pXRkFUUsTatvuNJnKhpcyxBFJW2rHQ1hMzjEcuNWNhkxK0sZJZhjBCmKZ0sK7sCgMNPPUOSXnq1cBLBthmpF5n6GxNpw9VnDZlk91mHb3duim0OxDITsvk9_u2aYyF65kii25YivB8YuuDeFIh-UBEQ2nKglkQbHUH0ZueCQ4J_dJ4cm3J5jo3fBjcDYXnTK1A-PlE6AxLw2ntbOH1XLoVHC-Z2Rj48vXbkN0en3vZ2UURchUscp28HhsMd_lncm0p8meNzhDtvXBcPBkvCcmBFd0YmQpOBrEjExrP475RvqUnnWAunmA6VATPJEM5gQfRJa3FkU0pr4PYvZ2XhIbbGE44vJWo3N1siWEaW3f7KZEA0MyLV_dsNz3kng_gv7IYotHS8&idp=ecafNA6g2kfU2JLAnfxZQ8NdmUOFQ6rVcCTfQt9wmY5cjz1poLAMQjYjkg
+TVBSHD台,https://cdn.ggapk.net/live/tv?id=63455g3-TrIw1lh0ZJGwx4NWApkJu3MfdbKpIRyVrbBlURIkHp_vc4g6GrD4L5lncO1Afz6XyltryAZ6TDXLxtMCpLf7jHAOqzT02j0utfmT0Ve2nI3jw-BRsf5KJJgmLyVJOcIXf9KjNDkEpQz3S8mHIRzMmHTf_OD9jBgbYzLXXUxG_HGw2DMrOJj1VzlzmQn7l6wQpwcAy16UQkHsyzVfsCAkUWvKqCIqRofHuZIRVRiHOpY8T4Hm5RXv99ETKHj1evxR0i72Ia1g0lDd-5b4jq7lSdGJZUH0wcatKgFdRXl08CgJYNHT8AiKO2UBO5owmCufiNOn8wQOMRjzdQZZDz3WxkJgj77koC2qgOQB1tVrxl2ZUfINEaGFKmjApQb-gctIWKLylx5QvQ5ent22rDbpGw7SvZBZegLpIP7eTyERLOdKNP9BDXwFOHnH65mjVkd9uNbMDbwDR9tHr95UkoImhYsqZoYowvK6AbbFD0ZzE8A8ifTSZRJkOempbN5DlVqtw33d9XUVAhawREtHF9a_KDRm6DJh4vxibsoVTpO4XAetLpkrS79r8wq6J_iVfkah0P2LXikoN-RVG7Zl7s-9p8U32NLw1q6bs5v3cko_daQcCJhfVlHRNzn5V6NhUk9gynL5hMg&idp=21e6_Ab8_sB4303KNquyQYwqP6WdsHwj5US3FMVSxxtq2n6AGqrpzNFVPw
 东森经财台,http://livetv.skycf.eu.org/live.m3u8?c=14
 东森新闻台,http://livetv.skycf.eu.org/live.m3u8?c=9
 三立新闻台,http://livetv.skycf.eu.org/live.m3u8?c=12
 三立LIVE台,http://ali.hlspull.yximgs.com/live/huanqiuhklivehmcyoywjjubjfdjfvchtcbsjjjvfjhncvndvbsxcbmjsllive.flv
 年代新闻台,http://ali.hlspull.yximgs.com/live/huanqiuhkliveojevdyscvbudlojlnsfjewtjudvbbjxfjnjlvcjdjdnjxw.flv
 非凡新闻台,http://ali.hlspull.yximgs.com/live/huanqiuhklivesjtnfjjojdcbfcxvjfuujjwejjjsjyuhhdjsjhjynffxw.flv
-壹新闻频道,http://ali.hlspull.yximgs.com/live/huanqiuhklivemjfoyjvjsdvbnwejtjujjxjcvfjjsjfhfjddjjlhtbchyxw.flv
+壹新闻频道,https://cdn.ggapk.net/live/tv?id=1910aWrDhT82wXJSU65EmxXew00LKX55nostBpzbP5hXPFCfN3wq282AysUN5c3YUYZiq935ojuoKzDSFX9MwNedOCOz4VTpIrQo_hYu4ymUUHu694X8j9XUrhZ3t1MXUjLF1bnlxT6kk98-xz7H-2VwMMUCSauQ0HMUP5NbL-4fbJl8T_ZYRo0oDciP_iVPMDXm7xVbDT-dbsykmSjREt69WvcpbYS446F1x4FbcgysP0rsPMhUxI_oMJySSkbwL0LK-Ug4jOxkMjLKcTz352XfN69oipLW5Mbus5th6o0c7i89jvzJOimWrREWZAQoSU6ZAB_LdxA5SawRvFJU6BkI4AYZ8Qq7-ASuKnuYPCJ2gqpvzZLT-AnL0gH2nS-oE5ev4usyOHUBfiwAOBLOZSPOgG9iY3UIdHu2eu4DjtCNoJazni5FEn6I3KUIbHZagBKu_wKzA1M5OovqIKjCyv6NfPutS8r5mrSqLh8tojGN7b5SzSbVUSmKTXXrXDYx355VBunT7jMcJmiRiEwYdKq93c_s7jGZhFc5NMHrsuDWl8sq3BGfuhqGoeT0IU_tUWL-X_SkIjzJ1ZvbtK8u5pqf2IVjrMxtRwmqEOaKNdZkDmpHfGswfTX7rxTpNH24HrMovjzueQHAi-4&idp=a8f0P0NLNatLbp_m6-AVn9OMsa8Mc2y8vHKxV5Ayzcr_9pHsppE3zi6bPQ
 镜新闻频道,http://livetv.skycf.eu.org/live.m3u8?c=10
 中视新闻台,http://livetv.skycf.eu.org/live.m3u8?c=6
 华视新闻台,http://livetv.skycf.eu.org/live.m3u8?c=13
