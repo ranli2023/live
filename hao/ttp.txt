@@ -11,7 +11,17 @@
       "quickSearch": 0,
       "filterable": 0
     },
-
+    {
+      "key": "玩偶",
+      "name": "🇨🇳┃玩偶┃哥哥┃",
+      "type": 3,
+      "api": "csp_WoGG",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "https://bitbucket.org/ranli2000/tvbox/raw/1ffc23925cc0d4d94741dc479433abe3e5d8f625/json/abc.json"
+    },
+   
     {
       "key": "csp_Bttoo",
       "name": "🍄┃比特┃秒播┃",
@@ -20,18 +30,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
-    }, 
-      {
-      "key": "玩偶哥哥",
-      "name": "🇨🇳┃玩偶┃哥哥┃",
-      "type": 3,
-      "api": "csp_WoGG",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "./json/玩偶哥哥.json"
-    },    
-     
+    },      
        {
       "key": "南瓜",
       "name": "🎃┃南瓜┃App┃",
@@ -43,28 +42,29 @@
       "quickSearch": 1,
       "changeable": 1
     },
-       {
+     {
       "key": "种子短剧",
       "name": "🍒┃短剧┃种子┃",
       "type": 3,
-      "api": "./drpy2.min.js",
+      "api": "https://bitbucket.org/ranli2000/tvbox/raw/28265f35d4546c6921fd7aef6e51692476c54d37/drpy2.min.js",
       "ext": "http://dt.xn--yety82d.love/js/种子短剧.js",
       "playerType": 2
     },
+
  {
             "key": "drpy_js_好趣网",
             "name": "📺︎┃电视┃直播┃",
             "type": 3,
-            "api": "./drpy2.min.js",
+            "api": "https://bitbucket.org/ranli2000/tvbox/raw/28265f35d4546c6921fd7aef6e51692476c54d37/drpy2.min.js",
             "changeable": 0,
             "playerType": "1",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./js/好趣网.js"
+            "ext": "https://bitbucket.org/ranli2000/tvbox/raw/28265f35d4546c6921fd7aef6e51692476c54d37/js/%E5%A5%BD%E8%B6%A3%E7%BD%91.js"
         },
        
-       
+
      {
       "key": "YGP",
       "name": "🚀┃荐影┃新片┃",
@@ -131,7 +131,17 @@
       "changeable": 1,
       "ext": "https://www.maolvys.com/"
     },
-       {
+    {
+      "key": "csp_Nmys",
+      "name": "🌾┃农民┃直连┃",
+      "type": 3,
+      "api": "csp_Nmys",
+      "timeout": 15,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://bitbucket.org/ranli2000/tvbox/raw/595ced33956134ddfeeee8d41546bd948eb6acaa/json/nmys.json"
+    },       {
       "key": "Lib",
       "name": "🌟┃立播┃直连┃",
       "type": 3,
@@ -171,8 +181,8 @@
       "quickSearch": 1,
       "changeable": 1,
       "playerType": "1",
-      "api": "./drpy2.min.js",
-      "ext": "./js/jp.js"
+      "api": "https://bitbucket.org/ranli2000/tvbox/raw/28265f35d4546c6921fd7aef6e51692476c54d37/drpy2.min.js",
+      "ext": "https://bitbucket.org/ranli2000/tvbox/raw/c76e9b2abf33f855f212698a10e81703166f3451/js/jp.js"
     },
     {
       "key": "新6V",
@@ -280,20 +290,20 @@
 {"key":"dr_荐片",
 "name":"🧲┃荐片┃解析┃",
 "type":3,
-"api":"./drpy2.min.js",
+"api":"https://bitbucket.org/ranli2000/tvbox/raw/28265f35d4546c6921fd7aef6e51692476c54d37/drpy2.min.js",
 "playerType":"1",
 "searchable":1,
 "quickSearch":1,
 "filterable":1,
-"ext":"./js/荐片.js"
+"ext":"https://bitbucket.org/ranli2000/tvbox/raw/ac05adc8740fe1f32c456cda453d5c1422d31550/js/%E8%8D%90%E7%89%87.js"
 },
 
    {
       "key": "88js",
-      "name": "⚽┃ 88 ┃看球┃",
+      "name": "⚽┃直播┃看球┃",
       "type": 3,
-      "api": "./drpy2.min.js",
-      "ext": "./js/88看球.js",
+      "api": "https://bitbucket.org/ranli2000/tvbox/raw/28265f35d4546c6921fd7aef6e51692476c54d37/drpy2.min.js",
+      "ext": "https://bitbucket.org/ranli2000/tvbox/raw/4a7e24abda43168f7d1d455b34cdbb46e0b90166/js/88%E7%9C%8B%E7%90%83(3).txt",
       "style": {
         "type": "rect",
         "ratio": 1
@@ -306,8 +316,8 @@
       "key": "csp_qiumi",
       "name": "⚽┃ Jrs ┃球迷┃",
       "type": 3,
-      "api": "./drpy2.min.js",
-      "ext": "./js/jrk.js",
+      "api": "https://bitbucket.org/ranli2000/tvbox/raw/28265f35d4546c6921fd7aef6e51692476c54d37/drpy2.min.js",
+      "ext": "https://bitbucket.org/ranli2000/tvbox/raw/34defb31a761a6f3b59e7e5d56f5854863d051f8/js/jrk.js",
       "style": {
         "type": "rect",
         "ratio": 1
@@ -320,8 +330,8 @@
       "key": "csp_310直播",
       "name": "⚽┃ 310 ┃看球┃",
       "type": 3,
-      "api": "./drpy2.min.js",
-      "ext": "./js/310直播.js",
+      "api": "https://bitbucket.org/ranli2000/tvbox/raw/28265f35d4546c6921fd7aef6e51692476c54d37/drpy2.min.js",
+      "ext": "https://bitbucket.org/ranli2000/tvbox/raw/28265f35d4546c6921fd7aef6e51692476c54d37/js/310%E7%9B%B4%E6%92%AD.js",
       "style": {
         "type": "rect",
         "ratio": 1
@@ -336,11 +346,11 @@
             "key": "dr_虎牙直播",
             "name": "🐯┃虎牙┃直播┃",
             "type": 3,
-            "api": "./drpy2.min.js",
+            "api": "https://bitbucket.org/ranli2000/tvbox/raw/28265f35d4546c6921fd7aef6e51692476c54d37/drpy2.min.js",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "./js/虎牙直播.js"
+            "ext": "https://bitbucket.org/ranli2000/tvbox/raw/28265f35d4546c6921fd7aef6e51692476c54d37/js/%E8%99%8E%E7%89%99%E7%9B%B4%E6%92%AD.js"
         },
 
 
@@ -353,14 +363,14 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "./json/美食.json"
+            "ext": "https://bitbucket.org/ranli2000/tvbox/raw/28265f35d4546c6921fd7aef6e51692476c54d37/json/%E7%BE%8E%E9%A3%9F.json"
         },
    
         {"key":"dr_兔小贝",
         "name":"📚┃儿童┃启蒙┃",
         "type":3,
-        "api":"./drpy2.min.js",
-        "ext":"./js/儿童启蒙.js",
+        "api":"https://bitbucket.org/ranli2000/tvbox/raw/28265f35d4546c6921fd7aef6e51692476c54d37/drpy2.min.js",
+        "ext":"https://bitbucket.org/ranli2000/tvbox/raw/595ced33956134ddfeeee8d41546bd948eb6acaa/js/%E5%84%BF%E7%AB%A5%E5%90%AF%E8%92%99.js",
         "style":{"type":"rect","ratio":1.597},
         "searchable": 0,
         "quickSearch": 0,
@@ -376,7 +386,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "./json/幼小.json"
+            "ext": "https://bitbucket.org/ranli2000/tvbox/raw/28265f35d4546c6921fd7aef6e51692476c54d37/json/%E5%B9%BC%E5%B0%8F.json"
         },
         {
             "key": "小学",
@@ -386,7 +396,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "./json/小学.json"
+            "ext": "https://bitbucket.org/ranli2000/tvbox/raw/28265f35d4546c6921fd7aef6e51692476c54d37/json/%E5%B0%8F%E5%AD%A6.json"
         },
         {
             "key": "初中",
@@ -396,7 +406,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-           "ext": "./json/初中.json"
+           "ext": "https://bitbucket.org/ranli2000/tvbox/raw/28265f35d4546c6921fd7aef6e51692476c54d37/json/%E5%88%9D%E4%B8%AD.json"
         },
        
         
@@ -409,7 +419,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-           "ext": "./json/高中.json"
+           "ext": "https://bitbucket.org/ranli2000/tvbox/raw/28265f35d4546c6921fd7aef6e51692476c54d37/json/%E9%AB%98%E4%B8%AD.json"
         },
        
         {"key":"外语",
@@ -420,7 +430,7 @@
         "searchable": 0,
         "quickSearch": 0,
         "changeable": 0,
-        "ext": "./json/外语.json"
+        "ext": "https://bitbucket.org/ranli2000/tvbox/raw/28265f35d4546c6921fd7aef6e51692476c54d37/json/%E5%A4%96%E8%AF%AD.json"
         },
        {"key":"高考",
         "name":"📚┃学堂┃高考┃",
@@ -430,7 +440,7 @@
         "searchable": 0,
         "quickSearch": 0,
         "changeable": 0,
-        "ext": "./json/高考.json"
+        "ext": "https://bitbucket.org/ranli2000/tvbox/raw/28265f35d4546c6921fd7aef6e51692476c54d37/json/%E9%AB%98%E8%80%83.json"
         },  {
             "key": "设计",
             "name": "📚┃设计┃教程┃",
@@ -439,7 +449,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "./json/jixie.json"
+            "ext": "https://bitbucket.org/ranli2000/tvbox/raw/28265f35d4546c6921fd7aef6e51692476c54d37/json/jixie.json"
         },
        
        {"key":"Excel",
@@ -450,7 +460,7 @@
         "searchable": 0,
         "quickSearch": 0,
         "changeable": 0,
-        "ext": "./json/Excel教程.json"
+        "ext": "https://bitbucket.org/ranli2000/tvbox/raw/28265f35d4546c6921fd7aef6e51692476c54d37/json/Excel%E6%95%99%E7%A8%8B.json"
         },
         {
             "key": "戏曲",
@@ -460,7 +470,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "./json/戏曲.json"
+            "ext": "https://bitbucket.org/ranli2000/tvbox/raw/28265f35d4546c6921fd7aef6e51692476c54d37/json/%E6%88%8F%E6%9B%B2.json"
         },
 
 {
@@ -470,7 +480,7 @@
       "api": "csp_Market",
       "quickSearch": 0,
        "filterable": 0,
-      "ext": "./json/应用商店.json",
+      "ext": "https://s2.pub/mingshi",
       "jar": "https://bitbucket.org/ranli2000/tvbox/raw/main/jar/%E5%90%8D%E5%B1%85.txt"
     },
      
@@ -642,7 +652,7 @@
     {
       "name": "live",
       "type": 0,
-      "url": "./hao/lives.json",
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/ranli2023/live/main/lives.json",
       "playerType": 1,
       "epg": "http://diyp.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
