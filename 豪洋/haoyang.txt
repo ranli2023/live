@@ -1,0 +1,42 @@
+{ "urls": [{ "url": "https://s2.pub/666518",
+"name": "豪洋" },
+         
+          {
+            "url": "https://s2.pub/1gk",
+            "name": "红薯"
+        },
+
+        {
+            "url": "http://我不是.肥猫.live/接口禁止贩卖",
+            "name": "肥猫"
+        },
+      
+
+        
+        {
+            "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
+            "name": "南风"
+        },
+     
+        
+        {
+            "url": "http://52pan.top:81/api/v3/file/get/174964/%E5%90%BE%E7%88%B1%E8%AF%84%E6%B5%8B.m3u?sign=rPssLoffquDXszCARt6UNF8MobSa1FA27XomzOluJBY%3D%3A0",
+            "name": "吾爱"
+        },
+        {
+            "url": "https://pastebin.com/raw/5NHaxyGR",
+            "name": "道长"
+        },
+       {
+            "url": "http://饭太硬.top/tv",
+            "name": "饭太硬"
+        },
+        {
+            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
+            "name": "香雅情"
+        },
+        {
+            "url": "http://rihou.cc:99/荷城茶秀",
+            "name": "荷城茶秀"
+        }
+]}
