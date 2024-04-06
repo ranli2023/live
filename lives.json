@@ -1,5 +1,5 @@
 🇨🇳重庆频道,#genre#
-
+重庆新闻,https://sjlivecdn9.cbg.cn/202906282314/app_2/_definst_/ls_3.stream/chunklist.m3u8
 重庆新闻,http://125.82.168.238:8888/udp/235.254.196.199:7980
 重庆影视,http://125.82.168.238:8888/udp/235.254.198.180:7980
 重庆社会与法,http://125.82.168.238:8888/udp/235.254.198.181:7980
@@ -111,6 +111,7 @@
 梁平综合,https://qxlmlive9.cbg.cn/applive/lplive01/chunklist.m3u8
 璧山综合,http://222.179.42.129:8181/hls1.m3u8
 大足综合,http://218.201.85.71:3170/m3u8
+大足综合,http://218.201.85.71:3170/m3u8?zzhongqd
 荣昌综合,http://183.64.181.25:40023/rongchang01.m3u8
 荣昌综合,http://183.64.181.25:40023/rongchang01.m3u8?zzhongqd
 北碚综合,http://222.178.181.121:12034/beibei01.m3u8
@@ -685,14 +686,13 @@ TVB星河粤,http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
 TVB星河国,http://ali.hlspull.yximgs.com/live/huanqiuhklivejjmjptvjsjjwxnhjjwjjtjjjtyfjsjjsjcfjxfjwmxjdtvbxh.flv
 TVB娱乐台,http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
 TVB功夫台,https://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
-天映频道粤,http://ali.hlspull.yximgs.com/live/huanqiuhklivejejcxlvofbjbvnjjsfjvbhfhcvxcvjsjbcvjfdvjsfcbjbnjtypj.flv
 天映频道国,http://210.210.155.37/dr9445/h/h14/01.m3u8
 天映经典国,http://ali.hlspull.yximgs.com/live/huanqiuhklivevcnydsjfjsetjjfcvbcdtsjjfvxcvsjnmbnljjhjjnmyhsjjftydj.flv
 RTHK31,http://ali.hlspull.yximgs.com/live/huanqiuhklivehpjdthpthcvhnjujulsfjhcvbjuyhbnjyjthj31.flv
 RTHK32,http://ali.hlspull.yximgs.com/live/huanqiuhklivejpjjecxvjjusjfjjfdhnbthjjsjfwdtncyjthj32.flv
 凤凰资讯台,http://livetv.skycf.eu.org/live.m3u8?c=2
 凤凰香港台,https://epg.pw/stream/8352ad260441ed0064f63f7a25eb3a7268a68b391f08a345b9bdbefd51aa330f.m3u8
-香港面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
+
 澳亚卫视,https://live.mastvnet.com:443/lsdream/lY44pmm/2000/live.m3u8
 
 
@@ -706,7 +706,7 @@ TVBS新闻台,http://198.16.100.90:8278/tvbs_n/playlist.m3u8?tid=MEFE52833224528
 东森新闻台,http://livetv.skycf.eu.org/live.m3u8?c=9
 三立新闻台,http://livetv.skycf.eu.org/live.m3u8?c=12
 三立LIVE台,http://ali.hlspull.yximgs.com/live/huanqiuhklivehmcyoywjjubjfdjfvchtcbsjjjvfjhncvndvbsxcbmjsllive.flv
-年代新闻台,http://ali.hlspull.yximgs.com/live/huanqiuhkliveojevdyscvbudlojlnsfjewtjudvbbjxfjnjlvcjdjdnjxw.flv
+年代新闻台,http://198.16.100.90:8278/niandainews_twn/playlist.m3u8?tid=MBCB9184423891844238&ct=19249&tsum=ac0331d98099429b19c53fe6d20972ec
 非凡新闻台,http://ali.hlspull.yximgs.com/live/huanqiuhklivesjtnfjjojdcbfcxvjfuujjwejjjsjyuhhdjsjhjynffxw.flv
 壹新闻频道,https://cdn.ggapk.net/live/tv?id=1910aWrDhT82wXJSU65EmxXew00LKX55nostBpzbP5hXPFCfN3wq282AysUN5c3YUYZiq935ojuoKzDSFX9MwNedOCOz4VTpIrQo_hYu4ymUUHu694X8j9XUrhZ3t1MXUjLF1bnlxT6kk98-xz7H-2VwMMUCSauQ0HMUP5NbL-4fbJl8T_ZYRo0oDciP_iVPMDXm7xVbDT-dbsykmSjREt69WvcpbYS446F1x4FbcgysP0rsPMhUxI_oMJySSkbwL0LK-Ug4jOxkMjLKcTz352XfN69oipLW5Mbus5th6o0c7i89jvzJOimWrREWZAQoSU6ZAB_LdxA5SawRvFJU6BkI4AYZ8Qq7-ASuKnuYPCJ2gqpvzZLT-AnL0gH2nS-oE5ev4usyOHUBfiwAOBLOZSPOgG9iY3UIdHu2eu4DjtCNoJazni5FEn6I3KUIbHZagBKu_wKzA1M5OovqIKjCyv6NfPutS8r5mrSqLh8tojGN7b5SzSbVUSmKTXXrXDYx355VBunT7jMcJmiRiEwYdKq93c_s7jGZhFc5NMHrsuDWl8sq3BGfuhqGoeT0IU_tUWL-X_SkIjzJ1ZvbtK8u5pqf2IVjrMxtRwmqEOaKNdZkDmpHfGswfTX7rxTpNH24HrMovjzueQHAi-4&idp=a8f0P0NLNatLbp_m6-AVn9OMsa8Mc2y8vHKxV5Ayzcr_9pHsppE3zi6bPQ
 镜新闻频道,http://livetv.skycf.eu.org/live.m3u8?c=10
@@ -731,10 +731,7 @@ TVBS新闻台,http://198.16.100.90:8278/tvbs_n/playlist.m3u8?tid=MEFE52833224528
 AXN电影台,https://cdn.ggapk.net/live/tv?id=76cfhvcDs807lrPM4atsoY9xjBE9Z-Dd6Culvsg7YTklzeiZxjyjhdElR_Ly7qDKG7a74Gl8N_b2QYEL4gAjgmjW30lVGeqvLzvLPcX2D4P6qEKaUEbXEdPf5wIpotIBtrHir27ImrZHdheUmA7c45rA6m4kotKArER6L5s0igbpweOCkErm_cl14HFyUNdKAp4ESSdRNN-xjE3DeJVxSgzbpNqDn60tIPyTlbqKCViBbZeYIHJzapzMuJDB0ltgeLgHXUg4T2EmNYuSNQoeKHZQ6eU8OEQ-HMdB_28dLjrGaUecBzbIusHTwybk0HAaIoPmjUAUB9iwrH9h5MkgasUMrU7krg9MNjRmhzB4P7TGtw6Wl8sQde2glUUyYhKGrIkG4nizJxgLCuUETwfo-rNCol7iseXhR-z4SzktZhyB1296lb_qUmWvJioDCwYPFI86wes8Y3U6JcTPt6cuNYy3Cg9Df5e3VuEmoPFMks8JzO_gNaAH6uavowpzWz4S2ByprzqMZ-KVkYLax06xQ5qzdEard4pslzo0i9TRA_teBPs5C8l9BzRLwILVD7Nk81oPFnEm&idp=4b0b6AK1MWgRGaLenNWVWmjg3AJOwDQU_JWTuWbVbgX4qSU-eK_L8Wm5gg
 华艺综合台,http://ali.hlspull.yximgs.com/live/huanqiuhklivesfbxcvjsfjdhnfcvbsxjdnjsvmbnfjujfdhyujmjbvnjslhdj.flv
 东森戏剧台,http://ali.hlspull.yximgs.com/live/huanqiuhkliveyvjojmfdycvbjcxljdjfxdcvnjvdwspjcophjfvjtycxjpjjmendsxd.flv
-东森电影台,https://edge1.laotv.la/live/DongsenForeignMovie/index.m3u8
-东森电影台,https://edge1.laotv.la/live/DongsenForeignMovie/sc-gaFECQ/v0_index.m3u8
-东森电影台,https://edge1.laotv.la/live/DongsenForeignMovie/sc-gaFECQ/a0_index.m3u8
-东森电影台,https://edge1.laotv.la/live/DongsenForeignMovie/sc-gaFECQ/v1_index.m3u8
+东森电影台,https://cdn5.woniuzfb.com/live/dsdy/OXedUcnj.m3u8
 ELTA影剧台,http://ali.hlspull.yximgs.com/live/huanqiuhklivesfbxcvjsfjdhnfcvbsxjdnjsvmvbsjjjfdhyujmjbvnjslhxd.flv
 CINEMAX台,http://ali.hlspull.yximgs.com/live/huanqiuhklivejejcxlvofbjbvbjjjbvyvblcfybjxdbcjcfdvsfcbjbnjtcjnemjx.flv
 BOO恐怖台,http://ali.hlspull.yximgs.com/live/huanqiuhklivejejcxlvofbncvshhjsjcvndfncvbdjpxyjhjchjsjbhjejjjvboo.flv
