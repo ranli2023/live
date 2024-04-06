@@ -1,5 +1,5 @@
 🇨🇳重庆频道,#genre#
-重庆新闻,https://sjlivecdn9.cbg.cn/202404051554/app_2/_definst_/ls_3.stream/chunklist.m3u8
+
 重庆新闻,http://125.82.168.238:8888/udp/235.254.196.199:7980
 重庆影视,http://125.82.168.238:8888/udp/235.254.198.180:7980
 重庆社会与法,http://125.82.168.238:8888/udp/235.254.198.181:7980
@@ -635,13 +635,15 @@ CHC高清电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch0000009099000
 欧美影院,http://[2409:8087:7001:20:1000::95]:6610/000000001000/7185203501769528108/index.m3u8?channel-id=wasusyt&Contentid=7185203501769528108&livemode=1&stbId=3
 亚洲影院,http://[2409:8087:7001:20:1000::95]:6610/000000001000/5841816227539527643/index.m3u8?channel-id=wasusyt&Contentid=5841816227539527643&livemode=1&stbId=3
 院线影视,http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000004000000034/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000034&livemode=1&stbId=3
-
+NETFLIX电影台,https://rakuten-actionmovies-2-es.samsung.wurl.tv/playlist.m3u8
+NETFLIX电影台,https://rakuten-actionmovies-2-es.samsung.wurl.tv/1200.m3u8
+NETFLIX电影台,https://rakuten-actionmovies-2-es.samsung.wurl.tv/2000.m3u8
+NETFLIX电影台,https://rakuten-actionmovies-2-es.samsung.wurl.tv/3000.m3u8
 
 
 
 🇨🇳港澳频道,#genre#
-凤凰中文台,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
-凤凰资讯台,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
+凤凰中文台,https://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰中文台,http://1.62.64.252/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.flv
 凤凰中文台,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226547/index.m3u8
 凤凰中文台,https://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
@@ -653,6 +655,7 @@ CHC高清电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch0000009099000
 凤凰香港台,http://1.62.64.252/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.flv
 文旅香港台,http://ali-play.lezhibo.com:80/lezhibo/6ad788f1bbab4c689ecdc0d64a1e1601.m3u8
 TVB功夫台,https://ali.hlspull.yximgs.com/live/12344.flv
+亚洲武侠频道,https://edge6a.v2h-cdn.com/asia_action/asia_action.stream/chunklist.m3u8
 星光视界台,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
 星空卫视,http://171.88.35.80:4000/udp/239.93.0.156:2193
 星空卫视,http://171.88.35.80:4000/udp/239.93.1.10:2193
@@ -672,6 +675,7 @@ RTHK34台,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream05
 TVB功夫台,http://mywlkj.ddns.net:754/tv/yximgs.php?id=68
 星光视界台,http://mywlkj.ddns.net:754/tv/yximgs.php?id=69
 有线新闻台,http://223.71.206.22:30080/HK/hoy78/hls.m3u8
+无线新闻HD,http://66.165.240.154:8080/live/TVBtyzxt1/hls.m3u8
 TVB新闻台,http://223.71.206.22:30080/HK/wxxw/hls.m3u8
 TVB翡翠台,http://223.71.206.22:30080/HK/tvb/hls.m3u8
 TVB财经台,http://223.71.206.22:30080/HK/j5/hls.m3u8
@@ -696,8 +700,8 @@ RTHK32,http://ali.hlspull.yximgs.com/live/huanqiuhklivejpjjecxvjjusjfjjfdhnbthjj
 
 中天新闻台,http://livetv.skycf.eu.org/live.m3u8?c=7
 中天亚洲台,http://livetv.skycf.eu.org/live.m3u8?c=3
-TVBS新闻台,https://cdn.ggapk.net/live/tv?id=cec5YyUP0TiKzYLtjkl-Lg6yH6Cpiih1_H1Bsoel8C1_CCfim7JZcyZlDKiBCvVzXsBt8h5H-nkYuATy9ix48Mw_HfIaO10A5O7wnz5bQcz7FsjGdqkciXBIBXSzJRBpRy4OwfmLHADNAWrY1q_LTJJ3XZ_Sb-W5114WooillThkQKCJ-n4eZ6Js_ahpkPi_dMRxJnsmRKaib2CmgjxQqNd6wQL8to6myNhnL5OIBFT0bT9eutyNSMPya50cDdpkjvt8bIk5pXRkFUUsTatvuNJnKhpcyxBFJW2rHQ1hMzjEcuNWNhkxK0sZJZhjBCmKZ0sK7sCgMNPPUOSXnq1cBLBthmpF5n6GxNpw9VnDZlk91mHb3duim0OxDITsvk9_u2aYyF65kii25YivB8YuuDeFIh-UBEQ2nKglkQbHUH0ZueCQ4J_dJ4cm3J5jo3fBjcDYXnTK1A-PlE6AxLw2ntbOH1XLoVHC-Z2Rj48vXbkN0en3vZ2UURchUscp28HhsMd_lncm0p8meNzhDtvXBcPBkvCcmBFd0YmQpOBrEjExrP475RvqUnnWAunmA6VATPJEM5gQfRJa3FkU0pr4PYvZ2XhIbbGE44vJWo3N1siWEaW3f7KZEA0MyLV_dsNz3kng_gv7IYotHS8&idp=ecafNA6g2kfU2JLAnfxZQ8NdmUOFQ6rVcCTfQt9wmY5cjz1poLAMQjYjkg
-TVBSHD台,https://cdn.ggapk.net/live/tv?id=63455g3-TrIw1lh0ZJGwx4NWApkJu3MfdbKpIRyVrbBlURIkHp_vc4g6GrD4L5lncO1Afz6XyltryAZ6TDXLxtMCpLf7jHAOqzT02j0utfmT0Ve2nI3jw-BRsf5KJJgmLyVJOcIXf9KjNDkEpQz3S8mHIRzMmHTf_OD9jBgbYzLXXUxG_HGw2DMrOJj1VzlzmQn7l6wQpwcAy16UQkHsyzVfsCAkUWvKqCIqRofHuZIRVRiHOpY8T4Hm5RXv99ETKHj1evxR0i72Ia1g0lDd-5b4jq7lSdGJZUH0wcatKgFdRXl08CgJYNHT8AiKO2UBO5owmCufiNOn8wQOMRjzdQZZDz3WxkJgj77koC2qgOQB1tVrxl2ZUfINEaGFKmjApQb-gctIWKLylx5QvQ5ent22rDbpGw7SvZBZegLpIP7eTyERLOdKNP9BDXwFOHnH65mjVkd9uNbMDbwDR9tHr95UkoImhYsqZoYowvK6AbbFD0ZzE8A8ifTSZRJkOempbN5DlVqtw33d9XUVAhawREtHF9a_KDRm6DJh4vxibsoVTpO4XAetLpkrS79r8wq6J_iVfkah0P2LXikoN-RVG7Zl7s-9p8U32NLw1q6bs5v3cko_daQcCJhfVlHRNzn5V6NhUk9gynL5hMg&idp=21e6_Ab8_sB4303KNquyQYwqP6WdsHwj5US3FMVSxxtq2n6AGqrpzNFVPw
+中天娱乐HD,http://198.16.100.90:8278/ctient/playlist.m3u8?tid=MDED1780059017800590&ct=19226&tsum=4d05ea700aa8fd436b51ce703680e674
+TVBS新闻台,http://198.16.100.90:8278/tvbs_n/playlist.m3u8?tid=MEFE5283322452833224&ct=19226&tsum=5f4e9bb0782ab3aae36328763cba2ffd
 东森经财台,http://livetv.skycf.eu.org/live.m3u8?c=14
 东森新闻台,http://livetv.skycf.eu.org/live.m3u8?c=9
 三立新闻台,http://livetv.skycf.eu.org/live.m3u8?c=12
@@ -718,13 +722,8 @@ TVBSHD台,https://cdn.ggapk.net/live/tv?id=63455g3-TrIw1lh0ZJGwx4NWApkJu3MfdbKpI
 台湾中视台,http://ali.hlspull.yximgs.com/live/huanqiuhklivejphfwnmfdcjfxcvhjjwjfbfjdyujjnmfcbsfjejtyhsdjs.flv
 台湾华视台,http://ali.hlspull.yximgs.com/live/huanqiuhklivepdymvcjnjjjcvbcvbjtyjjjffcfjvjftojjbvcjfednhs.flv
 龙祥电影台,https://cdn.ggapk.net/live/tv?id=cce1iWjw5jhgC5TDqXEMFPJC10-8IEx76PVJ8W2Bm9IbJi45R68nvtNoiYd64m_gY1yODCHFwO5DR0Fm41FWjXfM-0OwOPwvBkPXTx0zgAl5X2WBlRGJMnkVl4qT3un4Bdd67p57h9ulw1LfXzh7LdsqPqiGPLUpITRK2ABN1sqPPt1MGK59FeNPt6nZFNj-RzOvIuvhzyFdxwZT1eKZgfMiaL9Nq7Cw5MzCI9j_sTDNAAoXgL_luSPirXU2hhwPnmSi1HI7-Qt6Y_aph3butb1V9rGJ1H18MjSx4Tsky-5ySflwhUQBMVLrsWNzBl1qaoLe68zNRj7c349Efq8Gb6NEg-TaugaDR0zA32iXzJDtV2Vd00YZPIh4tZfgfUTThLqUZYARjHKJOxy8mV2mGohm70kTSQfmjR7YFHs7K2eh9Vkl-cBq3L0RQ_ZmKwuk7wIo-ChwFIhDPOW5TpkMq4B-zq0qhDQYDiLdWGQIUGwGs3XU5GRnXvTFrXhZzTt_y9lEXztoCMGNnMhvKqDdQtDTp7Sk91KbePtdSiXKYgQzqNuNUraGqIu2L6qNpKaiPe2h7S5Inax2zyTUaeKttjB-Y35ODFVu2OU8kZ8O5KemL5SaftTdQmz2eRRPtSV02j8Qfoq49pznLrE&idp=a1ff5hPPCJvkyKywgkh03laxJFTEprx3SjZBj9qCIXaUjPCvzwCSfTNWbA
-东森洋片台,https://edge1.laotv.la/live/DongsenMovie/sc-gaFECQ/v0_index.m3u8
-东森洋片台,https://edge1.laotv.la/live/DongsenMovie/sc-gaFECQ/a0_index.m3u8
-东森洋片台,https://edge2.laotv.la/live/DongsenMovie/index.m3u8
-龙华戏剧台,http://ali.hlspull.yximgs.com/live/huanqiuhklivejejcxlvofbjbvnjjsfjvbhslcfvxcvjsjbcvjfdvjsfcbjbnjtyjd.flv
-龙华洋片台,https://edge1.laotv.la/live/DongsenForeignMovie/index.m3u8
-龙华洋片台,https://edge1.laotv.la/live/DongsenForeignMovie/sc-gaFECQ/v0_index.m3u8
-龙华洋片台,https://edge1.laotv.la/live/DongsenForeignMovie/sc-gaFECQ/a0_index.m3u8
+龙华戏剧台,http://50.7.238.114:8278/lunghuaxiju_twn/playlist.m3u8?tid=MF2F2793524427935244&ct=19249&tsum=db1ef83fbbbae9a364979295fd690f7d
+龙华洋片台,http://50.7.238.114:8278/lunghuawestern_twn/playlist.m3u8?tid=MF7F3761146937611469&ct=19234&tsum=e8b375d0c73fff5a34a7e3b4de2f53bb
 好莱坞电影,https://edge2.laotv.la/live/ChinaMovie/index.m3u8
 好莱坞电影,https://edge2.laotv.la/live/ChinaMovie/sc-gaFECQ/v0_index.m3u8
 好莱坞电影,https://edge2.laotv.la/live/ChinaMovie/sc-gaFECQ/a0_index.m3u8
@@ -740,12 +739,13 @@ ELTA影剧台,http://ali.hlspull.yximgs.com/live/huanqiuhklivesfbxcvjsfjdhnfcvbs
 CINEMAX台,http://ali.hlspull.yximgs.com/live/huanqiuhklivejejcxlvofbjbvbjjjbvyvblcfybjxdbcjcfdvsfcbjbnjtcjnemjx.flv
 BOO恐怖台,http://ali.hlspull.yximgs.com/live/huanqiuhklivejejcxlvofbncvshhjsjcvndfncvbdjpxyjhjchjsjbhjejjjvboo.flv
 Thrill影剧台,http://ali.hlspull.yximgs.com/live/huanqiuhkliveecvjwejjosvojjjsjjjdejfjxjucjshvjcsjjfcjtchpljy.flv
-HBO~HD,https://edge1.laotv.la/live/HBO/index.m3u8
-HBO~HD,https://edge1.laotv.la/live/HBO/sc-gaFECQ/v0_index.m3u8
-HBO~HD,https://edge1.laotv.la/live/HBO/sc-gaFECQ/a0_index.m3u8
-HBO~HD,https://edge1.laotv.la/live/HBO/sc-gaFECQ/v1_index.m3u8
-HBO家庭台,https://cdn.ggapk.net/live/tv?id=d91dBu_44i-wTqV7KJWElqnkITnmJI4QnJTJKNPoWX_1JR-AcyPEKM6ILlnWlypdYq9sVf5t22RnEK403DKsw2SQoy0_Jf3D8ENTMEmhVQxcsO46I50UBo_TW4JoP8SN8RTQAl-8fTJyO3TVQNTFqsHN75tpMsNopdfwe-_irnqGyhL6QRFt6IUz0kM6Wo_wyFFYOWcNSHo9KyGps9GNDP1IvY6t3FYiBhP-j-DrK1XCZQ-O8TDxPXa8lCCtz_aS6WDoXEo7A75WtqC3r32HDZ-ae_47bmuKa_SMv-3qzO8CSczStsBAVPmUkK_4FxHQGk9QISBwhpzk5SI4O6rHkRyqHnP1t9Xik0h_6KtEZMwdI_lkP5nQVTk7UbJT9tkROQYFOuSl1cf9aFKCjKyyN0sFIFHrUe7RxFgpbkgBhHNabFWJYzckiXJwbWvdQ9j3Kw2anxWqakQGK2GEcGSv0dp9DR10_2Yto-Zs1DrKFFXAhDlqLdjsrjhwHnJoeI4XRuk2fqr44IflzJ8OUWHY1FTnNGDEVw9SHMpp09IoNA-o10_1ATcGpaDXj9S10AYB87HDC_Fm&idp=34d9LM_gr4DQSOY2iRmHpsgCOEEIg1w5NGR7I_N0GaBfzhCrZl4vN9E8_g
-
+HBO电影台,http://170.254.18.106/HBO_PLUS/index.m3u8
+HBO电影台,http://170.254.18.106/HBO_PLUS/tracks-a1/mono.m3u8
+HBO电影台,http://170.254.18.106/HBO_PLUS/tracks-v2a1/mono.m3u8
+HBO家庭台,http://170.254.18.106/HBO_XTREME/index.m3u8
+HBO家庭台,http://170.254.18.106/HBO_XTREME/tracks-v2a1/mono.m3u8
+HBO家庭台,http://170.254.18.106/HBO_XTREME/tracks-a1/mono.m3u8
+HBO家庭台,http://170.254.18.106/HBO_XTREME/tracks-v1a1/mono.m3u8
 爱尔达体育1台,https://cdn.ggapk.net/live/tv?id=9bc1nAuZzgqPp1CJR3GX_FEMnbYCHEmqipgU2l4a07Wva-ZQGlcwvSKZEonfbwIRrQLFyvOf90ORCe59a1pMkIHw2PdkL_VSWpamAoJfECRJcrZ_FqO4VmObjKOYsLGfbWmtObo8rzHwUPIknp9X8DyDGFAu5ZTYjPXDAqAw3MBRkw2Hxp9szqGvp6p1AXWLZC5ix9YOR_aU10sGvFb0p0B-DzlEhtnZPVst1nWLQsYmMgbnh2ALK2O3XE9ouMSo5MJsHVW-rE70hQGi2czWuVF2kGPhiMXtVxAj1C2O__pyCwNoOs6eYbRgWnhzR45ibV4o45Rws_FRNtIiCFB_ELFFIpamOCw4UMf6Ib3TMH9rZEFHy_PezwosINCriY13ADRnQgpne9G5foptphn7QaxJDnNp2szUtbQ1nTzkuNBzo0ZDa7MN4brmV1Rd-5jWwUEPjJdcn6BQlnIlUWMtJWrBZ9K8XwxGJV6JQe7MeKRQGNDkFGWuT2s01o68rqDhcL2kTjEzR7y6ItppO03tYQubj5auEA-S6WyTP3AFcfBrQr-0FpzqnqbfPIwqjl-za5PpNwMSZTGh-oEZ9gRuJxlPFzlX1RvIqHRmvPPb7FQEBRjNxe7vJUd2tlil5SHScoduZD4uDd-jvLo&idp=8ea4tqnP0VdXeim5Ibo2SKwI1xqa62mouaUDtYs9dA-O8opvBiQdXQE7Hg
 爱尔达体育2台,https://cdn.ggapk.net/live/tv?id=2275kFRbcN6ickYcixvtXRX5oKjGgmywIe4O8IlvRbt2yfVfuowBnJ8_hbh7_xaYsbWgZMyQ-p40nAeImdgJrGu3mzqbsGuiwQ_jTHvuq1ot4yvzn1ngWcVJveSRFToggNbF61UshpKfBkgTqIHGEK72xrcq261j87HmT_AeQ__epdsFvuTuPB69IEI6BEL0faHVbfWLyqHsZfDWxUuLNCskgItNrm1eue1c6cCAyddOUFFLw6Vys_Jq_bjDezrp5WsfsSe1zmy4koRCmL5Yi_e5_vf6abAcbuoG0izRL_ZbtOOWWPzshsVVD41m-FnbvCa-SA4ahMhmVIQFAtN3KVrH4O9ZGNANplZLUmbMkjorRSF7qzKXmdNamdr76kfgZuSXHe_4JDq3tLBNE_YAvzmLyyj51RwoMIaZQ0TJ_4DRIqCUa08AL7pw66w1vzCUqXfLbM3MDcapQGNOC0iqe_OwfI-W4wLTYI7IeeN5zTz31AG2WN2M-KRxHxPtkzMDma-SyVwyEkqAGazpEHDl4zFXXY2T0xjzQabAPnoWsKhyM4itrVRb3UbztfzSe2kWF1JoTPA4kc4tWyhKMHDCuFIXiFYfoYyR00E5pxaDQwmsc_AxxE8lt2L84o9H_xleVn7uXpzCyCcJy9k&idp=2140aQ-yQupNvrqdO2QGPh-jzSY8F0d5znZEk7pVGhtWP-rKEH1t-dnzLw
 爱尔达体育3台,https://cdn.ggapk.net/live/tv?id=f196z2NlSL0Uj3-h6pO-8cVPqPJH7N65lsGDGJ3Qq8uFmqFrtqucaDxs7faZKJoPjQUimb9yK5mjzeZUhHl3GDV_7quu2hiCbbj8WQxr5WrZTrrrscfzX5Ew0Pm2VnPlygnzZCDTdFSuuUZOfy9JX6VwryqNcJAFviLnEwLaEgeg85zbiWejLtkW3ydDIB39grSXG___ebwBUDtrDT4Ng9JqNuBSx-0p5B6G3iGGEEb5yQ11dzM-8BYEQhZp2h_Fyqc1eKa1OsJnfiEIsAxc3D8ZQm4Ww84o7Vxgb40_h3-eYazKK-adFLZjioi6w6dL0K5nnGWZ-FXVBFrPz3vrI8vW8TJ1fgX4P4smjgONcM2Jo0r_rqjFVIvnG-fOiB7D1ueyzMUTDr2ia_iiIzFR5CpgzrmYrMZC-xRKHHRzSK4Imt9neI3PSXzvu9WW5BvfAPI8CfWmA0A2a55JBKLm1c5jNJphrMJq8kvisoIV1CotDI9CsXrEvmAaGp2PbAGu6iS0e5NiGMOC0rxMEgOc80_9Ab59yqCsildI5m84fx-EYIBsQFScse-DVgOazuv0-NCDEMOW4KtyvaSGJOGHar0VvuREWZU9hLyVzbT_apfjYPKl53WdEshnYnuroeVKZhkSH83XzVVGzFI&idp=f89cfdJe5AVUaAVWT-TQGYy53PdrrXZBRY1xsecWrTM1Jr-UONunrzR8FA
