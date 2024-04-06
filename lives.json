@@ -635,11 +635,11 @@ CHC高清电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch0000009099000
 欧美影院,http://[2409:8087:7001:20:1000::95]:6610/000000001000/7185203501769528108/index.m3u8?channel-id=wasusyt&Contentid=7185203501769528108&livemode=1&stbId=3
 亚洲影院,http://[2409:8087:7001:20:1000::95]:6610/000000001000/5841816227539527643/index.m3u8?channel-id=wasusyt&Contentid=5841816227539527643&livemode=1&stbId=3
 院线影视,http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000004000000034/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000034&livemode=1&stbId=3
-NETFLIX电影台,https://rakuten-actionmovies-2-es.samsung.wurl.tv/playlist.m3u8
-NETFLIX电影台,https://rakuten-actionmovies-2-es.samsung.wurl.tv/1200.m3u8
 NETFLIX电影台,https://rakuten-actionmovies-2-es.samsung.wurl.tv/2000.m3u8
 NETFLIX电影台,https://rakuten-actionmovies-2-es.samsung.wurl.tv/3000.m3u8
-
+HBO电影台,http://170.254.18.106/HBO_PLUS/tracks-v2a1/mono.m3u8
+HBO家庭台,http://170.254.18.106/HBO_XTREME/tracks-v2a1/mono.m3u8
+HBO家庭台,http://170.254.18.106/HBO_XTREME/tracks-v1a1/mono.m3u8
 
 
 🇨🇳港澳频道,#genre#
@@ -700,7 +700,7 @@ RTHK32,http://ali.hlspull.yximgs.com/live/huanqiuhklivejpjjecxvjjusjfjjfdhnbthjj
 
 中天新闻台,http://livetv.skycf.eu.org/live.m3u8?c=7
 中天亚洲台,http://livetv.skycf.eu.org/live.m3u8?c=3
-中天娱乐HD,http://198.16.100.90:8278/ctient/playlist.m3u8?tid=MDED1780059017800590&ct=19226&tsum=4d05ea700aa8fd436b51ce703680e674
+中天娱乐HD,http://50.7.238.114:8278/ctient/playlist.m3u8?tid=MA8A3069789530697895&ct=19193&tsum=20c49fe9e15ad366c6e32b141f03bf8a
 TVBS新闻台,http://198.16.100.90:8278/tvbs_n/playlist.m3u8?tid=MEFE5283322452833224&ct=19226&tsum=5f4e9bb0782ab3aae36328763cba2ffd
 东森经财台,http://livetv.skycf.eu.org/live.m3u8?c=14
 东森新闻台,http://livetv.skycf.eu.org/live.m3u8?c=9
@@ -739,13 +739,6 @@ ELTA影剧台,http://ali.hlspull.yximgs.com/live/huanqiuhklivesfbxcvjsfjdhnfcvbs
 CINEMAX台,http://ali.hlspull.yximgs.com/live/huanqiuhklivejejcxlvofbjbvbjjjbvyvblcfybjxdbcjcfdvsfcbjbnjtcjnemjx.flv
 BOO恐怖台,http://ali.hlspull.yximgs.com/live/huanqiuhklivejejcxlvofbncvshhjsjcvndfncvbdjpxyjhjchjsjbhjejjjvboo.flv
 Thrill影剧台,http://ali.hlspull.yximgs.com/live/huanqiuhkliveecvjwejjosvojjjsjjjdejfjxjucjshvjcsjjfcjtchpljy.flv
-HBO电影台,http://170.254.18.106/HBO_PLUS/index.m3u8
-HBO电影台,http://170.254.18.106/HBO_PLUS/tracks-a1/mono.m3u8
-HBO电影台,http://170.254.18.106/HBO_PLUS/tracks-v2a1/mono.m3u8
-HBO家庭台,http://170.254.18.106/HBO_XTREME/index.m3u8
-HBO家庭台,http://170.254.18.106/HBO_XTREME/tracks-v2a1/mono.m3u8
-HBO家庭台,http://170.254.18.106/HBO_XTREME/tracks-a1/mono.m3u8
-HBO家庭台,http://170.254.18.106/HBO_XTREME/tracks-v1a1/mono.m3u8
 爱尔达体育1台,https://cdn.ggapk.net/live/tv?id=9bc1nAuZzgqPp1CJR3GX_FEMnbYCHEmqipgU2l4a07Wva-ZQGlcwvSKZEonfbwIRrQLFyvOf90ORCe59a1pMkIHw2PdkL_VSWpamAoJfECRJcrZ_FqO4VmObjKOYsLGfbWmtObo8rzHwUPIknp9X8DyDGFAu5ZTYjPXDAqAw3MBRkw2Hxp9szqGvp6p1AXWLZC5ix9YOR_aU10sGvFb0p0B-DzlEhtnZPVst1nWLQsYmMgbnh2ALK2O3XE9ouMSo5MJsHVW-rE70hQGi2czWuVF2kGPhiMXtVxAj1C2O__pyCwNoOs6eYbRgWnhzR45ibV4o45Rws_FRNtIiCFB_ELFFIpamOCw4UMf6Ib3TMH9rZEFHy_PezwosINCriY13ADRnQgpne9G5foptphn7QaxJDnNp2szUtbQ1nTzkuNBzo0ZDa7MN4brmV1Rd-5jWwUEPjJdcn6BQlnIlUWMtJWrBZ9K8XwxGJV6JQe7MeKRQGNDkFGWuT2s01o68rqDhcL2kTjEzR7y6ItppO03tYQubj5auEA-S6WyTP3AFcfBrQr-0FpzqnqbfPIwqjl-za5PpNwMSZTGh-oEZ9gRuJxlPFzlX1RvIqHRmvPPb7FQEBRjNxe7vJUd2tlil5SHScoduZD4uDd-jvLo&idp=8ea4tqnP0VdXeim5Ibo2SKwI1xqa62mouaUDtYs9dA-O8opvBiQdXQE7Hg
 爱尔达体育2台,https://cdn.ggapk.net/live/tv?id=2275kFRbcN6ickYcixvtXRX5oKjGgmywIe4O8IlvRbt2yfVfuowBnJ8_hbh7_xaYsbWgZMyQ-p40nAeImdgJrGu3mzqbsGuiwQ_jTHvuq1ot4yvzn1ngWcVJveSRFToggNbF61UshpKfBkgTqIHGEK72xrcq261j87HmT_AeQ__epdsFvuTuPB69IEI6BEL0faHVbfWLyqHsZfDWxUuLNCskgItNrm1eue1c6cCAyddOUFFLw6Vys_Jq_bjDezrp5WsfsSe1zmy4koRCmL5Yi_e5_vf6abAcbuoG0izRL_ZbtOOWWPzshsVVD41m-FnbvCa-SA4ahMhmVIQFAtN3KVrH4O9ZGNANplZLUmbMkjorRSF7qzKXmdNamdr76kfgZuSXHe_4JDq3tLBNE_YAvzmLyyj51RwoMIaZQ0TJ_4DRIqCUa08AL7pw66w1vzCUqXfLbM3MDcapQGNOC0iqe_OwfI-W4wLTYI7IeeN5zTz31AG2WN2M-KRxHxPtkzMDma-SyVwyEkqAGazpEHDl4zFXXY2T0xjzQabAPnoWsKhyM4itrVRb3UbztfzSe2kWF1JoTPA4kc4tWyhKMHDCuFIXiFYfoYyR00E5pxaDQwmsc_AxxE8lt2L84o9H_xleVn7uXpzCyCcJy9k&idp=2140aQ-yQupNvrqdO2QGPh-jzSY8F0d5znZEk7pVGhtWP-rKEH1t-dnzLw
 爱尔达体育3台,https://cdn.ggapk.net/live/tv?id=f196z2NlSL0Uj3-h6pO-8cVPqPJH7N65lsGDGJ3Qq8uFmqFrtqucaDxs7faZKJoPjQUimb9yK5mjzeZUhHl3GDV_7quu2hiCbbj8WQxr5WrZTrrrscfzX5Ew0Pm2VnPlygnzZCDTdFSuuUZOfy9JX6VwryqNcJAFviLnEwLaEgeg85zbiWejLtkW3ydDIB39grSXG___ebwBUDtrDT4Ng9JqNuBSx-0p5B6G3iGGEEb5yQ11dzM-8BYEQhZp2h_Fyqc1eKa1OsJnfiEIsAxc3D8ZQm4Ww84o7Vxgb40_h3-eYazKK-adFLZjioi6w6dL0K5nnGWZ-FXVBFrPz3vrI8vW8TJ1fgX4P4smjgONcM2Jo0r_rqjFVIvnG-fOiB7D1ueyzMUTDr2ia_iiIzFR5CpgzrmYrMZC-xRKHHRzSK4Imt9neI3PSXzvu9WW5BvfAPI8CfWmA0A2a55JBKLm1c5jNJphrMJq8kvisoIV1CotDI9CsXrEvmAaGp2PbAGu6iS0e5NiGMOC0rxMEgOc80_9Ab59yqCsildI5m84fx-EYIBsQFScse-DVgOazuv0-NCDEMOW4KtyvaSGJOGHar0VvuREWZU9hLyVzbT_apfjYPKl53WdEshnYnuroeVKZhkSH83XzVVGzFI&idp=f89cfdJe5AVUaAVWT-TQGYy53PdrrXZBRY1xsecWrTM1Jr-UONunrzR8FA
