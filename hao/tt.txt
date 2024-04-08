@@ -537,7 +537,7 @@
             "type": 0,
             "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/ranli2023/live/main/lives.json",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-           "logo": "http://epg.51zmt.top:8000/tb1/logo/{name}.png"
+           "logo": "http://epg.51zmt.top:8000/logo/{name}.png"
         }
     ],
     "doh": [
