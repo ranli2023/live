@@ -220,8 +220,8 @@
             }
         },
         {
-            "key": "晴天",
-            "name": "☀️晴天┃1080P",
+            "key": "看看直播",
+            "name": "☀️看看直播",
             "type": 3,
             "jar": "https://bitbucket.org/ranli2000/tvbox/raw/main/小米/jars/赞赞.txt",
             "api": "csp_XBPQ",
@@ -229,9 +229,9 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": {
-                "分类url": "https://www.qinttv.com/qtyy/{cateId}/area/{area}/page/{catePg}/year/{year}.html",
-                "搜索url": "https://www.qinttv.com/qtcz.html;post;wd={wd}&submit=",
-                "分类": "电影$dianying#电视剧$dianshiju#动漫$dongmna#综艺$zongyi"
+                "分类url": "https://www.kankanzhibo.com/pindaodaquan/{cateId}/area/{area}/page/{catePg}/year/{year}.html",
+                "搜索url": "https://www.kankanzhibo.com/pindaodaquan/#gangaotai;post;wd={wd}&submit=",
+                "分类": "电视频道$#gangaotai#国外$#guowai"
             }
         },
         {
