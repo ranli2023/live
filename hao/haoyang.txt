@@ -42,7 +42,7 @@
         },
       
         {
-            "url": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/ygbox.json",
+            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/guot55/yg/main/ygbox.json",
             "name":月光宝盒 "
         },
         {
