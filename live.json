@@ -777,10 +777,11 @@ RTHK34台,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream05
 凤凰资讯台,http://112.19.171.156:9999/udp/239.93.0.118:2191
 凤凰资讯台,http://www.372583307.top:4022/udp/233.50.200.192:5140
 TVB功夫台,http://mywlkj.ddns.net:754/tv/yximgs.php?id=68
+星光视界台,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
 星光视界台,http://mywlkj.ddns.net:754/tv/yximgs.php?id=69
 有线新闻台,http://223.71.206.22:30080/HK/hoy78/hls.m3u8
-无线新闻HD,http://66.165.240.154:8080/live/TVBtyzxt1/hls.m3u8
-TVB新闻台,http://223.71.206.22:30080/HK/wxxw/hls.m3u8
+无线新闻台,http://66.165.240.154:8080/live/TVBtyzxt1/hls.m3u8
+无线新闻台,http://223.71.206.22:30080/HK/wxxw/hls.m3u8
 TVB翡翠台,http://223.71.206.22:30080/HK/tvb/hls.m3u8
 TVB财经台,http://223.71.206.22:30080/HK/j5/hls.m3u8
 有线综合台,http://223.71.206.22:30080/HK/hoy77/hls.m3u8
@@ -807,6 +808,7 @@ TVBS新闻台,http://50.7.238.114:8278/tvbs_n/playlist.m3u8?tid=MECE323377403233
 TVBS新闻台,http://198.16.100.90:8278/tvbs_n/playlist.m3u8?tid=MEFE5283322452833224&ct=19226&tsum=5f4e9bb0782ab3aae36328763cba2ffd
 东森经财台,http://livetv.skycf.eu.org/live.m3u8?c=14
 东森新闻台,http://livetv.skycf.eu.org/live.m3u8?c=9
+东森电影台,http://198.16.100.90:8278/ettvmovie/playlist.m3u8?tid=md2ba4c243ed411481253&ct=17874&tsum=4637ffbc3260e78931b566300e618313
 三立新闻台,http://livetv.skycf.eu.org/live.m3u8?c=12
 三立LIVE台,http://ali.hlspull.yximgs.com/live/twlivehmcyoywzzubzfdzfvchtcbszzzvfzhncvndvbsxcbmzsllive.flv
 年代新闻台,http://198.16.100.90:8278/niandainews_twn/playlist.m3u8?tid=MBCB9184423891844238&ct=19249&tsum=ac0331d98099429b19c53fe6d20972ec
@@ -818,6 +820,7 @@ TVBS新闻台,http://198.16.100.90:8278/tvbs_n/playlist.m3u8?tid=MEFE52833224528
 公视新闻台,http://livetv.skycf.eu.org/live.m3u8?c=8
 民视新闻台,http://livetv.skycf.eu.org/live.m3u8?c=11
 台视新闻台,http://livetv.skycf.eu.org/live.m3u8?c=4
+年代新闻台,http://50.7.238.114:8278/niandainews_twn/playlist.m3u8?tid=m062d2322888417909285&ct=17874&tsum=da6e0908f8df0e85b37f9d93167b9fcd
 年代新闻台,https://cdn.ggapk.net/live/tv?id=437aZcrZwmFkUEjoD6y1uorqU6R7Fw3ZzvV7pkMCGaj_CAAeCX_-ItWQlVMuVe7t1NMP0crC8sWHbLlh91M1Fk2n6xXfZ3f74kExnQau9M3DpkjsRsHO0HxXvojv4QKDK_0SEJFjkywyU5HQhwis0MzWTPqkV9TWBB-cRToPp2C6MjR4xzi3QXlb08lh-W1PWzE1IBWI5lLac3TYqr7lij6pxOJFU0tyKxcLO-RodqiQ3DufmePAbuV3Z4MlJQb1Ai7NKQucxqOE3m1UqSAD1PXoh2qGj34FDdXqdUDSJO6O9KwzIF-r_qNP5-KvgfEkSLr8TXFLQIrYwmEj35PNkzZZmPQf-l6dt6H8m8WkFOWYIChaLB2TF-SOcqAZ-rnQNIucG1xyEKq5rD5ETPYxm-v9_XrFWhFwT5LGv_9MiztzvAj2N0W2zqAHal5DzsEIDpNnAChSj4gMEJ9_zNDM1p0G4-CGYxP6WZOvbTgZYL5bVjMwB790X1WPREo_gMixxqoUBqkvVn5I2rKg12sJUWJUm0pTZ3Jk3Y-0zkDtGdOuo550IbZ5BJOCBu8kXUNi2thxr268&idp=c369cHYhX0WyEbNOcm5meC727CDDIlRKMYaxZPKJHwyHfQYI5OKw4v6C8A
 龙祥电影台,https://cdn.ggapk.net/live/tv?id=cce1iWjw5jhgC5TDqXEMFPJC10-8IEx76PVJ8W2Bm9IbJi45R68nvtNoiYd64m_gY1yODCHFwO5DR0Fm41FWjXfM-0OwOPwvBkPXTx0zgAl5X2WBlRGJMnkVl4qT3un4Bdd67p57h9ulw1LfXzh7LdsqPqiGPLUpITRK2ABN1sqPPt1MGK59FeNPt6nZFNj-RzOvIuvhzyFdxwZT1eKZgfMiaL9Nq7Cw5MzCI9j_sTDNAAoXgL_luSPirXU2hhwPnmSi1HI7-Qt6Y_aph3butb1V9rGJ1H18MjSx4Tsky-5ySflwhUQBMVLrsWNzBl1qaoLe68zNRj7c349Efq8Gb6NEg-TaugaDR0zA32iXzJDtV2Vd00YZPIh4tZfgfUTThLqUZYARjHKJOxy8mV2mGohm70kTSQfmjR7YFHs7K2eh9Vkl-cBq3L0RQ_ZmKwuk7wIo-ChwFIhDPOW5TpkMq4B-zq0qhDQYDiLdWGQIUGwGs3XU5GRnXvTFrXhZzTt_y9lEXztoCMGNnMhvKqDdQtDTp7Sk91KbePtdSiXKYgQzqNuNUraGqIu2L6qNpKaiPe2h7S5Inax2zyTUaeKttjB-Y35ODFVu2OU8kZ8O5KemL5SaftTdQmz2eRRPtSV02j8Qfoq49pznLrE&idp=a1ff5hPPCJvkyKywgkh03laxJFTEprx3SjZBj9qCIXaUjPCvzwCSfTNWbA
 龙华戏剧台,http://50.7.238.114:8278/lunghuaxiju_twn/playlist.m3u8?tid=MF2F2793524427935244&ct=19249&tsum=db1ef83fbbbae9a364979295fd690f7d
