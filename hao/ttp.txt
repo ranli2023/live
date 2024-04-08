@@ -12,7 +12,7 @@
       "filterable": 0
     },
     {
-      "key": "玩偶",
+      "key": "csp_WoGG",
       "name": "🇨🇳┃玩偶┃哥哥┃",
       "type": 3,
       "api": "csp_WoGG",
