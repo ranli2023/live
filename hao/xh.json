@@ -5,7 +5,7 @@
     {
       "name": "live",
       "type": 0,
-      "url": "https://s2.pub/tvbs",
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/ranli2023/live/main/lives.json",
       "playerType": 1,
       "epg": "http://diyp.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
@@ -238,7 +238,7 @@
       ]
     },
     {
-      "key": "csp_WoGG",
+      "key": "玩偶",
       "name": "️🇨🇳玩偶哥哥",
       "type": 3,
       "api": "csp_WoGG",
