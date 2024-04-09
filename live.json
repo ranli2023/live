@@ -296,9 +296,8 @@ CCTV8电视剧,http://39.134.65.181/PLTV/88888888/224/3221225795/index.m3u8
 CCTV8电视剧,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8
 CCTV9纪录,http://39.134.67.108/PLTV/88888888/224/3221225676/1.m3u8
 CCTV9纪录,http://39.134.67.110/PLTV/88888888/224/3221225676/index.m3u8
-CCTV10科教,http://221.226.4.10:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV10科教,http://115.171.86.251:9901/tsfile/live/16009_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV10科教,http://123.163.114.224:85/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV10科教,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226189/1.m3u8
+CCTV10科教,http://113.218.218.5:8001/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV10科教,http://222.71.189.186:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV10科教,http://219.135.208.218:8083/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV10科教,http://58.210.23.42:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -349,13 +348,7 @@ CCTV8电视剧,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/8
 CCTV9纪录,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001294/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV9纪录,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225676/index.m3u8
 CCTV9纪录,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
-CCTV10科教,http://221.226.4.10:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV10科教,http://115.171.86.251:9901/tsfile/live/16009_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV10科教,http://123.163.114.224:85/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV10科教,http://222.71.189.186:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV10科教,http://219.135.208.218:8083/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV10科教,http://58.210.23.42:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV10科教,http://123.183.24.83:6666/tsfile/live/0010_2.m3u8?key=txiptv&playlive=1&authid=0
+
 CCTV10科教,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
 CCTV10科教,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225677/index.m3u8
 CCTV11戏曲,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8
