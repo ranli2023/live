@@ -1,5 +1,5 @@
 {
-"spider": "https://bitbucket.org/ranli2000/tvbox/raw/main/jar/hao.txt",
+"spider": "https://bitbucket.org/ranli2000/tvbox/raw/main/jar/yang.txt",
   "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 "sites":[
     {
@@ -12,16 +12,22 @@
       "filterable": 0
     },
     {
-      "key": "csp_WoGG",
+      "key": "玩偶",
       "name": "👽┃玩偶┃哥哥┃",
       "type": 3,
       "api": "csp_WoGG",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+auto|4k|fhd$$$https://api.wogg.xyz/$$$弹"
+      "ext": {
+        "aliToken": "tvfan/token.txt",
+        "quarkCookie": "tvfan/cookie.txt",
+        "from": "4k|auto|fhd",
+        "siteUrl": "https://api.wogg.xyz/",
+        "danMu": "弹"
+      }
     },
-   
+  
     {
       "key": "csp_Bttoo",
       "name": "🍄┃比特┃秒播┃",
