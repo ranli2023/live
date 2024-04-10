@@ -20,13 +20,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": {
-        "aliToken": "tvfan/token.txt",
-        "quarkCookie": "tvfan/cookie.txt",
-        "from": "4k|auto|fhd",
-        "siteUrl": "https://api.wogg.xyz/",
-        "danMu": "弹"
-      }
+      "ext": "https://bitbucket.org/ranli2000/tvbox/raw/5460956bdc767002ffbc9421d4547c9f2ff60ec6/json/abc.json"
     },
    
     {
