@@ -19,7 +19,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+auto|4k|fhd$$$https://api.wogg.xyz/$$$弹"
+      "ext": "https://bitbucket.org/ranli2000/tvbox/raw/5460956bdc767002ffbc9421d4547c9f2ff60ec6/json/abc.json"
     },
 
        {
