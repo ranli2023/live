@@ -292,21 +292,19 @@
 "filterable":1,
 "ext":"https://bitbucket.org/ranli2000/tvbox/raw/ac05adc8740fe1f32c456cda453d5c1422d31550/js/%E8%8D%90%E7%89%87.js"
 },
-
-   {
+        {
       "key": "88js",
-      "name": "⚽┃直播┃看球┃",
-      "type": 3,
-      "api": "https://bitbucket.org/ranli2000/tvbox/raw/28265f35d4546c6921fd7aef6e51692476c54d37/drpy2.min.js",
-      "ext": "https://bitbucket.org/ranli2000/tvbox/raw/4a7e24abda43168f7d1d455b34cdbb46e0b90166/js/88%E7%9C%8B%E7%90%83(3).txt",
-      "style": {
-        "type": "rect",
-        "ratio": 1
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
-    },
+            "name": "⚽ LIVE┃看球",
+            "type": 3,
+            "api": "csp_Kanqiu",
+            "style": {
+                "type": "list"
+            },
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0
+        },
+
     {
       "key": "csp_qiumi",
       "name": "⚽┃ Jrs ┃球迷┃",
