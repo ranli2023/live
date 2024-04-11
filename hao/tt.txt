@@ -527,8 +527,8 @@
             "name": "live",
             "type": 0,
             "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/ranli2023/live/main/live.json",
-            "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
-           "logo": "https://epg.112114.xyz/logo/{name}.png"
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+           "logo": "http://epg.112114.xyz/logo/{name}.png"
         }
     ],
     "doh": [
