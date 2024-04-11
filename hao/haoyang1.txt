@@ -1,5 +1,5 @@
 { "urls": [
-          { "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/ranli2023/live/main/hao/ttp.txt",
+          { "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/ranli2023/live/main/hao/xa.txt",
             "name": "豪洋" 
            },
          
