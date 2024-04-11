@@ -244,7 +244,8 @@
       "api": "csp_WoGG",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 0,
+      "filterable": 1,
+      "changeable": 1,
       "ext":"https://bitbucket.org/ranli2000/tvbox/raw/6a477ca0b222eb41d23bc408eadf7712b5b568a1/json/abc.json"
     },
        {
