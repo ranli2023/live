@@ -20,8 +20,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "changeable": 1,
-      "ext":"https://bitbucket.org/ranli2000/tvbox/raw/37713b6722c9bc53d7e653466630c318bb69f400/json/%E7%8E%A9%E5%81%B6%E5%93%A5%E5%93%A5.json"
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+auto|4k|fhd$$$https://api.wogg.xyz/$$$弹"
     },
     {
       "key": "csp_Bttoo",
