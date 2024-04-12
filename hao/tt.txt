@@ -2,6 +2,17 @@
 "spider": "https://bitbucket.org/ranli2000/tvbox/raw/main/jar/hao.txt",
   "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
   "sites":[
+       {
+      "key": "南瓜",
+      "name": "🎃┃南瓜┃秒播┃",
+      "type": 3,
+      "api": "csp_NanGua",
+      "timeout": 15,
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
     {
       "key": "玩偶",
       "name": "👽┃玩偶┃哥哥┃",
@@ -23,18 +34,6 @@
       "changeable": 1
     }, 
 
-
-       {
-      "key": "南瓜",
-      "name": "🎃┃南瓜┃App┃",
-      "type": 3,
-      "api": "csp_NanGua",
-      "timeout": 15,
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
        {
       "key": "种子短剧",
       "name": "🍒┃短剧┃种子┃",
