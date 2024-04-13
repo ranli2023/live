@@ -12,16 +12,17 @@
       "filterable": 0
     },
     {
-      "key": "玩偶",
+      "key": "csp_WoGG",
       "name": "👽┃玩偶┃哥哥┃",
       "type": 3,
       "api": "csp_WoGG",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "changeable": 0,
-      "ext": "https://bitbucket.org/ranli2000/tvbox/raw/3277cf460b37d9df222ed768c0058f8f7d528d72/json/abc.json"
+      "changeable": 1,
+      "ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"
     },
+
     {
       "key": "csp_Bttoo",
       "name": "🍄┃比特┃秒播┃",
