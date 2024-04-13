@@ -14,14 +14,14 @@
       "changeable": 1
     },
     {
-      "key": "玩偶",
+      "key": "csp_WoGG",
       "name": "👽┃玩偶┃哥哥┃",
       "type": 3,
       "api": "csp_WoGG",
-      "searchable": 1,
+      "searchable": 2,
       "quickSearch": 1,
       "filterable": 1,
-      "changeable": 0,
+      "changeable": 1,
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+auto|4k|fhd$$$https://api.wogg.xyz/$$$弹"
     },
     {
