@@ -1311,8 +1311,8 @@ MIGU4,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8
 凤凰香港台,https://epg.pw/stream/8352ad260441ed0064f63f7a25eb3a7268a68b391f08a345b9bdbefd51aa330f.m3u8
 凤凰香港台,http://50.7.238.114:8278/hkphoenix_twn/playlist.m3u8?tid=MA5A4571836345718363&ct=19234&tsum=9d461ede3a5ecfa182b75574f86ae56a
 文旅香港台,http://ali-play.lezhibo.com:80/lezhibo/6ad788f1bbab4c689ecdc0d64a1e1601.m3u8
-TVB功夫台,https://ali.hlspull.yximgs.com/live/12344.flv
-TVB功夫台,https://edge6a.v2h-cdn.com/asia_action/asia_action.stream/chunklist.m3u8
+TVB功夫,https://ali.hlspull.yximgs.com/live/12344.flv
+TVB功夫,https://edge6a.v2h-cdn.com/asia_action/asia_action.stream/chunklist.m3u8
 星光视界台,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
 港台HK33台,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
 港台HK34台,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
@@ -1375,24 +1375,25 @@ CGNTV4,http://liveru.cgtn.com/1000r/prog_index.m3u8
 澳门莲花,http://ali.hlspull.yximgs.com/live/huanqiuhklivejejcxlvofbncvshhjsjcvndcbvdbneyjhxchjjhbnjjhjejjmlh.flv
 天映经典,http://ali.hlspull.yximgs.com/live/huanqiuhklivevcnydsjfjsetjjfcvbcdtsjjfvxcvsjnmbnljjhjjnmyhsjjftydj.flv
 
-
 🇨🇳台湾频道,#genre#
-中天新闻台,http://livetv.skycf.eu.org/live.m3u8?c=7
-中天亚洲,http://livetv.skycf.eu.org/live.m3u8?c=3
+中天新闻,http://livetv.skycf.eu.org/live.m3u8?c=7
+中天亚洲台,http://livetv.skycf.eu.org/live.m3u8?c=3
 中天娱乐,http://50.7.238.114:8278/ctient/playlist.m3u8?tid=MA8A3069789530697895&ct=19193&tsum=20c49fe9e15ad366c6e32b141f03bf8a
 TVBS新闻台,http://50.7.238.114:8278/tvbs_n/playlist.m3u8?tid=MECE3233774032337740&ct=19225&tsum=47a22a993d8e9b29582dfde5631c78b0
-东森经财,http://livetv.skycf.eu.org/live.m3u8?c=14
+东森财经,http://livetv.skycf.eu.org/live.m3u8?c=14
 东森新闻台,http://livetv.skycf.eu.org/live.m3u8?c=9
 三立新闻台,http://livetv.skycf.eu.org/live.m3u8?c=12
 非凡新闻台,http://50.7.238.114:8278/feifannews_twn/playlist.m3u8?tid=MACA3363565933635659&ct=19234&tsum=ec8caeb654e3121f9bb3ed39b1759999
 非凡新闻台,http://ali.hlspull.yximgs.com/live/huanqiuhklivesjtnfjjojdcbfcxvjfuujjwejjjsjyuhhdjsjhjynffxw.flv
 中视新闻台,http://livetv.skycf.eu.org/live.m3u8?c=6
-华视新闻台,http://livetv.skycf.eu.org/live.m3u8?c=13
-公视新闻,http://livetv.skycf.eu.org/live.m3u8?c=8
+华视新闻,http://livetv.skycf.eu.org/live.m3u8?c=13
+公视新闻台,http://livetv.skycf.eu.org/live.m3u8?c=8
 民视新闻台,http://livetv.skycf.eu.org/live.m3u8?c=11
 台视新闻台,http://livetv.skycf.eu.org/live.m3u8?c=4
 年代新闻台,http://50.7.238.114:8278/niandainews_twn/playlist.m3u8?tid=m062d2322888417909285&ct=17874&tsum=da6e0908f8df0e85b37f9d93167b9fcd
 龙华戏剧台,http://50.7.238.114:8278/lunghuaxiju_twn/playlist.m3u8?tid=MF2F2793524427935244&ct=19249&tsum=db1ef83fbbbae9a364979295fd690f7d
+
+
 🇨🇳北京综合,#genre#
 BTV休闲体育,http://115.171.86.251:9901/tsfile/live/16034_1.m3u8?key=txiptv&playlive=1&authid=0
 BTV冬奥纪实,http://111.225.112.123:808/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0

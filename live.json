@@ -1168,7 +1168,7 @@ TVB功夫,https://edge6a.v2h-cdn.com/asia_action/asia_action.stream/chunklist.m3
 港台電視(34),https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8
 耀才财经台,https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w99771165.m3u8
 耀才财经台,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
-凤凰中文台,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
+凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰资讯台,http://112.19.171.156:9999/udp/239.93.0.118:2191
 凤凰资讯台,http://www.372583307.top:4022/udp/233.50.200.192:5140
 无线新闻台,http://66.165.240.154:8080/live/TVBtyzxt1/hls.m3u8
@@ -1223,10 +1223,10 @@ CGNTV4,http://liveru.cgtn.com/1000r/prog_index.m3u8
 
 🇨🇳台湾频道,#genre#
 中天新闻,http://livetv.skycf.eu.org/live.m3u8?c=7
-中天亚洲,http://livetv.skycf.eu.org/live.m3u8?c=3
+中天亚洲台,http://livetv.skycf.eu.org/live.m3u8?c=3
 中天娱乐,http://50.7.238.114:8278/ctient/playlist.m3u8?tid=MA8A3069789530697895&ct=19193&tsum=20c49fe9e15ad366c6e32b141f03bf8a
 TVBS新闻台,http://50.7.238.114:8278/tvbs_n/playlist.m3u8?tid=MECE3233774032337740&ct=19225&tsum=47a22a993d8e9b29582dfde5631c78b0
-东森经财,http://livetv.skycf.eu.org/live.m3u8?c=14
+东森财经,http://livetv.skycf.eu.org/live.m3u8?c=14
 东森新闻台,http://livetv.skycf.eu.org/live.m3u8?c=9
 三立新闻台,http://livetv.skycf.eu.org/live.m3u8?c=12
 非凡新闻台,http://50.7.238.114:8278/feifannews_twn/playlist.m3u8?tid=MACA3363565933635659&ct=19234&tsum=ec8caeb654e3121f9bb3ed39b1759999
