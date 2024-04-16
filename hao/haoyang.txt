@@ -9,24 +9,26 @@
             "url": "http://我不是.肥猫.live/接口禁止贩卖",
             "name": "肥猫"
         },
-              
-        {
-            "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
-            "name": "南风"
-        },
-     
-        
+         {
+            "url": "http://www.wya6.cn/tv/yc.json",
+            "name": "摸鱼"
+        },            
+         {
+            "url": "https://raw.liucn.cc/box/m.json",
+            "name": "老刘"
+        },       
         {
             "url": "http://52pan.top:81/api/v3/file/get/174964/%E5%90%BE%E7%88%B1%E8%AF%84%E6%B5%8B.m3u?sign=rPssLoffquDXszCARt6UNF8MobSa1FA27XomzOluJBY%3D%3A0",
             "name": "吾爱"
         },
-        {
-            "url": "https://pastebin.com/raw/5NHaxyGR",
-            "name": "道长"
-        },
+
        {
             "url": "http://饭太硬.top/tv",
             "name": "饭太硬"
+        },
+       {
+            "url": "http://tvbox.王二小放牛娃.xyz",
+            "name": "放牛娃"
         },
         {
             "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
