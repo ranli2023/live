@@ -281,9 +281,9 @@
             "changeable": 0,
             "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
     },
-    {
+   {
       "key": "云盘搜索",
-      "name": "❤️┃搜索┃ 4K┃",
+      "name": "❤️┃搜索┃ 4K ┃",
       "type": 3,
       "api": "csp_XYQHiker",
       "jar": "http://www.wya6.cn/tz/wyog.php",
@@ -294,7 +294,7 @@
     },
     {
       "key": "DOVX搜索",
-      "name": "❤️┃七夜┃ 4K┃",
+      "name": "❤️┃七夜┃ 4K ┃",
       "type": 3,
       "api": "csp_XYQHiker",
       "jar": "http://www.wya6.cn/tz/wyog.php",
@@ -305,7 +305,7 @@
     },
     {
       "key": "Upyunso",
-      "name": "❤️┃云搜┃ 4K┃",
+      "name": "❤️┃云搜┃ 4K ┃",
       "type": 3,
       "api": "csp_Upyunso",
       "jar": "http://www.wya6.cn/tz/wyog.php",
@@ -316,7 +316,7 @@
     },
     {
       "key": "AliPS",
-      "name": "❤️┃盘搜┃ 4K┃",
+      "name": "❤️┃盘搜┃ 4K ┃",
       "type": 3,
       "api": "csp_AliPS",
       "jar": "http://www.wya6.cn/tz/wyog.php",
@@ -327,7 +327,7 @@
     },
     {
       "key": "Yisou",
-      "name": "❤️┃易搜┃ 4K┃",
+      "name": "❤️┃易搜┃ 4K ┃",
       "type": 3,
       "api": "csp_Yisou",
       "jar": "http://www.wya6.cn/tz/wyog.php",
@@ -336,8 +336,8 @@
       "filterable": 0,
       "ext": "http://127.0.0.1:9978/file/TVBox/tok.txt"
     },
-
-{"key":"dr_荐片",
+{
+"key":"dr_荐片",
 "name":"🧲┃荐片┃解析┃",
 "type":3,
 "api":"https://bitbucket.org/ranli2000/tvbox/raw/28265f35d4546c6921fd7aef6e51692476c54d37/drpy2.min.js",
@@ -345,11 +345,12 @@
 "searchable":1,
 "quickSearch":1,
 "filterable":1,
-"ext":"https://bitbucket.org/ranli2000/tvbox/raw/ac05adc8740fe1f32c456cda453d5c1422d31550/js/%E8%8D%90%E7%89%87.js"
+"ext":"https://bitbucket.org/ranli2000/tvbox/raw/28265f35d4546c6921fd7aef6e51692476c54d37/js/%E8%8D%90%E7%89%87.js"
 },
+
         {
       "key": "88js",
-            "name": "⚽ LIVE┃看球",
+            "name": "⚽┃LIVE┃看球┃",
             "type": 3,
             "api": "csp_Kanqiu",
             "style": {
@@ -359,7 +360,6 @@
             "quickSearch": 0,
             "changeable": 0
         },
-
     {
       "key": "csp_qiumi",
       "name": "⚽┃ Jrs ┃球迷┃",
