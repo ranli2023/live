@@ -261,7 +261,7 @@
     },
     {
       "key": "云盘搜索",
-      "name": "❤️搜索┃4K",
+      "name": "❤️┃搜索┃ 4K┃",
       "type": 3,
       "api": "csp_XYQHiker",
       "jar": "http://www.wya6.cn/tz/wyog.php",
@@ -272,7 +272,7 @@
     },
     {
       "key": "DOVX搜索",
-      "name": "❤️七夜┃4K",
+      "name": "❤️┃七夜┃ 4K┃",
       "type": 3,
       "api": "csp_XYQHiker",
       "jar": "http://www.wya6.cn/tz/wyog.php",
@@ -283,7 +283,7 @@
     },
     {
       "key": "Upyunso",
-      "name": "❤️云搜┃4K",
+      "name": "❤️┃云搜┃ 4K┃",
       "type": 3,
       "api": "csp_Upyunso",
       "jar": "http://www.wya6.cn/tz/wyog.php",
@@ -294,7 +294,7 @@
     },
     {
       "key": "AliPS",
-      "name": "❤️盘搜┃4K",
+      "name": "❤️┃盘搜┃ 4K┃",
       "type": 3,
       "api": "csp_AliPS",
       "jar": "http://www.wya6.cn/tz/wyog.php",
@@ -305,7 +305,7 @@
     },
     {
       "key": "Yisou",
-      "name": "❤️易搜┃4K",
+      "name": "❤️┃易搜┃ 4K┃",
       "type": 3,
       "api": "csp_Yisou",
       "jar": "http://www.wya6.cn/tz/wyog.php",
