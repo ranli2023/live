@@ -16,6 +16,10 @@
             "name": "放牛娃"
         },
         {
+            "url": "https://盒子迷.top/春盈天下",
+            "name": "春盈天下"
+        },
+        {
             "url": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/ygbox.json",
             "name": "月光宝盒"
         },
