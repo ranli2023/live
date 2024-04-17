@@ -281,6 +281,61 @@
             "changeable": 0,
             "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
     },
+    {
+      "key": "云盘搜索",
+      "name": "❤️┃搜索┃ 4K┃",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "jar": "http://www.wya6.cn/tz/wyog.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://a.nxog.top/m/json/yps.json"
+    },
+    {
+      "key": "DOVX搜索",
+      "name": "❤️┃七夜┃ 4K┃",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "jar": "http://www.wya6.cn/tz/wyog.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://a.nxog.top/m/json/DOVX.json"
+    },
+    {
+      "key": "Upyunso",
+      "name": "❤️┃云搜┃ 4K┃",
+      "type": 3,
+      "api": "csp_Upyunso",
+      "jar": "http://www.wya6.cn/tz/wyog.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://127.0.0.1:9978/file/TVBox/tok.txt"
+    },
+    {
+      "key": "AliPS",
+      "name": "❤️┃盘搜┃ 4K┃",
+      "type": 3,
+      "api": "csp_AliPS",
+      "jar": "http://www.wya6.cn/tz/wyog.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://127.0.0.1:9978/file/TVBox/tok.txt"
+    },
+    {
+      "key": "Yisou",
+      "name": "❤️┃易搜┃ 4K┃",
+      "type": 3,
+      "api": "csp_Yisou",
+      "jar": "http://www.wya6.cn/tz/wyog.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://127.0.0.1:9978/file/TVBox/tok.txt"
+    },
 
 {"key":"dr_荐片",
 "name":"🧲┃荐片┃解析┃",
