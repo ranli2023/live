@@ -26,10 +26,10 @@
             "url": "http://饭太硬.top/tv",
             "name": "饭太硬"
         },
-       {
-            "url": "http://tvbox.王二小放牛娃.xyz",
-            "name": "放牛娃"
-        },
+         {
+            "url": "http://www.wya6.cn/tv/yc.json",
+            "name": "无意云"
+        },   
         {
             "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
             "name": "香雅情"
