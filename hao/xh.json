@@ -232,12 +232,12 @@
       "key": "玩偶哥哥",
       "name": "👽玩偶哥哥",
       "type": 3,
-      "api": "csp_XYQHikerAL",
+      "api": "csp_WoGG",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://bitbucket.org/ranli2000/tvbox/raw/6c38954b792580ffabc465276a7fd80b28fb53e9/json/%E7%8E%A9%E5%81%B6%E5%93%A5%E5%93%A51.json",
-"jar": "https://bitbucket.org/ranli2000/tvbox/raw/main/jar/tv.txt"
+      "changeable": 0,      
+       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+auto|4k|fhd$$$https://api.wogg.xyz/$$$弹"
     },
 
        {
