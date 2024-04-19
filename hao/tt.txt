@@ -1,40 +1,47 @@
 {
-"spider": "https://bitbucket.org/ranli2000/tvbox/raw/main/jar/hao.txt",
+"spider": "https://bitbucket.org/ranli2000/tvbox/raw/main/jar/tv.txt",
   "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
-  "sites":[
-       {
+"sites":[
+    {
       "key": "南瓜",
       "name": "🎃┃南瓜┃秒播┃",
       "type": 3,
-      "api": "csp_NanGua",
-      "timeout": 15,
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
+      "api": "https://bitbucket.org/ranli2000/tvbox/raw/28265f35d4546c6921fd7aef6e51692476c54d37/drpy2.min.js",
+            "changeable": 0,
+            "playerType": "1",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+      "ext": "https://bitbucket.org/ranli2000/tvbox/raw/0ea07bfa506b191e435459552afe92bfb52f864c/js/%E5%8D%97%E7%93%9C.js"
     },
     {
-      "key": "csp_WoGG",
+      "key": "玩偶哥哥",
       "name": "👽┃玩偶┃哥哥┃",
       "type": 3,
-      "api": "csp_WoGG",
+      "api": "csp_XYQHikerAL",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+auto|4k|fhd$$$https://api.wogg.xyz/$$$弹"
+      "ext": "https://bitbucket.org/ranli2000/tvbox/raw/6c38954b792580ffabc465276a7fd80b28fb53e9/json/%E7%8E%A9%E5%81%B6%E5%93%A5%E5%93%A51.json"
     },
+
+
     {
       "key": "csp_Bttoo",
       "name": "🍄┃比特┃秒播┃",
       "type": 3,
-      "api": "csp_Bttwoo",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    }, 
+      "api": "https://bitbucket.org/ranli2000/tvbox/raw/28265f35d4546c6921fd7aef6e51692476c54d37/drpy2.min.js",
+            "changeable": 0,
+            "playerType": "1",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+      "ext": "https://bitbucket.org/ranli2000/tvbox/raw/0ea07bfa506b191e435459552afe92bfb52f864c/js/%E4%B8%A4%E4%B8%AABT.js"
+    },
 
-       {
+     
+
+     {
       "key": "种子短剧",
       "name": "🍒┃短剧┃种子┃",
       "type": 3,
@@ -42,6 +49,7 @@
       "ext": "http://dt.xn--yety82d.love/js/种子短剧.js",
       "playerType": 2
     },
+
  {
             "key": "drpy_js_好趣网",
             "name": "📺︎┃电视┃直播┃",
@@ -55,7 +63,7 @@
             "ext": "https://bitbucket.org/ranli2000/tvbox/raw/28265f35d4546c6921fd7aef6e51692476c54d37/js/%E5%A5%BD%E8%B6%A3%E7%BD%91.js"
         },
        
-       
+
      {
       "key": "YGP",
       "name": "🚀┃荐影┃新片┃",
@@ -63,8 +71,9 @@
       "api": "csp_YGP",
       "searchable": 0,
       "quickSearch": 0,
-      "changeable": 0
-    },
+      "changeable": 0,
+      "jar": "https://bitbucket.org/ranli2000/tvbox/raw/main/jar/hao.txt"
+  },
 
     {
       "key": "Xinsj",
@@ -75,7 +84,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "https://www.80yy3.com/"
+      "ext": "https://www.80yy3.com/",
+      "jar": "https://bitbucket.org/ranli2000/tvbox/raw/main/jar/hao.txt"
     },
     {
       "key": "厂长",
@@ -87,18 +97,10 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "https://www.czzy77.com/"
+      "ext": "https://www.czzy77.com/",
+      "jar": "https://bitbucket.org/ranli2000/tvbox/raw/main/jar/hao.txt"
     },
-    {
-      "key": "77",
-      "name": "👒┃七七┃秒播┃",
-      "type": 3,
-      "api": "csp_Kunyu77",
-      "timeout": 15,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
+
 
     {
       "key": "DiDuan",
@@ -108,7 +110,8 @@
       "playerType": "2",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1
+      "changeable": 1,
+      "jar": "https://bitbucket.org/ranli2000/tvbox/raw/main/jar/hao.txt"
     },
 
     {
@@ -120,9 +123,22 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "https://www.maolvys.com/"
+      "ext": "https://www.maolvys.com/",
+      "jar": "https://bitbucket.org/ranli2000/tvbox/raw/main/jar/hao.txt"
     },
-       {
+    {
+      "key": "csp_Nmys",
+      "name": "🌾┃农民┃直连┃",
+      "type": 3,
+      "api": "csp_Nmys",
+      "timeout": 15,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://bitbucket.org/ranli2000/tvbox/raw/595ced33956134ddfeeee8d41546bd948eb6acaa/json/nmys.json",
+      "jar": "https://bitbucket.org/ranli2000/tvbox/raw/main/jar/hao.txt"
+    },      
+ {
       "key": "Lib",
       "name": "🌟┃立播┃直连┃",
       "type": 3,
@@ -131,7 +147,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "https://www.libvio.pw/"
+      "ext": "https://www.libvio.pw/",
+      "jar": "https://bitbucket.org/ranli2000/tvbox/raw/main/jar/hao.txt"
     },
     {
       "key": "Auete",
@@ -142,8 +159,9 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "https://auete.pro/"
-    },
+      "ext": "https://auete.pro/",
+      "jar": "https://bitbucket.org/ranli2000/tvbox/raw/main/jar/hao.txt"
+    },   
     {
       "key": "SP33",
       "name": "📺┃三三┃解析┃",
@@ -152,7 +170,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "changeable": 0
+      "changeable": 0,
+      "jar": "https://bitbucket.org/ranli2000/tvbox/raw/main/jar/hao.txt"
     },
     {
       "key": "贱贱",
@@ -163,8 +182,9 @@
       "changeable": 1,
       "playerType": "1",
       "api": "https://bitbucket.org/ranli2000/tvbox/raw/28265f35d4546c6921fd7aef6e51692476c54d37/drpy2.min.js",
-      "ext": "https://bitbucket.org/ranli2000/tvbox/raw/c76e9b2abf33f855f212698a10e81703166f3451/js/jp.js"
-    },
+      "ext": "https://bitbucket.org/ranli2000/tvbox/raw/c76e9b2abf33f855f212698a10e81703166f3451/js/jp.js",
+      "jar": "https://bitbucket.org/ranli2000/tvbox/raw/main/jar/hao.txt"
+    },    
     {
       "key": "新6V",
       "name": "🧲┃新6V┃磁力┃",
@@ -173,20 +193,11 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "http://www.xb6v.com/"
+      "ext": "http://www.xb6v.com/",
+      "jar": "https://bitbucket.org/ranli2000/tvbox/raw/main/jar/hao.txt"
     },
 
-    {
-      "key": "csp_Ying",
-      "name": "💮┃樱花┃动漫┃",
-      "type": 3,
-      "api": "csp_Ying",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
 
-      
 {"key":"360",
 "name":"💘┃360┃影视┃",
 "type":3,
@@ -194,8 +205,11 @@
 "searchable":1,
 "quickSearch":1,
 "filterable":1,
-"changeable":0
+"changeable":0,
+      "jar": "https://bitbucket.org/ranli2000/tvbox/raw/main/jar/hao.txt"
 },
+
+
 
 
 
@@ -336,7 +350,8 @@
             },
             "searchable": 0,
             "quickSearch": 0,
-            "changeable": 0
+            "changeable": 0,
+      "jar": "https://bitbucket.org/ranli2000/tvbox/raw/main/jar/hao.txt"
         },
     {
       "key": "csp_qiumi",
@@ -396,7 +411,7 @@
         "name":"📚┃儿童┃启蒙┃",
         "type":3,
         "api":"https://bitbucket.org/ranli2000/tvbox/raw/28265f35d4546c6921fd7aef6e51692476c54d37/drpy2.min.js",
-        "ext":"https://bitbucket.org/ranli2000/tvbox/raw/1129a7d22a0297c82d15b897bc44903c6f635587/js/%E5%84%BF%E7%AB%A5%E5%90%AF%E8%92%99.js",
+        "ext":"https://bitbucket.org/ranli2000/tvbox/raw/595ced33956134ddfeeee8d41546bd948eb6acaa/js/%E5%84%BF%E7%AB%A5%E5%90%AF%E8%92%99.js",
         "style":{"type":"rect","ratio":1.597},
         "searchable": 0,
         "quickSearch": 0,
@@ -507,7 +522,7 @@
       "quickSearch": 0,
        "filterable": 0,
       "ext": "https://s2.pub/mingshi",
-      "jar": "https://bitbucket.org/ranli2000/tvbox/raw/main/jar/%E5%90%8D%E5%B1%85.txt"
+      "jar": "https://bitbucket.org/ranli2000/tvbox/raw/main/jar/hao.txt"
     },
      
         {"key":"qq",
@@ -581,7 +596,7 @@
         {
             "name": "live",
             "type": 0,
-            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/ranli2023/tv/main/live.json",
+            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/ranli2023/tv/main/lives.json",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
            "logo": "http://epg.112114.xyz/logo/{name}.png"
         }

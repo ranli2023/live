@@ -228,17 +228,8 @@
         "动漫"
       ]
     },
-    {
-      "key": "csp_WoGG",
-      "name": "️🇨🇳玩偶哥哥",
-      "type": 3,
-      "api": "csp_WoGG",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext":"https://bitbucket.org/ranli2000/tvbox/raw/446710430e4f20d1a34470d63f7d93654b1e9838/json/%E7%8E%A9%E5%81%B6%E5%93%A5%E5%93%A5.json"
-    },
+      "ext":"https://bitbucket.org/ranli2000/tvbox/raw/d62599c046b4eecac0b2304995ef1251ad1ee7e8/json/%E7%8E%A9%E5%81%B6%E5%93%A5%E5%93%A51.json",
+      "jar": "https://bitbucket.org/ranli2000/tvbox/raw/main/jar/tv.txt"
        {
       "key": "🦊YiSo",
       "name": "🇨🇳易搜云盘",
