@@ -28,7 +28,7 @@
 
     {
       "key": "csp_Bttoo",
-      "name": "🍄┃比特┃秒播",
+      "name": "🍄┃比特┃秒播┃",
       "type": 3,
       "api": "https://bitbucket.org/ranli2000/tvbox/raw/28265f35d4546c6921fd7aef6e51692476c54d37/drpy2.min.js",
             "changeable": 0,
@@ -40,7 +40,7 @@
     },
     {
       "key": "南瓜",
-      "name": "🎃┃南瓜┃秒播",
+      "name": "🎃┃南瓜┃秒播┃",
       "type": 3,
       "api": "https://bitbucket.org/ranli2000/tvbox/raw/28265f35d4546c6921fd7aef6e51692476c54d37/drpy2.min.js",
             "changeable": 0,
@@ -83,7 +83,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "spider": "https://bitbucket.org/ranli2000/tvbox/raw/main/jar/hao.txt",
+      "jar": "https://bitbucket.org/ranli2000/tvbox/raw/main/jar/hao.txt"
   },
 
     {
@@ -96,7 +96,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "https://www.80yy3.com/",
-      "spider": "https://bitbucket.org/ranli2000/tvbox/raw/main/jar/hao.txt",
+      "jar": "https://bitbucket.org/ranli2000/tvbox/raw/main/jar/hao.txt"
     },
     {
       "key": "厂长",
@@ -109,19 +109,9 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "https://www.czzy77.com/",
-      "spider": "https://bitbucket.org/ranli2000/tvbox/raw/main/jar/hao.txt",
+      "jar": "https://bitbucket.org/ranli2000/tvbox/raw/main/jar/hao.txt"
     },
-    {
-      "key": "77",
-      "name": "👒┃七七┃秒播┃",
-      "type": 3,
-      "api": "csp_Kunyu77",
-      "timeout": 15,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "spider": "https://bitbucket.org/ranli2000/tvbox/raw/main/jar/hao.txt",
-    },
+
 
     {
       "key": "DiDuan",
@@ -132,7 +122,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "spider": "https://bitbucket.org/ranli2000/tvbox/raw/main/jar/hao.txt",
+      "jar": "https://bitbucket.org/ranli2000/tvbox/raw/main/jar/hao.txt"
     },
 
     {
@@ -145,7 +135,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "https://www.maolvys.com/",
-      "spider": "https://bitbucket.org/ranli2000/tvbox/raw/main/jar/hao.txt",
+      "jar": "https://bitbucket.org/ranli2000/tvbox/raw/main/jar/hao.txt"
     },
     {
       "key": "csp_Nmys",
@@ -157,7 +147,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "https://bitbucket.org/ranli2000/tvbox/raw/595ced33956134ddfeeee8d41546bd948eb6acaa/json/nmys.json",
-      "spider": "https://bitbucket.org/ranli2000/tvbox/raw/main/jar/hao.txt",
+      "jar": "https://bitbucket.org/ranli2000/tvbox/raw/main/jar/hao.txt"
     },      
  {
       "key": "Lib",
@@ -169,7 +159,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "https://www.libvio.pw/",
-      "spider": "https://bitbucket.org/ranli2000/tvbox/raw/main/jar/hao.txt",
+      "jar": "https://bitbucket.org/ranli2000/tvbox/raw/main/jar/hao.txt"
     },
     {
       "key": "Auete",
@@ -181,7 +171,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "https://auete.pro/",
-      "spider": "https://bitbucket.org/ranli2000/tvbox/raw/main/jar/hao.txt",
+      "jar": "https://bitbucket.org/ranli2000/tvbox/raw/main/jar/hao.txt"
     },   
     {
       "key": "SP33",
@@ -192,7 +182,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 0,
-      "spider": "https://bitbucket.org/ranli2000/tvbox/raw/main/jar/hao.txt",
+      "jar": "https://bitbucket.org/ranli2000/tvbox/raw/main/jar/hao.txt"
     },
     {
       "key": "贱贱",
@@ -204,7 +194,7 @@
       "playerType": "1",
       "api": "https://bitbucket.org/ranli2000/tvbox/raw/28265f35d4546c6921fd7aef6e51692476c54d37/drpy2.min.js",
       "ext": "https://bitbucket.org/ranli2000/tvbox/raw/c76e9b2abf33f855f212698a10e81703166f3451/js/jp.js",
-      "spider": "https://bitbucket.org/ranli2000/tvbox/raw/main/jar/hao.txt",
+      "jar": "https://bitbucket.org/ranli2000/tvbox/raw/main/jar/hao.txt"
     },    
     {
       "key": "新6V",
@@ -215,21 +205,10 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": "http://www.xb6v.com/",
-      "spider": "https://bitbucket.org/ranli2000/tvbox/raw/main/jar/hao.txt",
+      "jar": "https://bitbucket.org/ranli2000/tvbox/raw/main/jar/hao.txt"
     },
 
-    {
-      "key": "csp_Ying",
-      "name": "💮┃樱花┃动漫┃",
-      "type": 3,
-      "api": "csp_Ying",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "spider": "https://bitbucket.org/ranli2000/tvbox/raw/main/jar/hao.txt",
-    },
 
-      
 {"key":"360",
 "name":"💘┃360┃影视┃",
 "type":3,
@@ -238,7 +217,7 @@
 "quickSearch":1,
 "filterable":1,
 "changeable":0,
-"spider": "https://bitbucket.org/ranli2000/tvbox/raw/main/jar/hao.txt",
+      "jar": "https://bitbucket.org/ranli2000/tvbox/raw/main/jar/hao.txt"
 },
 
 
@@ -383,7 +362,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "changeable": 0,
-      "spider": "https://bitbucket.org/ranli2000/tvbox/raw/main/jar/hao.txt",
+      "jar": "https://bitbucket.org/ranli2000/tvbox/raw/main/jar/hao.txt"
         },
     {
       "key": "csp_qiumi",
@@ -554,7 +533,7 @@
       "quickSearch": 0,
        "filterable": 0,
       "ext": "https://s2.pub/mingshi",
-      "jar": "https://bitbucket.org/ranli2000/tvbox/raw/main/jar/%E5%90%8D%E5%B1%85.txt"
+      "jar": "https://bitbucket.org/ranli2000/tvbox/raw/main/jar/hao.txt"
     },
      
         {"key":"qq",
