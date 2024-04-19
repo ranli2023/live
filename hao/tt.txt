@@ -199,12 +199,11 @@
 {"key":"360",
 "name":"💘┃360┃影视┃",
 "type":3,
-"api":"csp_SP33",
-"searchable":1,
-"quickSearch":1,
-"filterable":1,
-"changeable":0,
-      "jar": "https://bitbucket.org/ranli2000/tvbox/raw/main/jar/hao.txt"
+      "api": "csp_SP360",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0
 },
 
 
