@@ -30,14 +30,12 @@
       "key": "csp_Bttoo",
       "name": "🍄┃比特┃秒播┃",
       "type": 3,
-      "api": "https://bitbucket.org/ranli2000/tvbox/raw/28265f35d4546c6921fd7aef6e51692476c54d37/drpy2.min.js",
-            "changeable": 0,
-            "playerType": "1",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-      "ext": "https://bitbucket.org/ranli2000/tvbox/raw/0ea07bfa506b191e435459552afe92bfb52f864c/js/%E4%B8%A4%E4%B8%AABT.js"
-    },
+      "api": "csp_Bttwoo",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+       "jar": "https://bitbucket.org/ranli2000/tvbox/raw/main/jar/hao.txt"
+    }, 
     {
       "key": "南瓜",
       "name": "🎃┃南瓜┃秒播┃",
