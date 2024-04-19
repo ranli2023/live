@@ -2,20 +2,6 @@
 "spider": "https://bitbucket.org/ranli2000/tvbox/raw/main/jar/tv.txt",
   "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 "sites":[
-      {
-      "key": "豆瓣",
-      "name": "🧧祝：大家龙年大吉！",
-      "type": 3,
-      "api": "https://bitbucket.org/ranli2000/tvbox/raw/28265f35d4546c6921fd7aef6e51692476c54d37/drpy2.min.js",
-            "changeable": 0,
-            "playerType": "1",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-      "ext": "https://bitbucket.org/ranli2000/tvbox/raw/0{
-"spider": "https://bitbucket.org/ranli2000/tvbox/raw/main/jar/hao.txt",
-  "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
-"sites":[
     {
       "key": "豆瓣",
       "name": "🧧请勿相信视频中任何广告",
