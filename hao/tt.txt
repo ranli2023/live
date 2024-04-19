@@ -2,35 +2,23 @@
 "spider": "https://bitbucket.org/ranli2000/tvbox/raw/main/jar/tv.txt",
   "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 "sites":[
-      {
-      "key": "豆瓣",
-      "name": "🧧祝：大家龙年大吉！",
-      "type": 3,
-      "api": "https://bitbucket.org/ranli2000/tvbox/raw/28265f35d4546c6921fd7aef6e51692476c54d37/drpy2.min.js",
-            "changeable": 0,
-            "playerType": "1",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-      "ext": "https://bitbucket.org/ranli2000/tvbox/raw/0ea07bfa506b191e435459552afe92bfb52f864c/js/douban.js"
-    },
     {
       "key": "南瓜",
-      "name": "🎃┃南瓜┃秒播┃",
+      "name": "🎃南瓜┃App",
       "type": 3,
-      "api": "https://bitbucket.org/ranli2000/tvbox/raw/28265f35d4546c6921fd7aef6e51692476c54d37/drpy2.min.js",
-            "changeable": 0,
-            "playerType": "1",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-      "ext": "https://bitbucket.org/ranli2000/tvbox/raw/0ea07bfa506b191e435459552afe92bfb52f864c/js/%E5%8D%97%E7%93%9C.js"
+     "jar": "https://bitbucket.org/ranli2000/tvbox/raw/main/jar/hao.txt",
+      "api": "csp_NanGua",
+      "timeout": 15,
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
     },
     {
       "key": "玩偶",
       "name": "👽┃玩偶┃哥哥┃┃",
       "type": 3,
-     "jar": "https://bitbucket.org/ranli2000/tvbox/raw/main/jar/hao.txt"
+     "jar": "https://bitbucket.org/ranli2000/tvbox/raw/main/jar/hao.txt",
       "api": "csp_WoGG",
       "searchable": 1,
       "quickSearch": 1,
