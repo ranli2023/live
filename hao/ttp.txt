@@ -117,7 +117,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "https://www.czzy77.com/",
+      "ext": "https://www.cz233.com/",
       "jar": "https://bitbucket.org/ranli2000/tvbox/raw/main/jar/hao.txt"
     },
 
