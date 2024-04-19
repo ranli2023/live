@@ -24,6 +24,26 @@
       "filterable": 1,
       "ext": "https://bitbucket.org/ranli2000/tvbox/raw/6c38954b792580ffabc465276a7fd80b28fb53e9/json/%E7%8E%A9%E5%81%B6%E5%93%A5%E5%93%A51.json"
     },
+    {
+      "key": "土豆阿里",
+      "name": "🎦┃土豆┃阿里┃",
+      "type": 3,
+      "api": "csp_XYQHikerAL",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://bitbucket.org/ranli2000/tvbox/raw/601937ba3add7d2a9b8e5ad6ace3695bdf4b0e1a/json/%E5%9C%9F%E8%B1%86%E9%98%BF%E9%87%8C.json"
+    },
+    {
+      "key": "多多阿里",
+      "name": "🎦┃多多┃阿里┃",
+      "type": 3,
+      "api": "csp_XYQHikerAL",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://bitbucket.org/ranli2000/tvbox/raw/601937ba3add7d2a9b8e5ad6ace3695bdf4b0e1a/json/%E5%A4%9A%E5%A4%9A%E9%98%BF%E9%87%8C.json"
+    },
 
 {"key":"360",
 "name":"💘┃360┃影视┃",
