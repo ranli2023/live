@@ -24,7 +24,7 @@
     },
     {
       "key": "玩偶",
-      "name": "👽┃玩偶┃哥哥┃",
+      "name": "👽┃玩偶┃弹幕┃",
       "type": 3,
       "api": "csp_WoGG",
       "searchable": 1,
@@ -42,10 +42,10 @@
 
     {
       "key": "玩我哥哥",
-      "name": "🎦┃玩我┃哥哥┃",
+      "name": "🇨🇳┃玩偶┃哥哥┃",
       "type": 3,
       "jar": "https://bitbucket.org/ranli2000/tvbox/raw/main/jar/tv.txt",
-      "api": "csp_XYQHikerAL",
+      "api": "csp_WoGG",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
