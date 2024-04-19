@@ -18,11 +18,11 @@
       "key": "玩偶哥哥",
       "name": "👽┃玩偶┃哥哥┃",
       "type": 3,
-      "api": "csp_XYQHikerAL",
+      "api": "csp_WoGG",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://bitbucket.org/ranli2000/tvbox/raw/6c38954b792580ffabc465276a7fd80b28fb53e9/json/%E7%8E%A9%E5%81%B6%E5%93%A5%E5%93%A51.json"
+      "ext": "https://bitbucket.org/ranli2000/tvbox/raw/76aba74bf1e0ac7499d92a5ddd987d4c7b16b8b6/json/abc.json"
     },
 
 
