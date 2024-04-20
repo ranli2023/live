@@ -75,7 +75,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "https://video.360kan.com/"
+      "ext": "https://bitbucket.org/ranli2000/tvbox/raw/8b48ad7cd7abd0ba1a6fee4a009e5426caeb71bd/json/360.txt"
     },
     {
       "key": "七新影视",
