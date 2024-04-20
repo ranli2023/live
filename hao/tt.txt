@@ -1,6 +1,14 @@
 {
 "spider": "https://bitbucket.org/ranli2000/tvbox/raw/main/jar/hao.txt",
   "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
+    {
+      "name": "live",
+      "type": 0,
+      "url": "https://bitbucket.org/ranli2000/cq/raw/f910c96acac06392f3d869b1b2754bd8cee908fc/haoyang.m3u",
+      "epg": "http://epg.112114.eu.org/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/bingimg/logo/{name}.png"
+    }
+  ],
 "sites":[
     {
       "key": "南瓜",
