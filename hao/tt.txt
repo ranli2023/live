@@ -5,7 +5,8 @@
     {
       "name": "live",
       "type": 0,
-      "url": "https://bitbucket.org/ranli2000/cq/raw/f910c96acac06392f3d869b1b2754bd8cee908fc/haoyang.m3u",
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/ranli2023/live/main/lives.json",
+      "playerType": 1,
       "epg": "http://epg.112114.eu.org/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/bingimg/logo/{name}.png"
     }
@@ -74,18 +75,16 @@
       "ext": "https://bitbucket.org/ranli2000/tvbox/raw/601937ba3add7d2a9b8e5ad6ace3695bdf4b0e1a/json/%E5%A4%9A%E5%A4%9A%E9%98%BF%E9%87%8C.json"
     },
 {
-    "key":"360",
-    "name":"💘┃360┃影视┃",
-      "type": 3,
-      "api": "csp_360影视",
-      "jar": "https://bitbucket.org/ranli2000/tvbox/raw/main/jar/tv.txt", 
-      "timeout": 15,
-      "playerType": 2,
+"key":"360",
+"name":"💘┃360┃影视┃",
+"type":3,
+      "api": "csp_SP360",
+      "jar": "https://bitbucket.org/ranli2000/tvbox/raw/main/jar/tv.txt",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://bitbucket.org/ranli2000/tvbox/raw/8b48ad7cd7abd0ba1a6fee4a009e5426caeb71bd/json/360.txt"
-    },
+      "filterable": 1,
+      "changeable": 0
+},
     {
       "key": "七新影视",
       "name": "🎦┃七新┃秒播┃",
