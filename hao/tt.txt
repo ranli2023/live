@@ -67,12 +67,12 @@
 {"key":"360",
 "name":"💘┃360┃影视┃",
 "type":3,
-      "api": "csp_SP360",
-      "jar": "https://bitbucket.org/ranli2000/tvbox/raw/main/jar/tv.txt",
+      "api": "csp_SP330",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "changeable": 0
+      "changeable": 0,
+      "jar": "https://bitbucket.org/ranli2000/tvbox/raw/main/jar/tv.txt"
 },
     {
       "key": "七新影视",
