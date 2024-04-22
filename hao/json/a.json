@@ -31,12 +31,7 @@
             "icon": "https://bitbucket.org/ranli2000/tvbox/raw/824b82321ccb5bbe619d08f529b5f8609e069bc2/%E5%9B%BE%E7%89%87/%E8%B1%AA%E6%B4%8B%E7%9B%B4%E6%92%AD.png",
             "version": "1.0.0" 
           },
-             {
-            "name": "宝盒", 
-            "url": "https://bitbucket.org/ranli2000/cq/src/main/app/%E5%AE%9D%E7%9B%92_3.10.apk", 
-            "icon": "https://bitbucket.org/ranli2000/tvbox/raw/320ade13e9e1dbab54621dfb5b4c38eaaa5f48ef/%E5%9B%BE%E7%89%87/%E5%AE%9D%E7%9B%92.png",
-            "version": "3.10" 
-          },
+
              {
                 "name": "微信赞助打赏",
                 "url": "https://bitbucket.org/ranli2000/tvbox/raw/7b7e3b1e80d2d3a4c64cd2e34d3e0297f2395e84/%E5%9B%BE%E7%89%87/518.png",
