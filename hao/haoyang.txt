@@ -9,7 +9,12 @@
             "url": "http://我不是.肥猫.live/接口禁止贩卖",
             "name": "肥猫"
         },
-         
+          {
+            "url": "http://152.32.170.60/Yoursmile7/TVBox/raw/branch/master/XC.json",
+            "name": "南风"
+        },       
+
+
          {
             "url": "https://raw.liucn.cc/box/m.json",
             "name": "老刘"
