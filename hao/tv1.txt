@@ -239,14 +239,7 @@
       "ext": "https://auete.pro/",
       "jar": "https://bitbucket.org/ranli2000/tvbox/raw/main/jar/hao.txt"
     },   
-    {
-      "key": "喜马拉雅",
-      "name": "📚️┃小说┃听书┃",
-      "type": 3,
-      "jar": "https://bitbucket.org/ranli2000/tvbox/raw/main/jar/tv.txt",
-      "api": "https://bitbucket.org/ranli2000/tvbox/raw/28265f35d4546c6921fd7aef6e51692476c54d37/drpy2.min.js",
-      "ext": "https://bitbucket.org/ranli2000/tvbox/raw/92e25e57bd8d4f09f4fab8a2e49ada85921ef6e3/js/ximalaya.js"
-    },
+
     {
       "key": "贱贱",
       "name": "🐭┃贱贱┃p2p┃",
@@ -581,7 +574,7 @@
       "quickSearch": 0,
        "filterable": 0,
       "ext": "https://s2.pub/mingshi",
-      "jar": "https://bitbucket.org/ranli2000/tvbox/raw/main/jar/hao.txt"
+      "jar": "https://bitbucket.org/ranli2000/tvbox/raw/main/jar/xx.txt"
     },
      
         {"key":"qq",
