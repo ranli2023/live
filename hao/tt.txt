@@ -565,7 +565,7 @@
       "api": "csp_Market",
       "quickSearch": 0,
        "filterable": 0,
-      "ext": "https://bitbucket.org/ranli2000/tvbox/raw/c13b4a9ea9a26318b5663ad8dbe37459f2ee1bfb/json/a.json",
+      "ext": "https://s2.pub/mingshi",
       "jar": "https://bitbucket.org/ranli2000/tvbox/raw/main/jar/xx.txt"
     },
      
