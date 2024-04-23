@@ -46,40 +46,13 @@
      { 
           "name": "常用工具",    
           "list": [
-            { "name": "甲壳虫ADB助手",
-          "url": "http://w6.nxog.top:81/d/%E6%AC%A7%E6%AC%A7/%E6%AD%8C%E6%AD%8C/%E7%94%B2%E5%A3%B3%E8%99%ABADB%E5%8A%A9%E6%89%8B.apk",
-           "icon": "https://bitbucket.org/ranli2000/tvbox/raw/9af3f18b10e60d54ea6962737b560506859b7986/%E5%9B%BE%E7%89%87/245.png", 
-           "version": "手机版" 
-          },
-           { 
-           "name": "八爪鱼遥控TV版",
-              "url": "http://w6.nxog.top:81/d/%E6%AC%A7%E6%AC%A7/%E6%AD%8C%E6%AD%8C/%E5%85%AB%E7%88%AA%E9%B1%BC%E9%81%A5%E6%8E%A7TV%E7%89%88.apk", 
-              "icon": "https://bitbucket.org/ranli2000/tvbox/raw/9af3f18b10e60d54ea6962737b560506859b7986/%E5%9B%BE%E7%89%87/245.png",
-              "version": "TV版"
-             } , 
-              { 
-            "name": "八爪鱼遥控手机版", 
-             "url": "http://w6.nxog.top:81/d/%E6%AC%A7%E6%AC%A7/%E6%AD%8C%E6%AD%8C/%E5%85%AB%E7%88%AA%E9%B1%BC%E9%81%A5%E6%8E%A7%E6%89%8B%E6%9C%BA%E7%89%88.apk",  
-           "icon": "https://bitbucket.org/ranli2000/tvbox/raw/9af3f18b10e60d54ea6962737b560506859b7986/%E5%9B%BE%E7%89%87/245.png", 
-           "version": "手机版"
-           }, 
-           { 
+  { 
          "name": "当贝桌面",
-          "url": "http://w6.nxog.top:81/d/%E6%AC%A7%E6%AC%A7/%E6%AD%8C%E6%AD%8C/%E5%BD%93%E8%B4%9D%E6%A1%8C%E9%9D%A2.apk",
+          "url": "https://bitbucket.org/ranli2000/cq/raw/main/app/%E5%BD%93%E8%B4%9D%E6%A1%8C%E9%9D%A2.apk",
            "icon": "https://bitbucket.org/ranli2000/tvbox/raw/9af3f18b10e60d54ea6962737b560506859b7986/%E5%9B%BE%E7%89%87/123.png",
            "version": "TV版"
              }, 
-          { 
-         "name": "小白文件管理器TV版",
-           "url": "http://w6.nxog.top:81/d/%E6%AC%A7%E6%AC%A7/%E6%AD%8C%E6%AD%8C/%E5%B0%8F%E7%99%BD%E6%96%87%E4%BB%B6%E7%AE%A1%E7%90%86%E5%99%A8TV%E7%89%88.apk",
-           "icon": "https://bitbucket.org/ranli2000/tvbox/raw/9af3f18b10e60d54ea6962737b560506859b7986/%E5%9B%BE%E7%89%87/123.png",
-            "version": "TV版" 
-           },
-              { "name": "小米电视助手", 
-            "url": "http://w6.nxog.top:81/d/%E6%AC%A7%E6%AC%A7/%E6%AD%8C%E6%AD%8C/%E5%B0%8F%E7%B1%B3%E7%94%B5%E8%A7%86%E5%8A%A9%E6%89%8B.apk", 
-          "icon": "https://bitbucket.org/ranli2000/tvbox/raw/9af3f18b10e60d54ea6962737b560506859b7986/%E5%9B%BE%E7%89%87/123.png",
-          "version": "手机版"
-          },    
+  
                {
                 "name": "微信赞助打赏",
                 "url": "https://bitbucket.org/ranli2000/tvbox/raw/7b7e3b1e80d2d3a4c64cd2e34d3e0297f2395e84/%E5%9B%BE%E7%89%87/518.png",
