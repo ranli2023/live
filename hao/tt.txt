@@ -50,7 +50,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://bitbucket.org/ranli2000/tvbox/raw/6c38954b792580ffabc465276a7fd80b28fb53e9/json/%E7%8E%A9%E5%81%B6%E5%93%A5%E5%93%A51.json"
+      "ext": "https://bitbucket.org/ranli2000/tvbox/raw/63416c1958b5e3d743925a9da3a3cf0ba79d8122/json/%E7%8E%A9%E6%88%91%E5%93%A5%E5%93%A5.json"
     },
     {
       "key": "土豆阿里",
