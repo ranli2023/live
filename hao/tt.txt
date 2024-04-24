@@ -1,5 +1,5 @@
 {
-"spider": "https://bitbucket.org/ranli2000/tvbox/raw/main/jar/hao.txt",
+"spider": "https://bitbucket.org/ranli2000/tvbox/raw/main/jar/hx.txt",
   "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
   "lives": [
     {
