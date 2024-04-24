@@ -1,0 +1,71 @@
+[
+    {
+        "name": "推荐",
+        "list": [
+            {
+                "url": "https://bitbucket.org/ranli2000/tvbox/raw/3b64766f000f41ef416ee6bbbb9f23ad4313ae77/66.png",
+                "icon": "https://bitbucket.org/ranli2000/tvbox/raw/3b64766f000f41ef416ee6bbbb9f23ad4313ae77/66.png",
+                "name": "扫描二维码下载"
+            }
+        ]
+    },
+    
+    {
+        "name": "豪洋app推荐",
+        "list": [
+             {
+            "name": "影视仓5.0.28.1", 
+            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/ranli2023/tv/main/app/%E5%BD%B1%E8%A7%86%E4%BB%93_5.0.28.1_clone.apk", 
+            "icon": "https://bitbucket.org/ranli2000/tvbox/raw/9af3f18b10e60d54ea6962737b560506859b7986/%E5%9B%BE%E7%89%87/123.png",
+            "version": "共存版" 
+          },
+             {
+            "name": "影视仓5.0.27", 
+            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/ranli2023/tv/main/app/%E5%BD%B1%E8%A7%86%E4%BB%93_5.0.27.apk", 
+            "icon": "https://bitbucket.org/ranli2000/tvbox/raw/9af3f18b10e60d54ea6962737b560506859b7986/%E5%9B%BE%E7%89%87/123.png",
+            "version": "共存版" 
+          },
+             {
+            "name": "豪洋直播", 
+            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/ranli2023/tv/main/app/%E8%B1%AA%E6%B4%8B%E7%9B%B4%E6%92%AD.apk", 
+            "icon": "https://bitbucket.org/ranli2000/tvbox/raw/9af3f18b10e60d54ea6962737b560506859b7986/%E5%9B%BE%E7%89%87/123.png",
+            "version": "1.0.0" 
+          },
+            {
+                "url": "https://bitbucket.org/ranli2000/tvbox/raw/51caf9463624c3bf13e452464bedad1a7c0c3685/%E5%9B%BE%E7%89%87/66.png",
+                "icon": "https://bitbucket.org/ranli2000/tvbox/raw/51caf9463624c3bf13e452464bedad1a7c0c3685/%E5%9B%BE%E7%89%87/66.png",
+                "name": "扫描二维码更多下载"
+            },
+             {
+                "name": "微信赞助打赏",
+                "url": "https://bitbucket.org/ranli2000/tvbox/raw/7b7e3b1e80d2d3a4c64cd2e34d3e0297f2395e84/%E5%9B%BE%E7%89%87/518.png",
+                "icon": "https://bitbucket.org/ranli2000/tvbox/raw/7b7e3b1e80d2d3a4c64cd2e34d3e0297f2395e84/%E5%9B%BE%E7%89%87/518.png",
+              "version": "感谢支持" 
+} ] },
+
+     { 
+          "name": "常用工具",    
+          "list": [
+  { 
+         "name": "当贝桌面",
+          "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/ranli2023/tv/main/app/%E5%BD%93%E8%B4%9D%E6%A1%8C%E9%9D%A2_4.1.7.apk",
+           "icon": "https://bitbucket.org/ranli2000/tvbox/raw/9af3f18b10e60d54ea6962737b560506859b7986/%E5%9B%BE%E7%89%87/123.png",
+           "version": "TV原版"
+             }, 
+  { 
+         "name": "当贝桌面",
+          "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/ranli2023/tv/main/app/%E5%BD%93%E8%B4%9D%E6%A1%8C%E9%9D%A2tv%E7%BA%AF%E5%87%80%E7%89%88.apk",
+           "icon": "https://bitbucket.org/ranli2000/tvbox/raw/9af3f18b10e60d54ea6962737b560506859b7986/%E5%9B%BE%E7%89%87/123.png",
+           "version": "TV纯净版"
+             }, 
+            {
+                "url": "https://bitbucket.org/ranli2000/tvbox/raw/51caf9463624c3bf13e452464bedad1a7c0c3685/%E5%9B%BE%E7%89%87/66.png",
+                "icon": "https://bitbucket.org/ranli2000/tvbox/raw/51caf9463624c3bf13e452464bedad1a7c0c3685/%E5%9B%BE%E7%89%87/66.png",
+                "name": "扫描二维码更多下载"
+            },  
+               {
+                "name": "微信赞助打赏",
+                "url": "https://bitbucket.org/ranli2000/tvbox/raw/7b7e3b1e80d2d3a4c64cd2e34d3e0297f2395e84/%E5%9B%BE%E7%89%87/518.png",
+                "icon": "https://bitbucket.org/ranli2000/tvbox/raw/7b7e3b1e80d2d3a4c64cd2e34d3e0297f2395e84/%E5%9B%BE%E7%89%87/518.png",
+              "version": "感谢支持" 
+} ] } ]
