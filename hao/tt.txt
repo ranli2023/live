@@ -36,15 +36,14 @@
     },    
 
     {
-      "key": "玩我哥哥",
-      "name": "🎦┃玩我┃哥哥┃",
+      "key": "玩偶┃哥哥",
+      "name": "🇨🇳┃玩偶┃哥哥┃",
       "type": 3,
-      "jar": "https://bitbucket.org/ranli2000/tvbox/raw/main/jar/tv.txt",
-      "api": "csp_XYQHikerAL",
+      "api": "csp_WoGG",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://bitbucket.org/ranli2000/tvbox/raw/63416c1958b5e3d743925a9da3a3cf0ba79d8122/json/%E7%8E%A9%E6%88%91%E5%93%A5%E5%93%A5.json"
+      "filterable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"
     },
     {
       "key": "土豆阿里",
