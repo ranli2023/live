@@ -1186,15 +1186,19 @@ MIGU4,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8
 
 
 🇨🇳港澳频道,#genre#
-凤凰中文,https://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8
-凤凰中文,https://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
+凤凰中文台,http://183.204.13.237/cee7354084e908e7d71a99f88ecd0c61.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
+凤凰中文台,https://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
+凤凰资讯台,http://183.204.13.237/cee7354084e908e7d71a99f88ecd0c61.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
+凤凰资讯台,http://ali.hlspull.yximgs.com/live/huanqiuhklivetvjjpcpdvuejljyjjyfjoxvchjwhjwojjjhdjjlsjhbjfhjx.flv
+凤凰中文台,https://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8
+凤凰中文台,https://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰资讯台,https://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
 凤凰资讯台,http://ali.hlspull.yximgs.com/live/huanqiuhklivetvjjpcpdvuejljyjjyfjoxvchjwhjwojjjhdjjlsjhbjfhjx.flv
 凤凰香港台,https://epg.pw/stream/8352ad260441ed0064f63f7a25eb3a7268a68b391f08a345b9bdbefd51aa330f.m3u8
 凤凰香港台,http://50.7.238.114:8278/hkphoenix_twn/playlist.m3u8?tid=MA5A4571836345718363&ct=19234&tsum=9d461ede3a5ecfa182b75574f86ae56a
 文旅香港台,http://ali-play.lezhibo.com:80/lezhibo/6ad788f1bbab4c689ecdc0d64a1e1601.m3u8
-TVB功夫,https://ali.hlspull.yximgs.com/live/12344.flv
-TVB功夫,https://edge6a.v2h-cdn.com/asia_action/asia_action.stream/chunklist.m3u8
+TVB功夫台,https://ali.hlspull.yximgs.com/live/12344.flv
+TVB功夫台,https://edge6a.v2h-cdn.com/asia_action/asia_action.stream/chunklist.m3u8
 星光视界台,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
 港台HK33台,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
 港台HK34台,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
@@ -1204,13 +1208,13 @@ TVB功夫,https://edge6a.v2h-cdn.com/asia_action/asia_action.stream/chunklist.m3
 港台電視(34),https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8
 耀才财经台,https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w99771165.m3u8
 耀才财经台,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
-凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
+凤凰中文台,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰资讯台,http://112.19.171.156:9999/udp/239.93.0.118:2191
 凤凰资讯台,http://www.372583307.top:4022/udp/233.50.200.192:5140
 无线新闻台,http://66.165.240.154:8080/live/TVBtyzxt1/hls.m3u8
-TVB星河,http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
-TVB娱乐,http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
-TVB功夫,https://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
+TVB星河粤,http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
+TVB娱乐台,http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
+TVB功夫台,https://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
 凤凰资讯台,http://livetv.skycf.eu.org/live.m3u8?c=2
 澳亚卫视,https://live.mastvnet.com:443/lsdream/lY44pmm/2000/live.m3u8
 澳门卫视,https://live.mastvnet.com/lsdream/MSTV/1500/live.m3u8
@@ -1258,19 +1262,19 @@ CGNTV4,http://liveru.cgtn.com/1000r/prog_index.m3u8
 天映经典,http://ali.hlspull.yximgs.com/live/huanqiuhklivevcnydsjfjsetjjfcvbcdtsjjfvxcvsjnmbnljjhjjnmyhsjjftydj.flv
 
 🇨🇳台湾频道,#genre#
-中天新闻,http://livetv.skycf.eu.org/live.m3u8?c=7
-中天娱乐,http://50.7.238.114:8278/ctient/playlist.m3u8?tid=MA8A3069789530697895&ct=19193&tsum=20c49fe9e15ad366c6e32b141f03bf8a
-TVBS新闻台,https://cdn.ggapk.net/live/tv?id=08d3O37aV_6_hzilwHy49KT2CjwKqCSdpnTW_uIMe9WX2jWm7wTjHW3y6gLmhTeYAhuaYggezeQRrv37yA4jBEEEr1ChalNm_-otkwuw0WhjRGl8OMIgbggRLj-mP4GhpVaZPFcPuFUgm5ICdmudbOZme0pv-NErkk6CaLKExQ&idp=93f68qNOXQwAjtFjWSHFatP5aoq41pXJXoU7J9oJqiuMRUQBcsVMYwmMcA&idp=bbd2eyACOzv43T8QOBMgtfV9cToa0U7uPzrKj1cEtjtc_4eW2pXH7Fz0xw47a22a993d8e9b29582dfde5631c78b0
-东森财经新闻,https://cdn.ggapk.net/live/tv?id=e41clyH6YCzgBPPAMi-uO_e1FMae5IsVlsQIhkCNj1fkXc4whOUJOtpx5dWwb3OSUpdmEFgEDP9tbFbjeAnVLWzk0GAbCf5thTArVXWAW2Yaifr44muAElMbadOGLQJV2VVpHfqkbxDqrDE-ifFWJXgtYzlE43ROksck_Ts8W1obdfgZAmq8xg&idp=3a045LP0vvBuhG7oqFpHej_WlCpC47Yc5sTRnkqmqk7I8TM6APE9UIZjqA
-东森新闻台,https://cdn.ggapk.net/live/tv?id=97d15pwgzSEtUNFLbEI1rTn-6nrGNS4cUeN_J1ZvXvWzzcZJYl_7tJEpqWGyMl_P-L6QD0PBoG1bF6Ee5cfojnwy9P1MlmBYAYzxlY3-TnxDAo6jENdPJZBOku9pY1O6Pk8VOew_i8IIECts0kkjoBP_Oa8NLFdt66Ftsp87_T43&idp=c44dlnOqi4YoUt_EMHNiXx47wRCMA3fIxCgn6rzh4VGVMp_mBaVDVazgRw
+中天新闻台,http://livetv.skycf.eu.org/live.m3u8?c=7
+中天亚洲台,http://livetv.skycf.eu.org/live.m3u8?c=3
+中天娱乐HD,http://50.7.238.114:8278/ctient/playlist.m3u8?tid=MA8A3069789530697895&ct=19193&tsum=20c49fe9e15ad366c6e32b141f03bf8a
+TVBS新闻台,http://50.7.238.114:8278/tvbs_n/playlist.m3u8?tid=MECE3233774032337740&ct=19225&tsum=47a22a993d8e9b29582dfde5631c78b0
+东森经财台,http://livetv.skycf.eu.org/live.m3u8?c=14
+东森新闻台,http://livetv.skycf.eu.org/live.m3u8?c=9
 三立新闻台,http://livetv.skycf.eu.org/live.m3u8?c=12
-三立都会台,https://cdn.ggapk.net/live/tv?id=eb1fzKmXtRdz5BEbwx7OztNXOE9oJ5-wzv3YFr0sxko514otYCDoy6-XEOZwpTLaaPS-9mufHGd5ltpie6g6T8Zc0XJ51JV1lpW4SgHhdn7mPJJKlSZ83RsYaGWaRNhkVt0s2yuBQ1sKUzbhbjx2cs5kcCRyMSLvIO-YcUlyyDQx2A_QIs0eMJwHgcU&idp=8c3fJsR-HfUNQrBpPOi8vAIPFmj5utEV34SJmMhLdxsHAw3o
 非凡新闻台,http://50.7.238.114:8278/feifannews_twn/playlist.m3u8?tid=MACA3363565933635659&ct=19234&tsum=ec8caeb654e3121f9bb3ed39b1759999
 非凡新闻台,http://ali.hlspull.yximgs.com/live/huanqiuhklivesjtnfjjojdcbfcxvjfuujjwejjjsjyuhhdjsjhjynffxw.flv
-中视新闻台,https://cdn.ggapk.net/live/tv?id=94e9v9mrmOiZeEcdnGZJmwrlwdpcIFQtTlKA9nA3DWejna7poJhcjzvIrC_yMro-FXujQGKaoHST7HmyBg0-eL1oulm0rIf4c11sau_oSA7iCLOPrYt42KGZMWmOoTPwXpGg_BfIlchgGLeXiug3d05aRAN3M51rEWzTyjaMe58Dg2e1kyexRoyr7YSt&idp=339fJsl9XOe0oHbZwnsZkcr7vNkVmaC41eAMHuRVmmQNlFb8
-华视新闻,https://cdn.ggapk.net/live/tv?id=82f9Prbm3zZ6l1EjUH_xgPNtcdsh5Qmw6L0aO2upCR59b3JO5wsoDAGn906VPbczvx1Rz-p5TknU9H1vMShyg9jF7ffUFfMv5cAYGsAyKtYdTrnuVYBQ-mERPR66Laf6OmQ126WJ-_jStCBa3sYEAt4kOINF_iJguQ4hU2zjWIw04wrYkJ8&idp=b89aRR_r7z8kjHSPFPopA0SZjGaf6KLTm1vl6Y4kU_jX5Y09
+中视新闻台,http://livetv.skycf.eu.org/live.m3u8?c=6
+华视新闻台,http://livetv.skycf.eu.org/live.m3u8?c=13
+公视新闻台,http://livetv.skycf.eu.org/live.m3u8?c=8
 民视新闻台,http://livetv.skycf.eu.org/live.m3u8?c=11
 台视新闻台,http://livetv.skycf.eu.org/live.m3u8?c=4
-年代新闻台,https://cdn.ggapk.net/live/tv?id=710euf6ycvlpk5Q2CdFBzECRE9Ese9YZSAP4tqgUxroOB8KrT_Qf3ZeVnUIxjzUOSZpikdpfXq4TKSED4ENzcaajBqv20a8kMDnmWOo6iGwI2BddI1-xBpEhleOqZxbMIlU01VZA-TPS3qDv7SJQNMkhCLrMwMoZgTT7l8WoJXjZO71ZBS9BuQ&idp=2e37uiwCzRuKfTEjeHAphq2FrvitM8WCaFAEyEkXdYAGfJxrQJ-hgIumKQ
+年代新闻台,http://50.7.238.114:8278/niandainews_twn/playlist.m3u8?tid=m062d2322888417909285&ct=17874&tsum=da6e0908f8df0e85b37f9d93167b9fcd
 龙华戏剧台,http://50.7.238.114:8278/lunghuaxiju_twn/playlist.m3u8?tid=MF2F2793524427935244&ct=19249&tsum=db1ef83fbbbae9a364979295fd690f7d
-公视,http://livetv.skycf.eu.org/live.m3u8?c=8
