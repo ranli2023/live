@@ -1,5 +1,5 @@
 {
-"spider": "https://bitbucket.org/ranli2000/tvbox/raw/main/jar/hao.txt",
+"spider": "https://bitbucket.org/ranli2000/tvbox/raw/main/jar/spider.txt",
   "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
   "lives": [
     {
@@ -14,7 +14,7 @@
 "sites":[
     {
       "key": "豆瓣",
-      "name": "🧧请勿相信视频中任何广告",
+      "name": "🧧豆瓣导航",
       "type": 3,
       "api": "csp_DouDou",
       "searchable": 0,
