@@ -167,7 +167,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "https://www.cz233.com/",
+      "ext": "https://www.czys.top/",
       "jar": "https://bitbucket.org/ranli2000/tvbox/raw/main/jar/hao.txt"
     },
 
