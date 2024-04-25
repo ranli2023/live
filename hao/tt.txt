@@ -191,13 +191,13 @@
       "key": "csp_Nmys",
       "name": "🌾┃农民┃直连┃",
       "type": 3,
+      "jar": "https://bitbucket.org/ranli2000/tvbox/raw/main/jar/tv.txt", 
       "api": "csp_Nmys",
       "timeout": 15,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "https://bitbucket.org/ranli2000/tvbox/raw/595ced33956134ddfeeee8d41546bd948eb6acaa/json/nmys.json",
-      "jar": "https://bitbucket.org/ranli2000/tvbox/raw/main/jar/hao.txt"
+      "ext": "https://bitbucket.org/ranli2000/tvbox/raw/bf7c9f741fa53f7ee225c6e9ae5b9824067478a2/json/nmys.json"
     },      
  {
       "key": "Lib",
