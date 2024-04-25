@@ -187,17 +187,7 @@
       "ext": "https://www.maolvys.com/",
       "jar": "https://bitbucket.org/ranli2000/tvbox/raw/main/jar/hao.txt"
     },
-    {
-      "key": "csp_Nmys",
-      "name": "🌾┃农民┃直连┃",
-      "type": 3,
-      "api": "csp_Nmys",
-      "timeout": 15,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://bitbucket.org/ranli2000/tvbox/raw/bf7c9f741fa53f7ee225c6e9ae5b9824067478a2/json/nmys.json"
-    },      
+    
  {
       "key": "Lib",
       "name": "🌟┃立播┃直连┃",
