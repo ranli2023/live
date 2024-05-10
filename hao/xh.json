@@ -5,13 +5,13 @@
   "sites": [
       {
       "key": "csp_KungFu404",
-      "name": "🔥┃阿里┃Token",
+      "name": "🔥阿里Token",
       "type": 3,
       "api": "csp_KungFu404",
       "searchable": 0,
       "filterable": 0,
       "changeable": 0,
-      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/ranli2023/live/main/jar/Token.jar",
+      "jar": "https://bitbucket.org/ranli2000/tvbox/raw/main/jar/Token.txt",
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt"
     },
     {
