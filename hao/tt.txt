@@ -25,7 +25,7 @@
     },
       {
       "key": "csp_KungFu404",
-      "name": "🔥设置Token",
+      "name": "🔥┃阿里┃Token┃",
       "type": 3,
       "api": "csp_KungFu404",
       "searchable": 0,
