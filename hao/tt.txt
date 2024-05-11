@@ -5,13 +5,23 @@
     {
       "name": "live",
       "type": 0,
-      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/ranli2023/live/main/live.json",
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/ranli2023/live/main/lives.json",
       "playerType": 1,
-      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "epg": "http://epg.112114.eu.org/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/bingimg/logo/{name}.png"
     }
   ],
 "sites":[
+    {
+      "key": "豆瓣",
+      "name": "🧧┃豆瓣┃导航┃",
+      "type": 3,
+      "api": "csp_DouDou",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0
+    },
+
     {
       "key": "南瓜",
       "name": "🎃┃南瓜┃秒播┃",
@@ -41,19 +51,20 @@
       "api": "csp_WoGG",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,    
+      "filterable": 0,
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"
-    },    
+    },  
 
     {
-      "key": "玩偶┃哥哥",
+      "key": "玩偶哥哥",
       "name": "🇨🇳┃玩偶┃哥哥┃",
       "type": 3,
-      "api": "csp_WoGG",
+      "jar": "https://bitbucket.org/ranli2000/tvbox/raw/main/jar/tv.txt",
+      "api": "csp_XYQHikerAL",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"
+      "filterable": 1,
+      "ext": "https://bitbucket.org/ranli2000/tvbox/raw/6c38954b792580ffabc465276a7fd80b28fb53e9/json/%E7%8E%A9%E5%81%B6%E5%93%A5%E5%93%A51.json"
     },
     {
       "key": "土豆阿里",
@@ -77,8 +88,7 @@
       "filterable": 1,
       "ext": "https://bitbucket.org/ranli2000/tvbox/raw/601937ba3add7d2a9b8e5ad6ace3695bdf4b0e1a/json/%E5%A4%9A%E5%A4%9A%E9%98%BF%E9%87%8C.json"
     },
-{
-"key":"360",
+{"key":"360",
 "name":"💘┃360┃影视┃",
 "type":3,
       "api": "csp_SP360",
@@ -159,8 +169,6 @@
       "ext": "https://www.80yy3.com/",
       "jar": "https://bitbucket.org/ranli2000/tvbox/raw/main/jar/hao.txt"
     },
-
-
     {
       "key": "厂长",
       "name": "📔┃厂长┃直连┃",
@@ -172,6 +180,7 @@
       "api": "https://bitbucket.org/ranli2000/tvbox/raw/28265f35d4546c6921fd7aef6e51692476c54d37/drpy2.min.js",
       "ext": "https://bitbucket.org/ranli2000/tvbox/raw/8123adc0172aa01314fbdeb03bc014753c77e37c/js/%E5%8E%82%E9%95%BF%E8%B5%84%E6%BA%90.js"
     },   
+
     {
       "key": "DiDuan",
       "name": "⏮️┃低端┃外剧┃",
@@ -196,7 +205,7 @@
       "ext": "https://www.maolvys.com/",
       "jar": "https://bitbucket.org/ranli2000/tvbox/raw/main/jar/hao.txt"
     },
-    
+   
  {
       "key": "Lib",
       "name": "🌟┃立播┃直连┃",
@@ -555,8 +564,8 @@
       "api": "csp_Market",
       "quickSearch": 0,
        "filterable": 0,
-      "ext": "https://s2.pub/mingshi",
-      "jar": "https://bitbucket.org/ranli2000/tvbox/raw/main/jar/app.txt"
+      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/ranli2023/live/main/hao/json/a.json",
+      "jar": "https://bitbucket.org/ranli2000/tvbox/raw/main/jar/xx.txt"
     },
      
         {"key":"qq",
@@ -572,6 +581,29 @@
       "name": "777",
       "type": 0,
       "url": "https://jx.jsonplayer.com/player/?url=",
+      "ext": {
+        "header": {
+          "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
+        }
+      }
+    },
+
+
+
+    {
+      "name": "剖云",
+      "type": 0,
+      "url": "https://www.kkvip2022.com/vip/jiexi1/?url=",
+      "ext": {
+        "header": {
+          "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
+        }
+      }
+    },
+    {
+      "name": "全看",
+      "type": 0,
+      "url": "https://jx.quankan.app/?url=",
       "ext": {
         "header": {
           "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
