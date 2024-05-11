@@ -41,7 +41,8 @@
       "api": "csp_WoGG",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
+      "filterable": 0,    
+       "jar": "https://bitbucket.org/ranli2000/tvbox/raw/main/jar/Token.txt",
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"
     },    
 
@@ -53,6 +54,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
+       "jar": "https://bitbucket.org/ranli2000/tvbox/raw/main/jar/Token.txt",
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"
     },
     {
@@ -64,6 +66,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
+       "jar": "https://bitbucket.org/ranli2000/tvbox/raw/main/jar/Token.txt",
       "ext": "https://bitbucket.org/ranli2000/tvbox/raw/601937ba3add7d2a9b8e5ad6ace3695bdf4b0e1a/json/%E5%9C%9F%E8%B1%86%E9%98%BF%E9%87%8C.json"
     },
     {
@@ -75,6 +78,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
+       "jar": "https://bitbucket.org/ranli2000/tvbox/raw/main/jar/Token.txt",
       "ext": "https://bitbucket.org/ranli2000/tvbox/raw/601937ba3add7d2a9b8e5ad6ace3695bdf4b0e1a/json/%E5%A4%9A%E5%A4%9A%E9%98%BF%E9%87%8C.json"
     },
 {
@@ -556,7 +560,7 @@
       "quickSearch": 0,
        "filterable": 0,
       "ext": "https://s2.pub/mingshi",
-      "jar": "https://bitbucket.org/ranli2000/tvbox/raw/main/jar/xx.txt"
+      "jar": "https://bitbucket.org/ranli2000/tvbox/raw/main/jar/app.txt"
     },
      
         {"key":"qq",
