@@ -15,19 +15,19 @@
         "list": [
              {
             "name": "影视仓5.0.29", 
-            "url": "https://bitbucket.org/ranli2000/cq/raw/main/app/%E5%BD%B1%E8%A7%86%E4%BB%93_5.0.29.apk", 
+            "url": "https://gh.con.sh/https://raw.githubusercontent.com/ranli2023/tv/main/app/影视仓_5.0.29", 
             "icon": "https://bitbucket.org/ranli2000/tvbox/raw/9af3f18b10e60d54ea6962737b560506859b7986/%E5%9B%BE%E7%89%87/123.png",
             "version": "共存版" 
           },
              {
-            "name": "大丰大足", 
-            "url": "https://bitbucket.org/ranli2000/cq/raw/main/app/%E5%A4%A7%E4%B8%B0%E5%A4%A7%E8%B6%B3_5.0.28.1.apk", 
+            "name": "影视仓_5.0.28.1", 
+            "url": "https://gh.con.sh/https://raw.githubusercontent.com/ranli2023/tv/main/app/影视仓_5.0.28.1_clone.apk", 
             "icon": "https://bitbucket.org/ranli2000/tvbox/raw/9af3f18b10e60d54ea6962737b560506859b7986/%E5%9B%BE%E7%89%87/123.png",
             "version": "" 
           },
              {
             "name": "豪洋直播", 
-            "url": "https://bitbucket.org/ranli2000/cq/raw/main/app/%E8%B1%AA%E6%B4%8B%E7%9B%B4%E6%92%AD.apk", 
+            "url": "https://gh.con.sh/https://raw.githubusercontent.com/ranli2023/tv/main/app/豪洋直播.apk", 
             "icon": "https://bitbucket.org/ranli2000/tvbox/raw/9af3f18b10e60d54ea6962737b560506859b7986/%E5%9B%BE%E7%89%87/123.png",
             "version": "1.0.0" 
           },
@@ -44,13 +44,13 @@
           "list": [
   { 
          "name": "当贝桌面",
-          "url": "https://bitbucket.org/ranli2000/cq/raw/main/app/%E5%BD%93%E8%B4%9D%E6%A1%8C%E9%9D%A2_4.1.7.apk",
+          "url": "https://gh.con.sh/https://raw.githubusercontent.com/ranli2023/tv/main/app/当贝桌面_4.1.7.apk",
            "icon": "https://bitbucket.org/ranli2000/tvbox/raw/9af3f18b10e60d54ea6962737b560506859b7986/%E5%9B%BE%E7%89%87/123.png",
            "version": "TV原版"
              }, 
   { 
          "name": "当贝桌面",
-          "url": "https://bitbucket.org/ranli2000/cq/raw/main/app/%E5%BD%93%E8%B4%9D%E6%A1%8C%E9%9D%A2tv%E7%BA%AF%E5%87%80%E7%89%88.apk",
+          "url": "https://gh.con.sh/https://raw.githubusercontent.com/ranli2023/tv/main/app/当贝桌面tv纯净版.apk",
            "icon": "https://bitbucket.org/ranli2000/tvbox/raw/9af3f18b10e60d54ea6962737b560506859b7986/%E5%9B%BE%E7%89%87/123.png",
            "version": "TV纯净版"
              }, 
