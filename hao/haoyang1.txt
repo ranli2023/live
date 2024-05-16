@@ -4,7 +4,7 @@
            },
          
        {
-            "url": "http://饭太硬.top/tv",
+            "url": "http:/太硬.top/tv",
             "name": "饭太硬"
         },
         {
