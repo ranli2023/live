@@ -535,7 +535,7 @@
       "api": "csp_Market",
       "quickSearch": 0,
        "filterable": 0,
-      "ext": "https://s2.pub/mingshi",
+      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/ranli2023/live/main/hao/json/a.json",
       "jar": "https://bitbucket.org/ranli2000/tvbox/raw/main/jar/app.txt"
     },
      
