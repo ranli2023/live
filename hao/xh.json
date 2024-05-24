@@ -232,18 +232,18 @@
       "key": "玩偶",
       "name": "🇨🇳玩偶哥哥",
       "type": 3,
-      "api": "csp_WoGG",
+      "api": "csp_Wogg",
+      "jar": "http://我不是.摸鱼儿.top/by/jar/danmu.php",
       "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
+      "filterable": 1,
+      "changeable": 1,
       "ext": {
-        "aliToken": "tvfan/token.txt",
-        "quarkCookie": "tvfan/cookie.txt",
-        "from": "4k|auto|fhd",
-        "siteUrl": "https://api.wogg.xyz/",
-        "danMu": "弹"
-      }
-    },    
+        "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+        "wogg": true,
+        "danmu": true
+      },
+      "timeout": 30
+    },
     
        {
       "key": "🦊YiSo",
