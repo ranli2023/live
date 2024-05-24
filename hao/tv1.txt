@@ -53,7 +53,23 @@
       "timeout": 25
     },
 
-
+    {
+      "key": "玩偶哥哥",
+      "name": "⛅┃饭偶┃扫码┃",
+      "type": 3,
+      "api": "csp_WoGG",
+      "jar": "https://bitbucket.org/ranli2000/tvbox/raw/main/jar/fanzx.txt",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "aliToken": "tvfan/token.txt",
+        "quarkCookie": "tvfan/cookie.txt",
+        "from": "4k|auto|fhd",
+        "siteUrl": "https://www.wogg.xyz/",
+        "danMu": "弹"
+      }
+    },
     {
       "key": "玩偶哥哥",
       "name": "🇨🇳┃玩偶┃哥哥┃",
