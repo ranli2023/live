@@ -66,7 +66,7 @@
     },
     {
       "key": "土豆阿里",
-      "name": "🎦┃土豆┃阿里┃",
+      "name": "🥔┃土豆┃阿里┃",
       "type": 3,
       "jar": "https://bitbucket.org/ranli2000/tvbox/raw/main/jar/haoyang.txt",
       "api": "csp_XYQHikerAL",
@@ -95,16 +95,7 @@
     },
 
 
-{"key":"360",
-"name":"💘┃360┃影视┃",
-"type":3,
-      "api": "csp_SP360",
-      "jar": "https://bitbucket.org/ranli2000/tvbox/raw/main/jar/tv.txt",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 0
-},
+
     {
       "key": "七新影视",
       "name": "🎦┃七新┃秒播┃",
