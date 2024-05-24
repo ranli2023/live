@@ -59,7 +59,7 @@
       "key": "玩偶哥哥",
       "name": "⛅┃饭偶┃扫码┃",
       "type": 3,
-      "api": "饭偶",
+      "api": "csp_WoGG",
       "jar": "https://bitbucket.org/ranli2000/tvbox/raw/main/jar/fanzx.txt",
       "searchable": 1,
       "quickSearch": 1,
