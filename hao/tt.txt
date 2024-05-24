@@ -56,6 +56,23 @@
       "ext": "https://bitbucket.org/ranli2000/tvbox/raw/6c38954b792580ffabc465276a7fd80b28fb53e9/json/%E7%8E%A9%E5%81%B6%E5%93%A5%E5%93%A51.json"
     },
     {
+      "key": "玩偶哥哥",
+      "name": "⛅┃饭偶┃扫码┃",
+      "type": 3,
+      "api": "饭偶",
+      "jar": "https://bitbucket.org/ranli2000/tvbox/raw/main/jar/fanzx.txt",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "aliToken": "tvfan/token.txt",
+        "quarkCookie": "tvfan/cookie.txt",
+        "from": "4k|auto|fhd",
+        "siteUrl": "https://www.wogg.xyz/",
+        "danMu": "弹"
+      }
+    },
+    {
       "key": "土豆阿里",
       "name": "🎦┃土豆┃阿里┃",
       "type": 3,
