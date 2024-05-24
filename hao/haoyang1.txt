@@ -3,8 +3,8 @@
             "name": "豪洋" 
            },
        {
-            "url": "http://xhww.fun/小米/DEMO.json",
-            "name": "小米"
+            "url": "http://我不是.摸鱼儿.top",
+            "name": "摸鱼4K"
         },
         {
             "url": "https://jihulab.com/ymz1231/xymz/-/raw/main/ymz",
