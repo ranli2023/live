@@ -5,7 +5,7 @@
     {
       "name": "live",
       "type": 0,
-      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/ranli2023/live/main/lives.json",
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/ranli2023/live/main/live.json",
       "playerType": 1,
       "epg": "http://epg.112114.eu.org/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/bingimg/logo/{name}.png"
@@ -58,12 +58,18 @@
       "key": "土豆阿里",
       "name": "🥔┃土豆┃阿里┃",
       "type": 3,
-      "jar": "https://bitbucket.org/ranli2000/tvbox/raw/main/jar/haoyang.txt",
-      "api": "csp_XYQHikerAL",
+      "api": "csp_Wobg",
+      "jar": "https://bitbucket.org/ranli2000/tvbox/raw/main/jar/haoyang1.txt",
       "searchable": 1,
-      "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://bitbucket.org/ranli2000/tvbox/raw/601937ba3add7d2a9b8e5ad6ace3695bdf4b0e1a/json/%E5%9C%9F%E8%B1%86%E9%98%BF%E9%87%8C.json"
+      "changeable": 1,
+      "ext": {
+        "token": "file://TV/ali_token.txt",
+        "cookie": "file://TV/quark_cookie.txt",
+        "site": "https://tudou.lvdoui.top",
+        "danmu": true
+      },
+      "timeout": 25
     },
     {
       "key": "多多阿里",
