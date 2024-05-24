@@ -26,7 +26,7 @@
     },
 
     {
-      "key": "doudouxie┃",
+      "key": "玩偶┃",
       "name": "🐋┃玩偶┃弹幕┃",
       "type": 3,
       "api": "csp_Wogg",
@@ -45,7 +45,7 @@
       "key": "玩偶┃",
       "name": "👽┃玩偶┃哥哥┃",
       "type": 3,
-      "api": "csp_WoGG",
+      "api": "csp_XYQHikerAL",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
