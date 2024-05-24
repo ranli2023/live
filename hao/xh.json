@@ -228,21 +228,19 @@
         "动漫"
       ]
     },
-    {
-      "key": "doudouxie┃",
-      "name": "🐋┃玩偶┃弹幕┃",
       "type": 3,
       "api": "csp_Wogg",
-      "jar": "http://我不是.摸鱼儿.top/by/jar/danmu.php",
+      "jar": "https://bitbucket.org/ranli2000/tvbox/raw/main/jar/haoyang1.txt",
       "searchable": 1,
       "filterable": 1,
       "changeable": 1,
       "ext": {
-        "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-        "wogg": true,
+        "token": "file://TV/ali_token.txt",
+        "cookie": "file://TV/quark_cookie.txt",
+        "site": "https://www.wogg.net",
         "danmu": true
       },
-      "timeout": 30
+      "timeout": 25
     },
     {
       "key": "玩偶┃",
