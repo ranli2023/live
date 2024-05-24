@@ -5,14 +5,13 @@
     {
       "name": "live",
       "type": 0,
-      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/ranli2023/live/main/live.json",
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/ranli2023/live/main/lives.json",
       "playerType": 1,
       "epg": "http://epg.112114.eu.org/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/bingimg/logo/{name}.png"
     }
   ],
 "sites":[
-
     {
       "key": "南瓜",
       "name": "🎃┃南瓜┃秒播┃",
@@ -24,6 +23,7 @@
       "quickSearch": 1,
       "changeable": 1
     },
+
 
     {
       "key": "玩偶┃",
@@ -43,7 +43,6 @@
       "timeout": 25
     },
 
-
     {
       "key": "玩偶哥哥",
       "name": "🇨🇳┃玩偶┃哥哥┃",
@@ -55,7 +54,6 @@
       "filterable": 1,
       "ext": "https://bitbucket.org/ranli2000/tvbox/raw/6c38954b792580ffabc465276a7fd80b28fb53e9/json/%E7%8E%A9%E5%81%B6%E5%93%A5%E5%93%A51.json"
     },
-
     {
       "key": "土豆阿里",
       "name": "🥔┃土豆┃阿里┃",
@@ -87,6 +85,7 @@
     },
 
 
+
     {
       "key": "七新影视",
       "name": "🎦┃七新┃秒播┃",
@@ -110,6 +109,7 @@
       "changeable": 1
     },
 
+     
 
  {
             "key": "drpy_js_好趣网",
@@ -363,7 +363,7 @@
 },
 
         {
-      "key": "csp_Kanqiu",
+      "key": "88js",
             "name": "⚽┃LIVE┃看球┃",
             "type": 3,
             "api": "csp_Kanqiu",
@@ -543,9 +543,10 @@
       "api": "csp_Market",
       "quickSearch": 0,
        "filterable": 0,
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/ranli2023/live/main/hao/json/a.json",
+      "ext": "https://s2.pub/mingshi",
       "jar": "https://bitbucket.org/ranli2000/tvbox/raw/main/jar/app.txt"
     },
+     
      
         {"key":"qq",
         "name":"请勿相信视频中任何广告",
