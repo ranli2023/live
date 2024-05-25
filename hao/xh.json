@@ -1,5 +1,5 @@
 {
-"spider": "https://bitbucket.org/ranli2000/tvbox/raw/main/jar/hao.txt",
+"spider": "https://bitbucket.org/ranli2000/tvbox/raw/main/jar/spider.txt",
   "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 
   "sites": [
@@ -228,6 +228,10 @@
         "动漫"
       ]
     },
+
+    {
+      "key": "玩偶┃",
+      "name": "👽┃玩偶┃哥哥┃",
       "type": 3,
       "api": "csp_Wogg",
       "jar": "https://bitbucket.org/ranli2000/tvbox/raw/main/jar/haoyang1.txt",
@@ -242,16 +246,6 @@
       },
       "timeout": 25
     },
-    {
-      "key": "玩偶┃",
-      "name": "👽┃玩偶┃哥哥┃",
-      "type": 3,
-      "api": "csp_WoGG",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"
-    },  
     
        {
       "key": "🦊YiSo",
