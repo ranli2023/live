@@ -91,20 +91,12 @@
       ]
     },
     {
-      "key": "干饭",
-      "name": "️🇨🇳干饭采集",
+      "key": "影图",
+      "name": "🇨🇳影图资源",
       "type": 1,
-      "api": "http://124.220.183.81:83/api.php/provide/vod/",
-      "playUrl": "https://jx.bozrc.com:4433/player/?url=",
+      "api": "https://cj.vodimg.top/api.php/provide/vod/",
       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-        "电影",
-        "剧集",
-        "综艺",
-        "动漫"
-      ]
+      "quickSearch": 1
     },
     {
       "key": "FF9资源",
