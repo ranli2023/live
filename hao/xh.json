@@ -230,8 +230,8 @@
     },
 
     {
-      "key": "玩偶┃",
-      "name": "👽┃玩偶┃哥哥┃",
+      "key": "玩偶",
+      "name": "🇨🇳玩偶哥哥",
       "type": 3,
       "api": "csp_Wogg",
       "jar": "https://bitbucket.org/ranli2000/tvbox/raw/main/jar/haoyang1.txt",
