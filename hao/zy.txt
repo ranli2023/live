@@ -182,13 +182,14 @@
       "key": "厂长",
       "name": "📔┃厂长┃直连┃",
       "type": 3,
+      "api": "csp_NewCz",
+      "timeout": 15,
+      "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "playerType": "1",
-      "api": "https://bitbucket.org/ranli2000/tvbox/raw/28265f35d4546c6921fd7aef6e51692476c54d37/drpy2.min.js",
-      "ext": "https://bitbucket.org/ranli2000/tvbox/raw/8123adc0172aa01314fbdeb03bc014753c77e37c/js/%E5%8E%82%E9%95%BF%E8%B5%84%E6%BA%90.js"
-    },   
+      "ext": "https://czzy.top/"
+    },
 
     {
       "key": "DiDuan",
