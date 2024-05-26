@@ -5,7 +5,7 @@
     {
       "name": "live",
       "type": 0,
-      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/ranli2023/live/main/live.json",
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/ranli2023/live/main/lives.json",
       "playerType": 1,
       "epg": "http://epg.112114.eu.org/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/bingimg/logo/{name}.png"
@@ -32,21 +32,9 @@
       "quickSearch": 1,
       "changeable": 1
     },
+
     {
-      "key": "配置中心",
-      "name": "🌥️┃配置┃中心┃",
-      "type": 3,
-      "api": "csp_Config",
-      "jar": "https://bitbucket.org/ranli2000/tvbox/raw/main/jar/haoyang1.txt",
-      "searchable": 0,
-      "changeable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.43
-      }
-    },
-    {
-      "key": "玩偶",
+      "key": "玩偶┃",
       "name": "👽┃玩偶┃弹幕┃",
       "type": 3,
       "api": "csp_Wogg",
@@ -120,12 +108,12 @@
       "key": "七新影视",
       "name": "🎦┃七新┃秒播┃",
       "type": 3,
-      "jar": "https://bitbucket.org/ranli2000/tvbox/raw/main/jar/tt.txt",      
+      "jar": "https://bitbucket.org/ranli2000/tvbox/raw/main/jar/tv.txt",      
       "api": "csp_XYQHiker",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://bitbucket.org/ranli2000/tvbox/raw/3b228866256f9882ea1fea3c0f131281d86e065e/json/%E4%B8%83%E6%96%B0%E5%BD%B1%E8%A7%86.json"
+      "ext": "https://bitbucket.org/ranli2000/tvbox/raw/888bfde9c41f80ebc38d6704c473e2d64eb1fd31/json/qixinyingshi.json"
     },
 
     {
@@ -178,18 +166,7 @@
       "ext": "https://www.80yy3.com/",
       "jar": "https://bitbucket.org/ranli2000/tvbox/raw/main/jar/hao.txt"
     },
-    {
-      "key": "厂长",
-      "name": "📔┃厂长┃直连┃",
-      "type": 3,
-      "api": "csp_NewCz",
-      "timeout": 15,
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.czys.top/"
-    },
+
 
     {
       "key": "DiDuan",
