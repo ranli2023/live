@@ -104,7 +104,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://bitbucket.org/ranli2000/tvbox/raw/82c7be935d604fa1a5aa9b7a99e612c5a44f2622/json/qixinyingshi.json"
+      "ext": "https://bitbucket.org/ranli2000/tvbox/raw/66262e7aaf2558639a661e3b12f83306b5ebf666/json/qixinyingshi.json"
     },
 
     {
