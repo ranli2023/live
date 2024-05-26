@@ -103,17 +103,16 @@
     },
 
 
-
     {
       "key": "七新影视",
       "name": "🎦┃七新┃秒播┃",
       "type": 3,
-      "jar": "https://bitbucket.org/ranli2000/tvbox/raw/main/jar/tv.txt",      
+      "jar": "https://bitbucket.org/ranli2000/tvbox/raw/main/jar/tt.txt",      
       "api": "csp_XYQHiker",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://bitbucket.org/ranli2000/tvbox/raw/888bfde9c41f80ebc38d6704c473e2d64eb1fd31/json/qixinyingshi.json"
+      "ext": "https://bitbucket.org/ranli2000/tvbox/raw/3b228866256f9882ea1fea3c0f131281d86e065e/json/%E4%B8%83%E6%96%B0%E5%BD%B1%E8%A7%86.json"
     },
 
     {
