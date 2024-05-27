@@ -1,11 +1,11 @@
 {
-"spider": "https://bitbucket.org/ranli2000/tvbox/raw/main/jar/spider.txt",
+"spider": "https://bitbucket.org/ranli2000/tvbox/raw/main/jar/haoyang2.txt",
   "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
   "lives": [
     {
       "name": "live",
       "type": 0,
-      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/ranli2023/live/main/live.json",
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/ranli2023/live/main/lives.json",
       "playerType": 1,
       "epg": "http://epg.112114.eu.org/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/bingimg/logo/{name}.png"
@@ -24,8 +24,7 @@
     {
       "key": "七新影视",
       "name": "🎦┃七新┃秒播┃",
-      "type": 3,
-      "jar": "https://bitbucket.org/ranli2000/tvbox/raw/main/jar/haoyang2.txt",    
+      "type": 3,  
       "api":"csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
@@ -37,7 +36,6 @@
       "name":"🎦┃九八┃秒播┃",
       "type":3,
       "api":"csp_XBPQ",
-      "jar": "https://bitbucket.org/ranli2000/tvbox/raw/main/jar/haoyang2.txt",
        "searchable":1,
       "quickSearch":1,
       "filterable":1,
@@ -45,8 +43,8 @@
    },
 
     {
-      "key": "配置中心",
-      "name": "🌥️┃配置┃中心┃",
+      "key": "配置中心ok",
+      "name": "🌥️┃配置中心",
       "type": 3,
       "api": "csp_Config",
       "jar": "https://bitbucket.org/ranli2000/tvbox/raw/main/jar/haoyang1.txt",
@@ -78,7 +76,8 @@
       "key": "玩偶哥哥",
       "name": "⛅┃饭偶┃ 4K ┃",
       "type": 3,
-      "api": "csp_WoGG",   
+      "api": "csp_WoGG",
+      "jar": "https://bitbucket.org/ranli2000/tvbox/raw/main/jar/spider.txt",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
@@ -132,6 +131,7 @@
       "name": "🎃┃南瓜┃秒播┃",
       "type": 3,
       "api": "csp_NanGua",
+      "jar": "https://bitbucket.org/ranli2000/tvbox/raw/main/jar/spider.txt",
       "timeout": 15,
       "playerType": 2,
       "searchable": 1,
@@ -143,6 +143,7 @@
       "name": "💡┃酷看┃秒播┃",
       "type": 3,
       "api": "csp_Kkys",
+      "jar": "https://bitbucket.org/ranli2000/tvbox/raw/main/jar/spider.txt",
       "timeout": 15,
       "searchable": 1,
       "quickSearch": 1,

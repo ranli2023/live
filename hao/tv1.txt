@@ -1,5 +1,5 @@
 {
-"spider": "https://bitbucket.org/ranli2000/tvbox/raw/main/jar/spider.txt",
+"spider": "https://bitbucket.org/ranli2000/tvbox/raw/main/jar/haoyang2.txt",
   "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
   "lives": [
     {
@@ -12,7 +12,6 @@
     }
   ],
 "sites":[
-
     {
       "key": "豆瓣",
       "name": "🧧┃豆瓣┃导航┃",
@@ -25,8 +24,7 @@
     {
       "key": "七新影视",
       "name": "🎦┃七新┃秒播┃",
-      "type": 3,
-      "jar": "https://bitbucket.org/ranli2000/tvbox/raw/main/jar/haoyang2.txt",    
+      "type": 3,  
       "api":"csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
@@ -38,24 +36,11 @@
       "name":"🎦┃九八┃秒播┃",
       "type":3,
       "api":"csp_XBPQ",
-      "jar": "https://bitbucket.org/ranli2000/tvbox/raw/main/jar/haoyang2.txt",
        "searchable":1,
       "quickSearch":1,
       "filterable":1,
       "ext":"https://bitbucket.org/ranli2000/tvbox/raw/0ce35dd06e1dc49f5a39d3149b13929ac5f3dae3/json/98%E5%BD%B1%E8%A7%86.json"
    },
-
-    {
-      "key": "南瓜",
-      "name": "🎃┃南瓜┃秒播┃",
-      "type": 3,
-      "api": "csp_NanGua",
-      "timeout": 15,
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
 
     {
       "key": "玩偶┃",
@@ -79,6 +64,7 @@
       "name": "⛅┃饭偶┃ 4K ┃",
       "type": 3,
       "api": "csp_WoGG",   
+      "jar": "https://bitbucket.org/ranli2000/tvbox/raw/main/jar/spider.txt",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
@@ -126,11 +112,13 @@
       "timeout": 25
     },
 
+
     {
       "key": "南瓜",
       "name": "🎃┃南瓜┃秒播┃",
       "type": 3,
       "api": "csp_NanGua",
+      "jar": "https://bitbucket.org/ranli2000/tvbox/raw/main/jar/spider.txt",
       "timeout": 15,
       "playerType": 2,
       "searchable": 1,
@@ -142,6 +130,7 @@
       "name": "💡┃酷看┃秒播┃",
       "type": 3,
       "api": "csp_Kkys",
+      "jar": "https://bitbucket.org/ranli2000/tvbox/raw/main/jar/spider.txt",
       "timeout": 15,
       "searchable": 1,
       "quickSearch": 1,
@@ -187,6 +176,7 @@
       "ext": "https://www.80yy3.com/",
       "jar": "https://bitbucket.org/ranli2000/tvbox/raw/main/jar/hao.txt"
     },
+
 
     {
       "key": "DiDuan",
