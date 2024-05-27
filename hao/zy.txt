@@ -45,8 +45,8 @@
    },
 
     {
-      "key": "配置中心ok",
-      "name": "🌥️┃配置中心",
+      "key": "配置中心",
+      "name": "🌥️┃配置┃中心┃",
       "type": 3,
       "api": "csp_Config",
       "jar": "https://bitbucket.org/ranli2000/tvbox/raw/main/jar/haoyang1.txt",
