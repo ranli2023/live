@@ -12,6 +12,16 @@
     }
   ],
 "sites":[
+
+    {
+      "key": "豆瓣",
+      "name": "🧧┃豆瓣┃导航┃",
+      "type": 3,
+      "api": "csp_DouDou",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0
+    },
     {
       "key": "七新影视",
       "name": "🎦┃七新┃秒播┃",
@@ -35,15 +45,6 @@
       "ext":"https://bitbucket.org/ranli2000/tvbox/raw/0ce35dd06e1dc49f5a39d3149b13929ac5f3dae3/json/98%E5%BD%B1%E8%A7%86.json"
    },
 
-    {
-      "key": "豆瓣",
-      "name": "🧧┃豆瓣┃导航┃",
-      "type": 3,
-      "api": "csp_DouDou",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
-    },
     {
       "key": "南瓜",
       "name": "🎃┃南瓜┃秒播┃",
