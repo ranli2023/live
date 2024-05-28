@@ -1,5 +1,5 @@
 {
-"spider": "https://bitbucket.org/ranli2000/tvbox/raw/main/jar/haoyang2.txt",
+"spider": "https://bitbucket.org/ranli2000/tvbox/raw/main/jar/spider.txt",
   "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
   "lives": [
     {
@@ -29,6 +29,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
+      "jar": "https://bitbucket.org/ranli2000/tvbox/raw/main/jar/haoyang2.txt",
       "ext": "https://bitbucket.org/ranli2000/tvbox/raw/017662ae305e733f08e696f63c083363fdfb0feb/json/%E4%B8%83%E6%96%B0%E5%BD%B1%E8%A7%86.json"
     },
    {
@@ -39,6 +40,7 @@
        "searchable":1,
       "quickSearch":1,
       "filterable":1,
+      "jar": "https://bitbucket.org/ranli2000/tvbox/raw/main/jar/haoyang2.txt",
       "ext":"https://bitbucket.org/ranli2000/tvbox/raw/68644bf09867803727577f0068e2879afaa4a4a0/json/98%E5%BD%B1%E8%A7%86.json"
    },
 

@@ -1,11 +1,11 @@
 {
-"spider": "https://bitbucket.org/ranli2000/tvbox/raw/main/jar/haoyang2.txt",
+"spider": "https://bitbucket.org/ranli2000/tvbox/raw/main/jar/spider.txt",
   "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
   "lives": [
     {
       "name": "live",
       "type": 0,
-      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/ranli2023/live/main/lives.json",
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/ranli2023/live/main/live.json",
       "playerType": 1,
       "epg": "http://epg.112114.eu.org/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/bingimg/logo/{name}.png"
@@ -17,6 +17,7 @@
       "name": "🎦┃七新┃秒播┃",
       "type": 3,  
       "api":"csp_XBPQ",
+      "jar": "https://bitbucket.org/ranli2000/tvbox/raw/main/jar/haoyang2.txt",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -27,6 +28,7 @@
       "name":"🎦┃九八┃秒播┃",
       "type":3,
       "api":"csp_XBPQ",
+      "jar": "https://bitbucket.org/ranli2000/tvbox/raw/main/jar/haoyang2.txt",
        "searchable":1,
       "quickSearch":1,
       "filterable":1,
