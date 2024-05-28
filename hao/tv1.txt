@@ -29,7 +29,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://bitbucket.org/ranli2000/tvbox/raw/ddaaff55498873331f35a2c1e41614f103a1a09f/json/%E4%B8%83%E6%96%B0%E5%BD%B1%E8%A7%86.json"
+      "ext": "https://bitbucket.org/ranli2000/tvbox/raw/3744862dafb0c5aa73ba49660cc95db4f08415a6/json/%E4%B8%83%E6%96%B0%E5%BD%B1%E8%A7%86.json"
     },
    {
      "key":"csp_xBPQ_九八",
@@ -39,7 +39,7 @@
        "searchable":1,
       "quickSearch":1,
       "filterable":1,
-      "ext":"https://bitbucket.org/ranli2000/tvbox/raw/ddaaff55498873331f35a2c1e41614f103a1a09f/json/98%E5%BD%B1%E8%A7%86.json"
+      "ext":"https://bitbucket.org/ranli2000/tvbox/raw/3744862dafb0c5aa73ba49660cc95db4f08415a6/json/98%E5%BD%B1%E8%A7%86.json"
    },
 
     {
