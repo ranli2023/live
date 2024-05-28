@@ -21,7 +21,7 @@
       "quickSearch": 0,
       "filterable": 0
     },
-    {
+     {
       "key": "七新影视",
       "name": "🎦┃七新┃秒播┃",
       "type": 3,  
@@ -29,7 +29,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://bitbucket.org/ranli2000/tvbox/raw/3744862dafb0c5aa73ba49660cc95db4f08415a6/json/%E4%B8%83%E6%96%B0%E5%BD%B1%E8%A7%86.json"
+      "ext": "https://bitbucket.org/ranli2000/tvbox/raw/9a7c05e10cc5453740958352800f61925b4aeaae/json/%E4%B8%83%E6%96%B0%E5%BD%B1%E8%A7%86.json"
     },
    {
      "key":"csp_xBPQ_九八",
@@ -39,8 +39,9 @@
        "searchable":1,
       "quickSearch":1,
       "filterable":1,
-      "ext":"https://bitbucket.org/ranli2000/tvbox/raw/3744862dafb0c5aa73ba49660cc95db4f08415a6/json/98%E5%BD%B1%E8%A7%86.json"
+      "ext":"https://bitbucket.org/ranli2000/tvbox/raw/9a7c05e10cc5453740958352800f61925b4aeaae/json/98%E5%BD%B1%E8%A7%86.json"
    },
+
 
     {
       "key": "玩偶┃",
