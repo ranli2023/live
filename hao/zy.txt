@@ -29,7 +29,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://bitbucket.org/ranli2000/tvbox/raw/c0d3efdffcb0772dd804f88906ff9f9576ee9cc2/json/%E4%B8%83%E6%96%B0%E5%BD%B1%E8%A7%86.json"
+      "ext": "https://bitbucket.org/ranli2000/tvbox/raw/ddaaff55498873331f35a2c1e41614f103a1a09f/json/%E4%B8%83%E6%96%B0%E5%BD%B1%E8%A7%86.json"
     },
    {
      "key":"csp_xBPQ_九八",
@@ -39,7 +39,7 @@
        "searchable":1,
       "quickSearch":1,
       "filterable":1,
-      "ext":"https://bitbucket.org/ranli2000/tvbox/raw/c0d3efdffcb0772dd804f88906ff9f9576ee9cc2/json/98%E5%BD%B1%E8%A7%86.json"
+      "ext":"https://bitbucket.org/ranli2000/tvbox/raw/ddaaff55498873331f35a2c1e41614f103a1a09f/json/98%E5%BD%B1%E8%A7%86.json"
    },
 
     {
@@ -203,18 +203,6 @@
       "jar": "https://bitbucket.org/ranli2000/tvbox/raw/main/jar/hao.txt"
     },
 
-    {
-      "key": "毛驴",
-      "name": "🍓┃毛驴┃直连┃",
-      "type": 3,
-      "api": "csp_MLYS",
-      "timeout": 15,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.maolvys.com/",
-      "jar": "https://bitbucket.org/ranli2000/tvbox/raw/main/jar/hao.txt"
-    },
    
  {
       "key": "Lib",
