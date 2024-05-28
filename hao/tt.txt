@@ -217,7 +217,7 @@
       "playerType": "1",
       "api": "https://bitbucket.org/ranli2000/tvbox/raw/28265f35d4546c6921fd7aef6e51692476c54d37/drpy2.min.js",
       "ext": "https://bitbucket.org/ranli2000/tvbox/raw/c76e9b2abf33f855f212698a10e81703166f3451/js/jp.js",
-      "jar": "https://bitbucket.org/ranli2000/tvbox/raw/main/jar/hao.txt"
+      "jar": "https://bitbucket.org/ranli2000/tvbox/raw/main/jar/fanzx.txt"
     },    
     {
       "key": "新6V",
