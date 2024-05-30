@@ -1,17 +1,26 @@
 {
-  "spider": "./haoyang2.txt",
+  "spider": "https://ghproxy.net/https://raw.githubusercontent.com/ranli2023/live/main/hao/haoyang2.txt",
   "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
   "lives": [
     {
       "name": "live",
       "type": 0,
-      "url": "./lib/live.json",
+      "url": "https://ghproxy.net/https://raw.githubusercontent.com/ranli2023/live/main/hao/lib/live.json",
       "playerType": 1,
       "epg": "http://epg.112114.eu.org/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/bingimg/logo/{name}.png"
     }
   ],
   "sites": [
+    {
+      "key": "豆瓣",
+      "name": "🧧┃豆瓣┃导航┃",
+      "type": 3,
+      "api": "csp_DouDou",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0
+    },
     {
       "key": "七新影视",
       "name": "🎦┃七新┃秒播┃",
@@ -20,7 +29,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/七新影视.json"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/ranli2023/live/main/hao/lib/七新影视.json"
     },
     {
       "key": "csp_xBPQ_九八",
@@ -30,14 +39,14 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/98影视.json"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/ranli2023/live/main/hao/lib/98影视.json"
     },
     {
       "key": "玩偶┃",
       "name": "👽┃玩偶┃弹幕┃",
       "type": 3,
       "api": "csp_Wogg",
-      "jar": "./lib/haoyang1.txt",
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/ranli2023/live/main/hao/lib/haoyang1.txt",
       "searchable": 1,
       "filterable": 1,
       "changeable": 1,
@@ -54,7 +63,7 @@
       "name": "⛅┃饭偶┃ 4K ┃",
       "type": 3,
       "api": "csp_WoGG",
-      "jar": "./lib/spider.txt",
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/ranli2023/live/main/hao/lib/spider.txt",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
@@ -71,7 +80,7 @@
       "name": "🥔┃土豆┃阿里┃",
       "type": 3,
       "api": "csp_Wobg",
-      "jar": "./lib/haoyang1.txt",
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/ranli2023/live/main/hao/lib/haoyang1.txt",
       "searchable": 1,
       "filterable": 1,
       "changeable": 1,
@@ -88,7 +97,7 @@
       "name": "🎦┃多多┃弹幕┃",
       "type": 3,
       "api": "csp_Wobg",
-      "jar": "./lib/haoyang1.txt",
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/ranli2023/live/main/hao/lib/haoyang1.txt",
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 1,
@@ -105,7 +114,7 @@
       "name": "🎃┃南瓜┃秒播┃",
       "type": 3,
       "api": "csp_NanGua",
-      "jar": "./lib/spider.txt",
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/ranli2023/live/main/hao/lib/spider.txt",
       "timeout": 15,
       "playerType": 2,
       "searchable": 1,
@@ -133,7 +142,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/好趣网.js"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/ranli2023/live/main/hao/lib/好趣网.js"
     },
     {
       "key": "YGP",
@@ -143,18 +152,15 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "jar": "./lib/hao.txt"
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/ranli2023/live/main/hao/lib/hao.txt"
     },
    {
       "key": "厂长",
       "name": "🏭┃厂长┃直连┃",
       "type": 3,
-      "playerType": "2",
-      "api": "csp_Czsapp",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://czzy.top/"
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/ranli2023/live/main/hao/lib/cz.jar",
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/ranli2023/live/main/hao/lib/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/ranli2023/live/main/hao/lib/厂长资源.js"
     },
     {
       "key": "Xinsj",
@@ -166,7 +172,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "https://www.80yy3.com/",
-      "jar": "./lib/hao.txt"
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/ranli2023/live/main/hao/lib/hao.txt"
     },
     {
       "key": "DiDuan",
@@ -177,7 +183,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "jar": "./lib/hao.txt"
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/ranli2023/live/main/hao/lib/hao.txt"
     },
     {
       "key": "Lib",
@@ -189,7 +195,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "https://www.libvio.pw/",
-      "jar": "./lib/hao.txt"
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/ranli2023/live/main/hao/lib/hao.txt"
     },
     {
       "key": "Auete",
@@ -201,7 +207,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "https://auete.pro/",
-      "jar": "./lib/hao.txt"
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/ranli2023/live/main/hao/lib/hao.txt"
     },
     {
       "key": "贱贱",
@@ -211,9 +217,9 @@
       "quickSearch": 1,
       "changeable": 1,
       "playerType": "1",
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/jp.js",
-      "jar": "./lib/hao.txt"
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/ranli2023/live/main/hao/lib/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/ranli2023/live/main/hao/lib/jp.js",
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/ranli2023/live/main/hao/lib/hao.txt"
     },
     {
       "key": "新6V",
@@ -224,7 +230,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": "http://www.xb6v.com/",
-      "jar": "./lib/hao.txt"
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/ranli2023/live/main/hao/lib/hao.txt"
     },
     {
       "key": "🦊YiSo",
@@ -295,7 +301,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/yps.json"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/ranli2023/live/main/hao/lib/yps.json"
     },
     {
       "key": "DOVX搜索",
@@ -306,7 +312,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/DOVX.json"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/ranli2023/live/main/hao/lib/DOVX.json"
     },
     {
       "key": "Upyunso",
@@ -345,12 +351,12 @@
       "key": "dr_荐片",
       "name": "🧲┃荐片┃解析┃",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/ranli2023/live/main/hao/lib/drpy2.min.js",
       "playerType": "1",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/荐片.js"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/ranli2023/live/main/hao/lib/荐片.js"
     },
     {
       "key": "88js",
@@ -363,14 +369,14 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "jar": "./lib/hao.txt"
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/ranli2023/live/main/hao/lib/hao.txt"
     },
     {
       "key": "csp_qiumi",
       "name": "⚽┃ Jrs ┃球迷┃",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/jrk.js",
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/ranli2023/live/main/hao/lib/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/ranli2023/live/main/hao/lib/jrk.js",
       "style": {
         "type": "rect",
         "ratio": 1
@@ -383,8 +389,8 @@
       "key": "csp_310直播",
       "name": "⚽┃ 310 ┃看球┃",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/310直播.js",
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/ranli2023/live/main/hao/lib/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/ranli2023/live/main/hao/lib/310直播.js",
       "style": {
         "type": "rect",
         "ratio": 1
@@ -397,11 +403,11 @@
       "key": "dr_虎牙直播",
       "name": "🐯┃虎牙┃直播┃",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/ranli2023/live/main/hao/lib/drpy2.min.js",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./lib/虎牙直播.js"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/ranli2023/live/main/hao/lib/虎牙直播.js"
     },
     {
       "key": "美食合集",
@@ -411,14 +417,14 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./lib/美食.json"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/ranli2023/live/main/hao/lib/美食.json"
     },
     {
       "key": "dr_兔小贝",
       "name": "📚┃儿童┃启蒙┃",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/儿童启蒙.js",
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/ranli2023/live/main/hao/lib/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/ranli2023/live/main/hao/lib/儿童启蒙.js",
       "style": {
         "type": "rect",
         "ratio": 1.597
@@ -435,7 +441,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./lib/幼小.json"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/ranli2023/live/main/hao/lib/幼小.json"
     },
     {
       "key": "小学",
@@ -445,7 +451,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./lib/小学.json"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/ranli2023/live/main/hao/lib/小学.json"
     },
     {
       "key": "初中",
@@ -455,7 +461,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./lib/初中.json"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/ranli2023/live/main/hao/lib/初中.json"
     },
     {
       "key": "高中",
@@ -465,7 +471,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./lib/高中.json"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/ranli2023/live/main/hao/lib/高中.json"
     },
     {
       "key": "外语",
@@ -479,7 +485,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "./lib/外语.json"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/ranli2023/live/main/hao/lib/外语.json"
     },
     {
       "key": "高考",
@@ -493,7 +499,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "./lib/高考.json"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/ranli2023/live/main/hao/lib/高考.json"
     },
     {
       "key": "设计",
@@ -503,7 +509,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./lib/jixie.json"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/ranli2023/live/main/hao/lib/jixie.json"
     },
     {
       "key": "Excel",
@@ -517,7 +523,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "./lib/Excel教程.json"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/ranli2023/live/main/hao/lib/Excel教程.json"
     },
     {
       "key": "戏曲",
@@ -527,7 +533,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./lib/戏曲.json"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/ranli2023/live/main/hao/lib/戏曲.json"
     },
     {
       "key": "应用商店",
@@ -536,8 +542,8 @@
       "api": "csp_Market",
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./lib/a.json"
-      "jar": "./lib/app.txt"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/ranli2023/live/main/hao/lib/a.json",
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/ranli2023/live/main/hao/lib/app.txt"
     },
     {
       "key": "qq",
