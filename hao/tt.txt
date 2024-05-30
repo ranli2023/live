@@ -1,5 +1,5 @@
 {
-"spider": "https://bitbucket.org/ranli2000/tvbox/raw/main/jar/spider.txt",
+"spider": "https://bitbucket.org/ranli2000/tvbox/raw/main/jar/haoyang2.txt",
   "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
   "lives": [
     {
@@ -12,6 +12,17 @@
     }
   ],
 "sites":[
+{
+"key":"南瓜",
+      "name": "🎃┃南瓜┃秒播┃",
+"type":3,
+"api":"https://bitbucket.org/ranli2000/tvbox/raw/28265f35d4546c6921fd7aef6e51692476c54d37/drpy2.min.js",
+"playerType":"1",
+"searchable":1,
+"quickSearch":1,
+"filterable":1,
+"ext":"https://bitbucket.org/ranli2000/tvbox/raw/2d7e0b9e823294cb2fc60752ea42a0926610135b/js/%E5%8D%97%E7%93%9C.js"
+},
     {
       "key": "七新影视",
       "name": "🎦┃七新┃秒播┃",
@@ -32,6 +43,7 @@
       "filterable":1,
       "ext":"https://bitbucket.org/ranli2000/tvbox/raw/bcda08e7bfac4e5630a8858d7a2c2b1a80abee96/json/98%E5%BD%B1%E8%A7%86.json"
    },
+
 
     {
       "key": "玩偶┃",
@@ -102,20 +114,6 @@
       },
       "timeout": 25
     },
-
-
-    {
-      "key": "南瓜",
-      "name": "🎃┃南瓜┃秒播┃",
-      "type": 3,
-      "api": "csp_NanGua",
-      "jar": "https://bitbucket.org/ranli2000/tvbox/raw/main/jar/spider.txt",
-      "timeout": 15,
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
     {
       "key": "酷看",
       "name": "💡┃酷看┃秒播┃",
@@ -181,7 +179,7 @@
       "jar": "https://bitbucket.org/ranli2000/tvbox/raw/main/jar/hao.txt"
     },
 
-   
+
  {
       "key": "Lib",
       "name": "🌟┃立播┃直连┃",
