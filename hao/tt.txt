@@ -163,7 +163,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://czzy.top/"
+      "ext": "https://czzy.top/",
       "jar": "./lib/hao.txt"
     },
     {
