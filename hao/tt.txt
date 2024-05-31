@@ -154,13 +154,17 @@
       "changeable": 0,
       "jar": "https://ghproxy.net/https://raw.githubusercontent.com/ranli2023/live/main/hao/lib/hao.txt"
     },
-   {
+    {
       "key": "厂长",
-      "name": "🏭┃厂长┃资源┃",
+      "name": "📔厂长┃直连",
       "type": 3,
-      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/ranli2023/live/main/hao/lib/cz.jar",
-      "api": "https://ghproxy.net/https://raw.githubusercontent.com/ranli2023/live/main/hao/lib/drpy2.min.js",
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/ranli2023/live/main/hao/lib/厂长资源.js"
+      "playerType": "2",
+      "api": "csp_Czsapp",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://czzy.top/"
+      "jar": "./lib/hao.txt"
     },
     {
       "key": "Xinsj",
