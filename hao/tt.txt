@@ -13,15 +13,6 @@
   ],
   "sites": [
     {
-      "key": "豆瓣",
-      "name": "🧧┃豆瓣┃导航┃",
-      "type": 3,
-      "api": "csp_DouDou",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
-    },
-    {
       "key": "七新影视",
       "name": "🎦┃七新┃秒播┃",
       "type": 3,
@@ -156,15 +147,14 @@
     },
     {
       "key": "厂长",
-      "name": "📔厂长┃直连",
+      "name": "📔┃厂长┃直连┃",
       "type": 3,
       "playerType": "2",
       "api": "csp_Czsapp",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://czzy.top/",
-      "jar": "./lib/hao.txt"
+      "ext": "https://czzy.top/"
     },
     {
       "key": "Xinsj",
