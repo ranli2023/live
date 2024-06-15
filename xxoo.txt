@@ -1,5 +1,4 @@
 {
-  "spider": "https://bitbucket.org/ranli2000/tvbox/raw/main/jar/hao.txt",
   "wallpaper": "https://tuapi.eees.cc/api.php?category=meinv&type=302",
   "lives": [
     {
