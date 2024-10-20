@@ -138,16 +138,7 @@
         "danmu": true
       }
     },
-    {
-      "key": "星芽短剧",
-      "name": "✨短┃剧✨ ",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/星芽短剧.js"
-    },
+
     {
       "key": "荐片",
       "name": "┃荐片┃解析┃",
