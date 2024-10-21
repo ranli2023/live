@@ -138,7 +138,15 @@
         "danmu": true
       }
     },
-
+    {
+      "key": "星芽短剧",
+      "name": "┃星芽┃短剧┃",
+      "type": 3,
+      "api": "csp_AppXY",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0
+    },
     {
       "key": "荐片",
       "name": "┃荐片┃解析┃",
@@ -224,6 +232,32 @@
       "ext": {
         "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
         "danmu": true
+      }
+    },
+    {
+      "key": "米搜",
+      "name": "┃米盘┃搜搜┃",
+      "type": 3,
+      "api": "csp_MIPanSo",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": {
+        "Cloud-drive": "tvfan/Cloud-drive.txt",
+        "from": "4k|auto"
+      }
+    },
+    {
+      "key": "抠搜",
+      "name": "┃抠抠┃搜搜┃",
+      "type": 3,
+      "api": "csp_KkSs",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": {
+        "Cloud-drive": "tvfan/Cloud-drive.txt",
+        "from": "4k|auto"
       }
     },
     {
