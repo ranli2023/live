@@ -1,0 +1,7 @@
+{ "storeHouse": [ 
+{ "sourceName": "🧡豪洋本地仓🧡","sourceUrl":"http://127.0.0.1:9978/file/tvboxhao/api.txt"},
+{ "sourceName": "🧡豪洋接口1🧡","sourceUrl":"http://ew4ky.avtk.cn/dc"},
+{ "sourceName": "🧡豪洋接口2🧡","sourceUrl":"http://ew4kn.avtk.cn/8d"},
+{ "sourceName": "🧡豪洋备用1🧡","sourceUrl":"http://ew4k3.avtk.cn/3f"},
+{ "sourceName": "🧡豪洋备用2🧡","sourceUrl":"http://ew4kp.ensl.cn/52"}
+]}
