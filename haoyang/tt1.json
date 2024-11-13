@@ -473,11 +473,10 @@
     {
       "name": "豪洋",
       "type": 0,
-      "url": "./lib/live.json",
+      "url": "https://live.kilvn.com/iptv.m3u",
       "playerType": 1,
-      "ua": "okhttp/3.15",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
+      "epg": "http://epg.112114.eu.org/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/bingimg/logo/{name}.png"
     },
     {
       "group": "redirect",
