@@ -1,31 +1,7 @@
-🇨🇳重庆频道,#genre#
-酉阳综合,http://qxlmlive9.cbg.cn/applive/youytv01/playlist.m3u8
-巫山综合,https://qxlmlive9.cbg.cn/applive/wspd001/chunklist.m3u8
-永川综合,https://qxlmlive9.cbg.cn/applive/yctv01/playlist.m3u8
-梁平综合,https://qxlmlive9.cbg.cn/applive/lplive01/chunklist.m3u8
-璧山综合,http://222.179.42.129:8181/hls1.m3u8
-大足综合,http://218.201.85.71:3170/m3u8
-荣昌综合,http://183.64.181.25:40023/rongchang01.m3u8
-荣昌综合,http://183.64.181.25:40023/rongchang01.m3u8?zzhongqd
-北碚综合,http://222.178.181.121:12034/beibei01.m3u8
-潼南综合,http://183.230.184.51:65500/tntv1.m3u8
-垫江综合http://125.62.24.185:80/1.m3u8
-万州综合,http://123.146.162.24:8013/tslslive/noEX9SG/hls/live_sd.m3u8
-万州综合,http://wanzhoulive.cbg.cn:8017/iTXwrGs/800/live.m3u8
-开州综合,https://qxlmlive9.cbg.cn/applive/kzpd01/chunklist.m3u8
-武隆综合,https://qxlmlive9.cbg.cn/applive/wltvzh/playlist.m3u8
-万州综合,http://123.146.162.24:8017/iTXwrGs/800/live.m3u8
-江津新闻综合,http://222.179.155.21:1935/ch1.m3u8
-北碚综合,http://222.178.181.121:12034/ts1
-重庆移动,http://qxlmlive9.cbg.cn/app_2/ls_58.stream/chunklist.m3u8
-垫江综合,http://125.62.24.185/1.m3u8
-梁平综合,https://qxlmlive9.cbg.cn/applive/lplive01/chunklist.m3u8
-巫山综合,https://qxlmlive9.cbg.cn/applive/wspd001/chunklist.m3u8
-永川综合https://qxlmlive9.cbg.cn/applive/yctv01/playlist.m3u8
-酉阳综合,http://qxlmlive9.cbg.cn/applive/youytv01/playlist.m3u8
-忠县综合,https://qxlmlive9.cbg.cn/applive/zxtv2/chunklist.m3u8
-//
 #EXTM3U x-tvg-url="https://live.kilvn.com/epg.xml.gz,https://e.erw.cc/all.xml.gz,http://epg.51zmt.top:8000/e.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+#EXTINF:14 aktv-server-group="AKTV" tvg-id="aktv/null-8" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", group-title="特别提醒", ipv6观看效果更好
+http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
+
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视频道",CCTV-1 综合
 http://[2409:8087:74d9:21::6]:80/270000001128/9900000001/index.m3u8
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视频道",CCTV-2 财经
