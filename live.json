@@ -24,7 +24,7 @@
 永川综合https://qxlmlive9.cbg.cn/applive/yctv01/playlist.m3u8
 酉阳综合,http://qxlmlive9.cbg.cn/applive/youytv01/playlist.m3u8
 忠县综合,https://qxlmlive9.cbg.cn/applive/zxtv2/chunklist.m3u8
-
+//
 #EXTM3U x-tvg-url="https://live.kilvn.com/epg.xml.gz,https://e.erw.cc/all.xml.gz,http://epg.51zmt.top:8000/e.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视频道",CCTV-1 综合
 http://[2409:8087:74d9:21::6]:80/270000001128/9900000001/index.m3u8
