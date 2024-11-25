@@ -1,6 +1,6 @@
 { "urls": [
         {
-            "url": "https://ghproxy.cc/https://raw.githubusercontent.com/ranli2023/live/refs/heads/main/haoyang/tt1.json",
+            "url": "https://ghproxy.cc/https://raw.githubusercontent.com/ranli2023/live/refs/heads/main/haoyang/api.json",
             "name": "豪洋"
         },
 
