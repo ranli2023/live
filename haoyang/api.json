@@ -179,16 +179,7 @@
       "filterable": 1,
       "ext": "http://api2.rinhome.com"
     },
-    {
-      "key": "糯米",
-      "name": "┃糯米┃秒播┃",
-      "type": 3,
-      "api": "csp_Nmyswv",
-      "timeout": 15,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
+
     {
       "key": "农民",
       "name": "┃农民┃影视┃",
