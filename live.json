@@ -128,38 +128,18 @@ http://[2409:8087:5e08:24::2]:6610/000000001000/5000000004000006673/index.m3u8?c
 CCTV-15 音乐,http://[2409:8087:5e08:24::2]:6610/000000001000/5000000011000031109/index.m3u8?channel-id=bestzb&Contentid=5000000011000031109&livemode=1&stbId=3
 CCTV-16 奥林匹克,http://[2409:8087:5e08:24::16]:6610/000000001000/1000000006000233001/index.m3u8?channel-id=ystenlive&Contentid=1000000006000233001&livemode=1&stbId=3
 CCTV-17 农业农村,http://[2409:8087:5e08:24::2]:6610/000000001000/1000000005000056836/index.m3u8?channel-id=ystenlive&Contentid=1000000005000056836&livemode=1&stbId=3
-CCTV-兵器科技,http://111.61.236.247:9081/hls/61/index.m3u8
-CCTV-第一剧场,http://58.19.38.162:9901/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-风云足球,http://58.19.38.162:9901/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-世界地理,http://111.61.236.247:9081/hls/62/index.m3u8
-CCTV-央视台球,http://222.169.41.210:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-央视高网,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000094/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000094
-CCTV-风云音乐,http://60.10.225.157:555/rtp/239.253.93.253:6431
-CCTV-风云剧场,http://60.10.225.157:555/rtp/239.253.93.251:6429
-CCTV-怀旧剧场,http://111.61.236.247:9081/hls/67/index.m3u8
-CCTV-文化精品,http://wouu.net:9977/udp/239.93.42.47:5140
-CCTV-女性时尚,http://111.61.236.247:9081/hls/59/index.m3u8
 
-CETV-1 综合教育
-http://[2409:8087:5e08:24::2]:6610/000000001000/5000000002000002652/index.m3u8?channel-id=bestzb&Contentid=5000000002000002652&livemode=1&stbId=3
-CETV-2 空中课堂
-http://[2409:8087:74d6:22::17]:6410/270000001128/9900000071/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000071
-CETV-3 教育服务
-http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001309/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CETV-4 职业教育
-http://[2409:8087:5e08:24::2]:6610/000000001000/5000000011000031126/index.m3u8?channel-id=bestzb&Contentid=5000000011000031126&livemode=1&stbId=3
-CGTN英语
-https://0472.org/hls/cgtn.m3u8
-CGTN记录
-https://0472.org/hls/cgtnd.m3u8
-CGTN俄语
-https://0472.org/hls/cgtne.m3u8
-CGTN法语
-https://0472.org/hls/cgtnf.m3u8
-CGTN西语
-https://0472.org/hls/cgtnx.m3u8
-CGTN阿语
-https://0472.org/hls/cgtna.m3u8
+
+CETV-1 综合教育http://[2409:8087:5e08:24::2]:6610/000000001000/5000000002000002652/index.m3u8?channel-id=bestzb&Contentid=5000000002000002652&livemode=1&stbId=3
+CETV-2 空中课堂http://[2409:8087:74d6:22::17]:6410/270000001128/9900000071/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000071
+CETV-3 教育服务http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001309/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CETV-4 职业教育http://[2409:8087:5e08:24::2]:6610/000000001000/5000000011000031126/index.m3u8?channel-id=bestzb&Contentid=5000000011000031126&livemode=1&stbId=3
+CGTN英语https://0472.org/hls/cgtn.m3u8
+CGTN记录https://0472.org/hls/cgtnd.m3u8
+CGTN俄语https://0472.org/hls/cgtne.m3u8
+CGTN法语https://0472.org/hls/cgtnf.m3u8
+CGTN西语https://0472.org/hls/cgtnx.m3u8
+CGTN阿语https://0472.org/hls/cgtna.m3u8
 
 🎦卫视频道,#genre#
 北京卫视,http://[2409:8087:5e08:24::2]:6610/000000001000/5000000004000031556/index.m3u8?channel-id=bestzb&Contentid=5000000004000031556&livemode=1&stbId=3
