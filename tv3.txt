@@ -2,7 +2,7 @@
   "urls": [
         {
             "url": "https://ghproxy.cc/https://raw.githubusercontent.com/ranli2023/live/refs/heads/main/haoyang/api.json",
-            "name": "豪洋"
+            "name": "🚀豪洋线路"
         },
     {
       "url": "http://7337.kstore.space/twvip/%E8%87%AA%E7%94%A8%E6%B5%8B%E8%AF%95.json",
