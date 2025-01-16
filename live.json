@@ -336,7 +336,10 @@ ViuTV6,http://107.167.12.58:27347/livehttpplay?channel_id=30033
 长城精品,http://38.64.72.148:80/hls/modn/list/4008/chunklist0.m3u8
 好消息综合台,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
 
-🎦台湾频道,#genre#
+
+🎦台湾频道_123456,#genre#
+
+中天新聞台,http://220.133.220.232:8580/http/220.130.214.23:8088/hls/78/80/ch63max.m3u8
 中天新闻台,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
 寰宇新聞台,http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
 公视戏剧,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/4gtv-4gtv042
