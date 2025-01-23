@@ -1,6 +1,6 @@
 { "urls": [
         {
-            "url": "https://ghproxy.cc/https://raw.githubusercontent.com/ranli2023/live/refs/heads/main/haoyang/api.json",
+            "url": "https://bitbucket.org/ranli2000/tvbox/raw/eff4c9fb3d0568beeef938b52be07e1fc367b93b/hao/api.json",
             "name": "豪洋"
         },
 
