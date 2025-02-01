@@ -206,24 +206,6 @@ CCTV-17,http://39.135.133.173:80/wh7f454c46tw2940686610_-691030560/ottrrs.hl.chi
 CGTN,http://39.135.133.157:80/wh7f454c46tw3231791700_-1378800757/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225604/index.m3u8
 CGTN记录,http://39.135.133.160:80/wh7f454c46tw3314979996_336973037/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225602/index.m3u8
 
-体育v4-爱尚,#genre#
-
-凌云之志,https://wxkdhls.mcloud.139.com/v3/hls/1610200357533650688/playlist.m3u8?ci=FswVBzbbqq1wByufaTiRGCqVNkPifar3c&fileSize=287588979&isNew=1&et=1738310184831&sign=ckHAcGYEumBXFihA1eNolyi5jVWMwSD6mwk-PkNLohyicDDXuqPzLq7XXYtrauSmHP2V2TTD2BzMoQaaxnnbMPqEjWZFJ0ytZClJF2c=&t=4&u=1040014768675521170&ot=personal&f=FswVBzbbqq1wByufaTiRGCqVNkPifar3c&oi=1040014768675521170&X-Amz-Expires=86400&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20250130T075624Z&X-Amz-SignedHeaders=host&X-Amz-Credential=Q2PNRN2OGHZQ1ZDF90XQ%2F20250130%2FZGVmYXVsdA%2Fdefault%2Faws4_request&X-Amz-Signature=5c3f27bcacd7b7003a2d5936f94397c3f8e84a88712306c93daa6956926a0bcd
-
-緯來體育,http://122.117.71.103:8562/http/61.222.53.250:8081/hls/67/809/ch28.m3u8
-广东体育,http://27.41.246.38:9003/hls/43/index.m3u8
-广东体育,http://27.41.246.38:9003/hls/750/index.m3u8
-广东体育,http://cdn2.163189.xyz/live/gdty/stream.m3u8
-广东体育,http://119.141.247.192:4022/rtp/239.77.0.168:5146
-广东体育,http://183.52.222.145:5130/rtp/239.77.0.168:5146
-广东体育,http://222.128.55.152:9080/live/gdty.m3u8
-广东体育,http://47.109.155.164/组播/广东.php?id=/udp/239.77.0.6:5146
-广东体育,http://47.109.155.164/组播/广东.php?id=/udp/239.77.1.97:5146
-广东体育,http://47.109.155.164/组播/广东.php?id=/udp/239.77.0.112:5146
-广东体育,http://47.109.155.164/组播/广东.php?id=/udp/239.77.0.168:5146
-CCTV5 台,http://27.41.246.38:9003/hls/8/index.m3u8
-CCTV5 台,http://150.158.112.123/%E5%85%AC%E4%BC%97%E5%8F%B7~%E7%8E%89%E7%8E%89%E8%BD%AF%E4%BB%B6%E5%BA%93/mg.php?id=cctv5
-CCTV5+台,http://150.158.112.123/%E5%85%AC%E4%BC%97%E5%8F%B7~%E7%8E%89%E7%8E%89%E8%BD%AF%E4%BB%B6%E5%BA%93/mg.php?id=cctv5p
 🎦港澳频道,#genre#
 
 凤凰资讯,http://cdn5.1678520.xyz/live/live2.1.php?id=fhzx
@@ -508,4 +490,4 @@ dj舞曲英雄泪,https://vd3.bdstatic.com/mda-mkt45tnypacz3smk/sc/cae_h264/1638
 
 
 🎦更新时间,#genre#
-25.01.26,
+25.02.01,
