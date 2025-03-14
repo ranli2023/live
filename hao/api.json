@@ -35,10 +35,11 @@
       "key": "csp_Douban",
       "name": "接口不在支持在线更新",
       "type": 3,
-      "api": "csp_Douban",
+      "api": "csp_DouDouGuard",
+      "indexs": 1,
       "searchable": 0,
       "quickSearch": 0,
-      "filterable": 0
+      "changeable": 0
     },
 
     {
