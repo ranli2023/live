@@ -44,7 +44,7 @@
 
     {
       "key": "config",
-         "jar": "https://gitee.com/ranmengrui/ranli/raw/master/hao1.jar", 
+         "jar": "https://gitee.com/ranmengrui/ranli/raw/master/mao.jar", 
       "name": "👍️┃配置┃中心┃",
       "type": 3,
       "api": "csp_Config",
@@ -137,7 +137,7 @@
       "key": "csp_FeiMaoUC",
       "name": "⚡┃闪电┃优汐┃",
       "type": 3,
-     "jar": "https://gitee.com/ranmengrui/ranli/raw/master/hao1.jar", 
+     "jar": "https://gitee.com/ranmengrui/ranli/raw/master/mao.jar", 
       "api": "csp_Duopan",
       "filterable": 1,
       "ext": {
@@ -151,7 +151,7 @@
     {
       "key": "csp_XMUC",
       "name": "🍚┃小米┃UC┃",
-     "jar": "https://gitee.com/ranmengrui/ranli/raw/master/hao1.jar", 
+     "jar": "https://gitee.com/ranmengrui/ranli/raw/master/mao.jar", 
       "type": 3,
       "api": "csp_Duopan",
       "filterable": 1,
