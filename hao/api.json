@@ -1,5 +1,5 @@
 {
-  "spider": "https://gitee.com/ranmengrui/ranli/raw/master/hao1.jar",
+  "spider": "https://gitee.com/ranmengrui/ranli/raw/master/hao.jar",
   "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
   "lives": [
     {
@@ -147,23 +147,7 @@
         "url_key": "FeiMaoUC"
       }
     },
-    {
-      "key": "csp_Duopan",
-      "name": "🖍︎┃蜡笔┃影视┃",
-     "jar": "https://gitee.com/ranmengrui/ranli/raw/master/hao1.jar", 
-      "type": 3,
-      "api": "csp_Duopan",
-      "filterable": 1,
-      "ext": {
-        "site_urls": [
-          "https://feimao666.fun",
-          "http://feimao888.fun",
-          "http://feimaoai.site",
-          "http://www.labi88.sbs"
-        ],
-        "url_key": "Duopan2"
-      }
-    },
+
     {
       "key": "csp_XMUC",
       "name": "🍚┃小米┃UC┃",
@@ -208,6 +192,7 @@
     {
       "key": "drpy_js_好趣网",
       "name": "📺︎┃电视┃直播┃",
+         "jar": "https://gitee.com/ranmengrui/ranli/raw/master/001.jar", 
       "type": 3,
       "api": "https://bitbucket.org/ranli2000/tvbox/raw/779b9e088a01586855e1a0b7d73f49a8666ddff4/%E8%B1%AA%E6%B4%8B/lib/drpy2.min.js",
       "changeable": 0,
@@ -272,6 +257,7 @@
     {
       "key": "云搜弹幕",
       "name": "🦊┃Up搜┃弹幕┃",
+         "jar": "https://gitee.com/ranmengrui/ranli/raw/master/001.jar", 
       "type": 3,
       "api": "csp_UpYun",
       "jar": "https://gitee.com/ranmengrui/ranli/raw/master/001.jar",
@@ -332,7 +318,8 @@
     {
       "key": "米搜",
       "name": "🦋┃米盘┃搜搜┃",
-      "type": 3,
+      "type": 3,        
+ "jar": "https://gitee.com/ranmengrui/ranli/raw/master/001.jar", 
       "api": "csp_MIPanSo",
       "searchable": 1,
       "quickSearch": 1,
@@ -345,6 +332,7 @@
     {
       "key": "抠搜",
       "name": "🍄┃抠抠┃搜搜┃",
+         "jar": "https://gitee.com/ranmengrui/ranli/raw/master/001.jar", 
       "type": 3,
       "api": "csp_KkSs",
       "searchable": 1,
@@ -359,6 +347,7 @@
     {
       "key": "dr_荐片",
       "name": "🧲┃荐片┃解析┃",
+         "jar": "https://gitee.com/ranmengrui/ranli/raw/master/001.jar", 
       "type": 3,
       "api": "https://bitbucket.org/ranli2000/tvbox/raw/779b9e088a01586855e1a0b7d73f49a8666ddff4/%E8%B1%AA%E6%B4%8B/lib/drpy2.min.js",
       "playerType": "1",
@@ -369,7 +358,8 @@
     },
     {
       "key": "88js",
-      "name": "⚽┃ 88┃看球┃",
+      "name": "⚽┃ 88┃看球┃",        
+ "jar": "https://gitee.com/ranmengrui/ranli/raw/master/001.jar", 
       "type": 3,
       "api": "https://bitbucket.org/ranli2000/tvbox/raw/779b9e088a01586855e1a0b7d73f49a8666ddff4/%E8%B1%AA%E6%B4%8B/lib/drpy2.min.js",
       "ext": "https://bitbucket.org/ranli2000/tvbox/raw/779b9e088a01586855e1a0b7d73f49a8666ddff4/%E8%B1%AA%E6%B4%8B/lib/88%E7%9C%8B%E7%90%83.js",
@@ -382,7 +372,8 @@
     },
     {
       "key": "csp_qiumi",
-      "name": "⚽┃ Jrs ┃球迷┃",
+      "name": "⚽┃ Jrs ┃球迷┃",         "jar": "https://gitee.com/ranmengrui/ranli/raw/master/001.jar", 
+
       "type": 3,
       "api": "https://bitbucket.org/ranli2000/tvbox/raw/779b9e088a01586855e1a0b7d73f49a8666ddff4/%E8%B1%AA%E6%B4%8B/lib/drpy2.min.js",
       "ext": "https://bitbucket.org/ranli2000/tvbox/raw/779b9e088a01586855e1a0b7d73f49a8666ddff4/%E8%B1%AA%E6%B4%8B/lib/jrk.js",
@@ -396,7 +387,9 @@
     },
     {
       "key": "csp_310直播",
-      "name": "⚽┃ 310 ┃看球┃",
+      "name": "⚽┃ 310 ┃看球┃",       
+  "jar": "https://gitee.com/ranmengrui/ranli/raw/master/001.jar", 
+
       "type": 3,
       "api": "https://bitbucket.org/ranli2000/tvbox/raw/779b9e088a01586855e1a0b7d73f49a8666ddff4/%E8%B1%AA%E6%B4%8B/lib/drpy2.min.js",
       "ext": "https://bitbucket.org/ranli2000/tvbox/raw/779b9e088a01586855e1a0b7d73f49a8666ddff4/%E8%B1%AA%E6%B4%8B/lib/310%E7%9B%B4%E6%92%AD.js",
@@ -411,6 +404,7 @@
     {
       "key": "dr_虎牙直播",
       "name": "🐯┃虎牙┃直播┃",
+         "jar": "https://gitee.com/ranmengrui/ranli/raw/master/001.jar", 
       "type": 3,
       "api": "https://bitbucket.org/ranli2000/tvbox/raw/779b9e088a01586855e1a0b7d73f49a8666ddff4/%E8%B1%AA%E6%B4%8B/lib/drpy2.min.js",
       "searchable": 0,
@@ -421,6 +415,7 @@
     {
       "key": "美食合集",
       "name": "🍸️┃美食┃合集┃",
+         "jar": "https://gitee.com/ranmengrui/ranli/raw/master/001.jar", 
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -431,6 +426,7 @@
      {
       "key": "设计",
       "name": "🗽┃设计┃教程┃",
+         "jar": "https://gitee.com/ranmengrui/ranli/raw/master/001.jar", 
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -441,6 +437,7 @@
     {
       "key": "Excel",
       "name": "🗽┃Excel┃教程┃",
+         "jar": "https://gitee.com/ranmengrui/ranli/raw/master/001.jar", 
       "type": 3,
       "api": "csp_Bili",
       "style": {
@@ -455,6 +452,7 @@
     {
       "key": "戏曲",
       "name": "📀┃哔哩┃戏曲┃",
+         "jar": "https://gitee.com/ranmengrui/ranli/raw/master/001.jar", 
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -464,7 +462,9 @@
     },
    {
       "key": "dr_兔小贝",
-      "name": "📚┃儿童┃启蒙┃",
+      "name": "📚┃儿童┃启蒙┃",         
+"jar": "https://gitee.com/ranmengrui/ranli/raw/master/001.jar", 
+
       "type": 3,
       "api": "https://bitbucket.org/ranli2000/tvbox/raw/779b9e088a01586855e1a0b7d73f49a8666ddff4/%E8%B1%AA%E6%B4%8B/lib/drpy2.min.js",
       "ext": "https://bitbucket.org/ranli2000/tvbox/raw/779b9e088a01586855e1a0b7d73f49a8666ddff4/%E8%B1%AA%E6%B4%8B/lib/%E5%84%BF%E7%AB%A5%E5%90%AF%E8%92%99.js",
@@ -479,6 +479,7 @@
     {
       "key": "少儿┃教育┃",
       "name": "📚┃少儿┃教育┃",
+         "jar": "https://gitee.com/ranmengrui/ranli/raw/master/001.jar", 
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -489,7 +490,9 @@
     {
       "key": "小学",
       "name": "📚┃小学┃教育┃",
-      "type": 3,
+
+      "type": 3,       
+  "jar": "https://gitee.com/ranmengrui/ranli/raw/master/001.jar", 
       "api": "csp_Bili",
       "searchable": 0,
       "quickSearch": 0,
@@ -499,7 +502,9 @@
     {
       "key": "初中",
       "name": "📚┃初中┃教育┃",
-      "type": 3,
+
+      "type": 3,       
+  "jar": "https://gitee.com/ranmengrui/ranli/raw/master/001.jar", 
       "api": "csp_Bili",
       "searchable": 0,
       "quickSearch": 0,
@@ -509,6 +514,7 @@
     {
       "key": "高中",
       "name": "📚┃高中┃教育┃",
+         "jar": "https://gitee.com/ranmengrui/ranli/raw/master/001.jar", 
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -519,6 +525,7 @@
     {
       "key": "外语",
       "name": "📚┃外语┃学堂┃",
+         "jar": "https://gitee.com/ranmengrui/ranli/raw/master/001.jar", 
       "type": 3,
       "api": "csp_Bili",
       "style": {
@@ -533,6 +540,7 @@
     {
       "key": "高考",
       "name": "📚┃学堂┃高考┃",
+         "jar": "https://gitee.com/ranmengrui/ranli/raw/master/001.jar", 
       "type": 3,
       "api": "csp_Bili",
       "style": {
