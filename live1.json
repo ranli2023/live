@@ -1,4 +1,6 @@
 🎦央卫综合1,#genre#
+CCTV-1综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
+CCTV-1综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
 CCTV-1综合,http://39.170.52.236:808/hls/1/index.m3u8
 CCTV-2财经,http://39.170.52.236:808/hls/2/index.m3u8
 CCTV-3综艺,http://39.170.52.236:808/hls/3/index.m3u8
@@ -16,9 +18,17 @@ CCTV14ᴴᴰ,http://39.170.52.236:808/hls/14/index.m3u8
 CCTV-15音乐,http://39.170.52.236:808/hls/15/index.m3u8
 CCTV16,http://39.170.52.236:808/hls/16/index.m3u8
 CCTV-17,http://39.170.52.236:808/hls/17/index.m3u8
-CHC动作电影 ,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002030/index.m3u8
-CHC家庭影院 ,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002028/index.m3u8
-CHC影迷电影 ,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002029/index.m3u8
+
+重庆卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8
+重庆卫视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5013&tk=2894ccdba8fc
+重庆卫视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=9200&tk=2894ccdba8fc
+重庆卫视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=4877&tk=2894ccdba8fc
+重庆卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.101:11111
+重庆卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.102:11111
+重庆卫视,http://223.241.247.214:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0%24LR%E2%80%A2IPV4%E3%80%8E%E7%BA%BF%E8%B7%AF80%E3%80%8F
+重庆卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225618/index.m3u8
+重庆卫视,http://36.32.174.67:60080/newlive/live/hls/34/live.m3u8
+重庆卫视,http://222.169.85.8:9901/tsfile/live/0142_1.m3u8
 重庆卫视,http://39.170.52.236:808/hls/34/index.m3u8
 浙江卫视,http://39.170.52.236:808/hls/18/index.m3u8
 辽宁卫视,http://39.170.52.236:808/hls/25/index.m3u8
