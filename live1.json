@@ -71,6 +71,8 @@ CCTV-17,http://39.170.52.236:808/hls/17/index.m3u8
 深圳卫视ᴴᴰ,http://39.170.52.236:808/hls/64/index.m3u8
 内蒙古卫视ᴴᴰ,http://39.170.52.236:808/hls/65/index.m3u8
 甘肃卫视ᴴᴰ,http://39.170.52.236:808/hls/66/index.m3u8
+
+
 🎦央卫视v4,#genre#
 CCTV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 CCTV2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
@@ -1939,7 +1941,6 @@ CCTV17,http://8.138.7.223/tv/mgitv.php?id=79
 山东卫视,http://39.170.52.236:808/hls/32/index.m3u8
 湖北卫视,http://39.170.52.236:808/hls/33/index.m3u8
 重庆卫视,http://39.170.52.236:808/hls/34/index.m3u8
-江苏卫视ᴴᴰ,http://39.170.52.236:808/hls/35/index.m3u8
 江西卫视,http://39.170.52.236:808/hls/36/index.m3u8
 四川卫视,http://39.170.52.236:808/hls/37/index.m3u8
 东南卫视,http://39.170.52.236:808/hls/38/index.m3u8
