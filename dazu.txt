@@ -1,6 +1,5 @@
 { "storeHouse": [ 
-{"sourceName": "🧡豪洋本地仓🧡","sourceUrl":"clan://localhost/tvboxhao/本地仓.txt"},
-{ "sourceName": "🧡豪洋备用接口1🧡","sourceUrl":"https://gh.jasonzeng.dev/https://raw.githubusercontent.com/ranli2023/live/refs/heads/main/tv2.json"},
-{ "sourceName": "🧡豪洋备用接口2🧡","sourceUrl":"https://gh.jasonzeng.dev/https://raw.githubusercontent.com/ranli2023/live/refs/heads/main/tv3.json"}
+{ "sourceName": "🧡豪洋接口🧡","sourceUrl":"https://gh.jasonzeng.dev/https://raw.githubusercontent.com/ranli2023/live/refs/heads/main/tv2.json"},
 
+{"sourceName": "🧡豪洋本地仓🧡","sourceUrl":"clan://localhost/tvboxhao/本地仓.txt"}
 ]}
