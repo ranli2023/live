@@ -2034,17 +2034,19 @@ INBM证券服务,http://vapi.91kds.cc/live1/cqyx.m3u8?id=zqfw&apiKey=73c963d1381
 
 📺港台频道,#genre#
 
+
+凤凰中文,http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.m3u8
+凤凰中文,http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.flv
 凤凰中文,http://qwt.zhibotv.top:2016/全网通.php?id=凤凰中文台
-凤凰中文,https://smart.pendy.dpdns.org/Smart.php?id=phoenixtv_hd
-凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G_audio.m3u8
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php
+凤凰资讯,http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8
+凤凰资讯,http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.flv
 凤凰资讯,http://qwt.zhibotv.top:2016/全网通.php?id=凤凰资讯台
-凤凰资讯,https://smart.pendy.dpdns.org/Smart.php?id=phoenixinfo_hd
-凤凰资讯,http://cdn3.132.us.kg/live/fhzx/stream.m3u8
 凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
+凤凰香港,http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.m3u8
+凤凰香港,http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.flv
 凤凰香港,http://qwt.zhibotv.top:2016/全网通.php?id=凤凰香港台
-凤凰香港,https://k44991.kylintv.tv/live/pxhkus_iphone.m3u8
-翡翠台,http://qwt.zhibotv.top:2016/全网通.php?id=翡翠台
+凤凰香港,http://qwt.zhibotv.top:2016/全网通.php?id=凤凰香港台,http://qwt.zhibotv.top:2016/全网通.php?id=翡翠台
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3&token=512df05ba47edb46400575c93e179adb7981226d414516400ed1d382cb126adc517715d4ccd3a2276bf3c7b72d52f58905225cf0b1cc461b7888443f
 翡翠台,http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
 翡翠台,http://v2h.jdshipin.com/jade2/jade.stream/chunklist_w100.m3u8
@@ -2053,9 +2055,10 @@ INBM证券服务,http://vapi.91kds.cc/live1/cqyx.m3u8?id=zqfw&apiKey=73c963d1381
 中天新闻,https://s1.m16tv.cfd/zhongtian/CH-0/AKTV.m3u8
 中天新闻,http://50.7.234.10:8278/ctinews/playlist.m3u8?tid=MB0B9546410395464103&ct=19249&tsum=30c62d7eec5ce9a49a64c3fa3ff8a8b7
 中天新闻,https://smart.pendy.dpdns.org/Smart.php?id=ctinews
-民视新闻http://aktv_stream1.m16tv.cfd/stream/taiwan/null-12/AKTV.m3u8
+民视新闻HD,http://aktv_stream1.m16tv.cfd/stream/taiwan/null-12/AKTV.m3u8
 民视新闻HD,http://198.16.100.186:8278/ftvnew_taiwan/playlist.m3u8?tid=MA7A6968320369683203&ct=19249&tsum=e3b040434ed43f12a738964a100a0e59
 
+寰宇新闻台,https://smart.pendy.dpdns.org/Smart.php?id=huanyuxinwen_twn
 东森新闻,https://s1.m16tv.cfd/zhongtian/CH-1/AKTV.m3u8
 非凡新闻台,https://smart.pendy.dpdns.org/Smart.php?id=feifannews_twn
 三立都会,https://live.tvfix.org/live/tvbsnews/1/v4000000/index.m3u8
