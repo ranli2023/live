@@ -2049,17 +2049,18 @@ INBM证券服务,http://vapi.91kds.cc/live1/cqyx.m3u8?id=zqfw&apiKey=73c963d1381
 凤凰香港,http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.flv
 凤凰香港,http://qwt.zhibotv.top:2016/全网通.php?id=凤凰香港台
 凤凰香港,http://qwt.zhibotv.top:2016/全网通.php?id=凤凰香港台,http://qwt.zhibotv.top:2016/全网通.php?id=翡翠台
-翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3&token=512df05ba47edb46400575c93e179adb7981226d414516400ed1d382cb126adc517715d4ccd3a2276bf3c7b72d52f58905225cf0b1cc461b7888443f
-翡翠台,http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
-翡翠台,http://v2h.jdshipin.com/jade2/jade.stream/chunklist_w100.m3u8
+翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
+翡翠台,https://pull-f5-spe.ixigua.com/yeslivetv.com/291403ea-fabd-4dc1-bdfa-f14ebe74411e/index.m3u8
+翡翠台,https://stream1.freetv.fun/1c0223fe93d3aaca762184373a28af2c274b504a8af9798d4aa3d06c65de3260.m3u8
 翡翠台,http://v2h.jdshipin.com:80/jade2/jade.stream/chunklist_w100.m3u8
 无线新闻台,http://qwt.zhibotv.top:2016/全网通.php?id=无线新闻台
+中天新闻,https://haoyunlai.serv00.net/Smartv-1.php?id=ctinews
 中天新闻,https://s1.m16tv.cfd/zhongtian/CH-0/AKTV.m3u8
-中天新闻,http://50.7.234.10:8278/ctinews/playlist.m3u8?tid=MB0B9546410395464103&ct=19249&tsum=30c62d7eec5ce9a49a64c3fa3ff8a8b7
+中天新闻,https://haoyunlai.serv00.net/Smartv-1.php?id=ctinews
 中天新闻,https://smart.pendy.dpdns.org/Smart.php?id=ctinews
-民视新闻HD,http://aktv_stream1.m16tv.cfd/stream/taiwan/null-12/AKTV.m3u8
+民视新闻HD,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 民视新闻HD,http://198.16.100.186:8278/ftvnew_taiwan/playlist.m3u8?tid=MA7A6968320369683203&ct=19249&tsum=e3b040434ed43f12a738964a100a0e59
-东森新闻,https://s1.m16tv.cfd/zhongtian/CH-1/AKTV.m3u8
+东森新闻,https://s2.m16tv.cfd/zhongtian/CH-1/AKTV.m3u8
 非凡新闻台,https://smart.pendy.dpdns.org/Smart.php?id=feifannews_twn
 三立都会,https://live.tvfix.org/live/tvbsnews/1/v4000000/index.m3u8
 天映电影,https://s1.m16tv.cfd/astro/celestialmovies/AKTV.m3u8
@@ -2069,6 +2070,7 @@ INBM证券服务,http://vapi.91kds.cc/live1/cqyx.m3u8?id=zqfw&apiKey=73c963d1381
 华视 CTS HD,https://smart.pendy.dpdns.org/Smart.php?id=ctshd_twn
 TVBS 欢乐台,https://smart.pendy.dpdns.org/Smart.php?id=tvbshuanle_twn
 龙华经典台,https://smart.pendy.dpdns.org/Smart.php?id=lunghuajingdian_twn
+TVBS新聞,http://50.7.234.10:8278/tvbs_n/playlist.m3u8?tid=MEFE5283322452833224&ct=19226&tsum=5f4e9bb0782ab3aae36328763cba2ffd
 TVBS新聞,https://s1.m16tv.cfd/tvbs/tvbs/AKTV.m3u8
 TVB Asia,https://smart.pendy.dpdns.org/Smart.php?id=Tvbasia
 靖天卡通台,https://smart.pendy.dpdns.org/Smart.php?id=jingtiancartoon_twn
