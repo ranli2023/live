@@ -1,0 +1,5 @@
+{ "storeHouse": [ 
+{"sourceName": "🧡豪洋本地仓🧡","sourceUrl":"clan://localhost/tvboxhao/本地仓.txt"},
+{ "sourceName": "🧡豪洋备用接口🧡","sourceUrl":"https://bitbucket.org/ranli2000/shu/raw/1816be3c7b1cb66b9e905c08f93f2ca8edbe0e50/hao/tv2.json"}
+
+]}
