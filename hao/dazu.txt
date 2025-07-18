@@ -1,5 +1,5 @@
 { "storeHouse": [ 
 {"sourceName": "🧡豪洋本地仓🧡","sourceUrl":"clan://localhost/tvbox/tv.txt"},
-{ "sourceName": "🧡豪洋在线多仓🧡","sourceUrl":"https://gh.jasonzeng.dev/https://raw.githubusercontent.com/ranli2023/live/refs/heads/main/dazu.txt"}
+{ "sourceName": "🧡豪洋在线多仓🧡","sourceUrl":"https://gh.jasonzeng.dev/https://raw.githubusercontent.com/ranli2023/live/refs/heads/main/tv2.json"}
 
 ]}
